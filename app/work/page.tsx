@@ -10,7 +10,8 @@ import { fadeIn } from "../variants";
 
 const Work = () => {
   return (
-    // Added overflow-hidden to prevent scrollbars from the circles
+    <main className="relative w-full h-screen overflow-y-scroll [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none]">
+    {/* Added overflow-hidden to prevent scrollbars from the circles */}
     <div className="h-full bg-primary/30 py-36 flex items-center relative overflow-hidden">
       {/* HEADER: Absolute Top */}
       <div className="absolute top-0 left-0 w-full z-50">
@@ -48,6 +49,7 @@ const Work = () => {
         <Circles />
       </div>
     </div>
+    </main>
   );
 };
 
