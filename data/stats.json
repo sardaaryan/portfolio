@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-07T20:50:08.891467",
-    "total_listening_time": "5h 39m",
+    "last_updated": "2026-03-08T08:55:49.746284",
+    "total_listening_time": "7h 51m",
     "top_artists": [
         {
             "artist_name": "Ditch Days",
@@ -12,15 +12,15 @@
         },
         {
             "artist_name": "The Weeknd",
+            "plays": 4
+        },
+        {
+            "artist_name": "Jhen\u00e9 Aiko",
             "plays": 3
         },
         {
-            "artist_name": "Just Friends",
-            "plays": 2
-        },
-        {
             "artist_name": "1takejay",
-            "plays": 2
+            "plays": 3
         }
     ],
     "top_genres": []
