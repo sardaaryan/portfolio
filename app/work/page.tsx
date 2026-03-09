@@ -1,54 +1,85 @@
 "use client";
 
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 import Bulb from "../../components/Bulb";
 import Circles from "../../components/Circles";
 import WorkSlider from "../../components/WorkSlider";
 import Header from "../../components/Header";
+import RotatingText from "../../components/RotatingText";
 import { fadeIn } from "../variants";
 
 const Work = () => {
   return (
     <main className="relative w-full h-screen overflow-y-scroll [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none] bg-primary/30">
-      {/* HEADER: Absolute Top */}
       <div className="absolute top-0 left-0 w-full z-50">
         <Header />
       </div>
 
-      {/* MAIN CONTENT WRAPPER 
-          Added pt-32 to clear the header on mobile.
-          Used min-h-screen to ensure it takes up the full viewport.
-      */}
       <div className="min-h-screen flex items-center justify-center pt-32 pb-24 xl:pt-0 relative overflow-hidden">
         <div className="container mx-auto z-10 px-4">
           
-          {/* FLEX ROW CONTAINER 
-              Added 'items-center' here so the text and list align perfectly in the middle on desktop.
-          */}
           <div className="flex flex-col xl:flex-row gap-x-8 items-center justify-between">
             
-            {/* TEXT SECTION */}
-            <div className="text-center flex flex-col lg:text-left w-full xl:w-[35%] mb-12 xl:mb-0">
+            {/* TEXT SECTION & STATUS FEED */}
+            <div className="text-center flex flex-col lg:text-left w-full xl:w-[40%] mb-12 xl:mb-0 relative">
+              
               <motion.h2 
                 variants={fadeIn("up", 0.2)} 
                 initial="hidden" 
                 animate="show" 
                 exit="hidden" 
-                // Replaced 'h2' class with explicit Tailwind typography for a clean, bold look
-                className="text-4xl md:text-5xl font-bold text-white mb-4 xl:mb-6 tracking-tight"
+                // Applied the hollow red neon styling here!
+                className="text-5xl md:text-6xl lg:text-7xl font-bold mb-4 xl:mb-6 tracking-tight text-transparent [-webkit-text-stroke:2px_#ff2a2a] [text-shadow:0_0_20px_rgba(255,42,42,0.8),_0_0_40px_rgba(255,42,42,0.4)]"
               >
-                My work <span className="text-accent">.</span>
+                My work <span className="text-white [-webkit-text-stroke:0px] [text-shadow:none]"></span>
               </motion.h2>
+              
               <motion.p 
                 variants={fadeIn("up", 0.4)} 
                 initial="hidden" 
                 animate="show" 
                 exit="hidden" 
-                className="max-w-[400px] mx-auto lg:mx-0 text-base md:text-lg text-white/70"
+                className="max-w-[400px] mx-auto lg:mx-0 text-base md:text-lg text-white/80 font-light"
               >
                 Here is a showcase of all the places that I&apos;ve had the pleasure to work at.
               </motion.p>
+
+              {/* Decorative Glowing Red Divider Line */}
+              <motion.div
+                variants={fadeIn("up", 0.5)}
+                initial="hidden"
+                animate="show"
+                exit="hidden"
+                className="h-[2px] w-[80%] max-w-[300px] mx-auto lg:mx-0 my-6 bg-gradient-to-r from-[#ff2a2a] to-transparent shadow-[0_0_15px_rgba(255,42,42,0.8)]"
+              />
+
+              {/* EAT SLEEP CODE + HAMSTER ROW */}
+              <motion.div
+                variants={fadeIn("up", 0.6)}
+                initial="hidden"
+                animate="show"
+                exit="hidden"
+                className="mt-6 md:mt-8 flex flex-row items-center justify-center lg:justify-start gap-4 md:gap-8 w-full"
+              >
+                {/* Text Side (Razor sharp neon Framer Motion component) */}
+                <RotatingText texts={["Eat", "Code", "Sleep"]} />
+
+                {/* GIF Side */}
+                <div className="relative w-[130px] md:w-[180px] flex-shrink-0 flex items-center justify-center">
+                  <Image 
+                    src="/hamster_wheel.gif" 
+                    alt="Automated Hamster Wheel" 
+                    width={200}
+                    height={200}
+                    unoptimized={true}
+                    // Added a subtle red glow behind the hamster to match the vibe
+                    className="w-full h-auto object-contain mix-blend-screen opacity-90 drop-shadow-[0_0_20px_rgba(255,42,42,0.3)]" 
+                  />
+                </div>
+              </motion.div>
+
             </div>
 
             {/* LIST SECTION */}
@@ -65,7 +96,6 @@ const Work = () => {
           </div>
         </div>
 
-        {/* BACKGROUND ELEMENTS */}
         <div className="absolute bottom-0 left-0 z-0">
           <Bulb />
         </div>
