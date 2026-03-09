@@ -1,29 +1,44 @@
 {
-    "last_updated": "2026-03-09T10:32:17.609926",
-    "total_listening_time": "2h 50m",
+    "last_updated": "2026-03-09T20:59:47.369039",
+    "total_listening_time": "3h 40m",
     "top_artists_weekly": [
         {
-            "artist_name": "Joaquin Phoenix",
-            "plays": 2
-        },
-        {
             "artist_name": "glaive",
-            "plays": 2
+            "plays": 21
         },
         {
             "artist_name": "Yeek",
             "plays": 2
         },
         {
-            "artist_name": "The Weeknd",
+            "artist_name": "Quadeca",
             "plays": 2
         },
         {
             "artist_name": "Joomanji",
             "plays": 2
+        },
+        {
+            "artist_name": "The Weeknd",
+            "plays": 2
         }
     ],
     "top_tracks_weekly": [
+        {
+            "track_name": "Bluebirds",
+            "artist_name": "glaive",
+            "plays": 2
+        },
+        {
+            "track_name": "Fuck",
+            "artist_name": "glaive",
+            "plays": 2
+        },
+        {
+            "track_name": "Appalachia",
+            "artist_name": "glaive",
+            "plays": 2
+        },
         {
             "track_name": "AlwaysHappy",
             "artist_name": "Yeek",
@@ -33,37 +48,22 @@
             "track_name": "For Once in My Life - Music From The Motion Picture",
             "artist_name": "Joaquin Phoenix",
             "plays": 2
-        },
-        {
-            "track_name": "Chasin (Afterlude) [feat. Saara Maria]",
-            "artist_name": "Joomanji",
-            "plays": 2
-        },
-        {
-            "track_name": "Dragonball Durag",
-            "artist_name": "Thundercat",
-            "plays": 1
-        },
-        {
-            "track_name": "Change (In the House of Flies)",
-            "artist_name": "Deftones",
-            "plays": 1
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "Y\u2019all",
             "artist_name": "glaive",
+            "plays": 21
+        },
+        {
+            "album_name": "Manj",
+            "artist_name": "Joomanji",
             "plays": 2
         },
         {
             "album_name": "AlwaysHappy",
             "artist_name": "Yeek",
-            "plays": 2
-        },
-        {
-            "album_name": "Manj",
-            "artist_name": "Joomanji",
             "plays": 2
         },
         {
