@@ -101,8 +101,19 @@
   }
 
   .animate-gradient {
-    background-size: 200% auto; /* High width allows it to "slide" */
-    animation: gradient-move 5s ease infinite;
+    /* 300% width gives the animation more "track" to slide on, 
+       making the Purple-Pink-Cyan transition much more obvious */
+    background-size: 300% 300%;
+    animation: gradient-move 8s ease infinite;
+  }
+
+  @keyframes border-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+  .animate-border-spin {
+    animation: border-spin 4s linear infinite;
   }
 }
 
