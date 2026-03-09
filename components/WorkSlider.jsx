@@ -2,139 +2,149 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import { useState } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { RxCross2 } from "react-icons/rx";
 import { BsArrowRight } from "react-icons/bs";
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination } from "swiper/modules";
 
-import "swiper/css";
-import "swiper/css/pagination";
+// Make sure your path to variants is correct based on your folder structure
+// You might need to adjust this import depending on exactly where variants.js lives relative to components/WorkSlider.jsx
+import { fadeIn } from "../app/variants"; 
 
-// DATA
-const workSlides = {
-  slides: [
-    {
-      images: [
-        {
-          title: "OdisAI",
-          path: "/thumb1.jpeg",
-          link: "https://odisai.net",
-        },
-        {
-          title: "Icarus Alpha",
-          path: "/thumb2.jpeg",
-          link: "https://icarusalpha.com",
-        },
-        {
-          title: "Handshake AI",
-          path: "/thumb3.jpeg",
-          link: "https://joinhandshake.com/",
-        },
-        {
-          title: "Hvantage Technologies",
-          path: "/thumb4.jpeg",
-          link: "https://www.hvantagetechnologies.com/",
-        },
-      ],
-    },
-    {
-      images: [
-        {
-          title: "OdisAI",
-          path: "/thumb1.jpeg",
-          link: "https://odisai.net",
-        },
-        {
-          title: "Icarus Alpha",
-          path: "/thumb2.jpeg",
-          link: "https://icarusalpha.com",
-        },
-        {
-          title: "Handshake AI",
-          path: "/thumb3.jpeg",
-          link: "https://joinhandshake.com/",
-        },
-        {
-          title: "Hvantage Technologies",
-          path: "/thumb4.jpeg",
-          link: "https://www.hvantagetechnologies.com/",
-        },
-      ],
-    },
-  ],
-};
+// FLATTENED DATA
+const workExperiences = [
+  {
+    title: "Icarus Alpha",
+    path: "/thumb1.jpeg",
+    link: "https://icarusalpha.com",
+    position: "Lead Software Engineer",
+    description: "Leading the redesign and modernization of website + underlying infrastructure",
+  },
+  {
+    title: "OdisAI",
+    path: "/thumb2.jpeg",
+    link: "https://odisai.net",
+    position: "Founding Engineer",
+    description: "Transcription of veterinary appointment audio into structured SOAP notes. Extracted, processed, and stored textbook data in vectorized DB(PostgreSQL via Supabase) for RAG use and implemented AWS Glue ETL pipelines for patient record + appointment data processing",
+  },
+  {
+    title: "Handshake AI",
+    path: "/thumb3.jpeg",
+    link: "https://joinhandshake.com/",
+    position: "AI Researcher",
+    description: "Fine-tuning LLMs via post-training RLHF",
+  },
+  {
+    title: "Hvantage Technologies",
+    path: "/thumb4.jpeg",
+    link: "https://www.hvantagetechnologies.com/",
+    position: "Software Engineer Intern",
+    description: "Worked on an Angular healthcare web app integrating Google Maps API with backend REST APIs to support route optimization for appointment scheduling while maintaining scalable+modular UI components.",
+  },
+];
 
 const WorkSlider = () => {
+  const [selectedIndex, setSelectedIndex] = useState(null);
+
+  const closeDescription = () => setSelectedIndex(null);
+
+  // Fallback animation in case fadeIn isn't perfectly linked
+  const defaultFade = {
+    hidden: { opacity: 0, y: 20 },
+    show: { opacity: 1, y: 0, transition: { duration: 0.4 } },
+  };
+
   return (
-    <Swiper
-      spaceBetween={10}
-      pagination={{
-        clickable: true,
-      }}
-      modules={[Pagination]}
-      className="h-auto" 
-      // Optional: You can override swiper CSS variables here to fine-tune the dots
-      style={{
-         "--swiper-pagination-bottom": "0rem",
-         "--swiper-pagination-bullet-inactive-color": "#999999",
-      }}
-    >
-      {workSlides.slides.map((slide, index) => (
-        <SwiperSlide key={index}>
-          {/* GRID CONTAINER: 
-             Added 'mb-12' (margin-bottom: 3rem). 
-             This pushes the grid up, leaving empty space at the bottom of the 
-             slider container for the pagination dots to sit in.
-          */}
-          <div className="grid grid-cols-2 grid-rows-2 gap-5 w-full max-w-[480px] mx-auto mb-12 cursor-pointer">
-            {slide.images.map((image, imageIndex) => (
-              <div
-                className="relative rounded-[20px] overflow-hidden flex items-center justify-center group bg-pink-50/10 aspect-square"
-                key={imageIndex}
+    <div className="w-full h-full flex flex-col justify-center">
+      <AnimatePresence mode="wait">
+        {selectedIndex === null ? (
+          /* --- LIST VIEW --- */
+          <motion.div
+            key="list"
+            initial="hidden"
+            animate="show"
+            exit={{ opacity: 0, y: -20, transition: { duration: 0.2 } }}
+            className="flex flex-col gap-y-4 max-w-[600px] mx-auto w-full"
+          >
+            {workExperiences.map((experience, index) => (
+              <motion.div
+                key={index}
+                // Using a custom delay for a staggered list entrance
+                variants={fadeIn ? fadeIn("up", index * 0.1) : defaultFade}
+                className="flex flex-row items-center gap-x-6 border border-white/10 rounded-2xl p-4 bg-pink-50/5 hover:bg-pink-50/10 transition-colors cursor-pointer group"
+                onClick={() => setSelectedIndex(index)}
               >
-                <div className="flex items-center justify-center relative overflow-hidden group w-full h-full">
-                  {/* IMAGE */}
-                  <div className="relative w-full h-full">
-                    <Image
-                      src={image.path}
-                      alt={image.title}
-                      fill
-                      className="object-cover group-hover:scale-110 transition-transform duration-700 ease-in-out"
-                    />
-                  </div>
-
-                  {/* OVERLAY */}
-                  <div
-                    className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-all duration-500"
-                    aria-hidden
+                {/* Image Thumbnail */}
+                <div className="relative w-24 h-24 sm:w-32 sm:h-32 rounded-xl overflow-hidden shrink-0">
+                  <Image
+                    src={experience.path}
+                    alt={experience.title}
+                    fill
+                    className="object-cover group-hover:scale-110 transition-transform duration-500 ease-in-out"
                   />
+                </div>
 
-                  {/* TEXT CONTENT */}
-                  <div className="absolute bottom-0 translate-y-full group-hover:-translate-y-6 transition-all duration-300 w-full text-center px-2">
-                    <Link
-                      href={image.link}
-                      target="_blank"
-                      rel="noreferrer noopener"
-                      className="flex flex-col items-center gap-y-1 tracking-[0.2em]"
-                    >
-                      {/* Title */}
-                      <div className="delay-100 text-[11px] sm:text-[13px] font-bold uppercase text-white tracking-widest shadow-sm">
-                        {image.title}
-                      </div>
-
-                      {/* View Project */}
-                      <div className="flex items-center gap-x-2 text-[10px] sm:text-[11px] translate-y-[500%] group-hover:translate-y-0 transition-all duration-300 delay-150 text-accent font-semibold">
-                        <span>VIEW</span>
-                        <BsArrowRight className="text-sm" aria-hidden />
-                      </div>
-                    </Link>
+                {/* Text Layout */}
+                <div className="flex-1 flex flex-col justify-center">
+                  <h3 className="text-lg sm:text-xl font-bold text-white uppercase tracking-widest mb-1">
+                    {experience.title}
+                  </h3>
+                  <div className="text-accent font-semibold text-sm sm:text-base mb-2">
+                    {experience.position}
+                  </div>
+                  <div className="flex items-center gap-x-2 text-[11px] text-white/50 group-hover:text-accent transition-colors duration-300 uppercase tracking-wider font-semibold">
+                    <span>View Details</span>
+                    <BsArrowRight className="text-sm" aria-hidden />
                   </div>
                 </div>
-              </div>
+              </motion.div>
             ))}
-          </div>
-        </SwiperSlide>
-      ))}
-    </Swiper>
+          </motion.div>
+        ) : (
+          /* --- DETAIL/DESCRIPTION VIEW --- */
+          <motion.div
+            key="details"
+            initial={{ opacity: 0, scale: 0.95 }}
+            animate={{ opacity: 1, scale: 1, transition: { duration: 0.3 } }}
+            exit={{ opacity: 0, scale: 0.95, transition: { duration: 0.2 } }}
+            className="relative bg-[#1e1e24]/80 backdrop-blur-md p-6 sm:p-10 rounded-3xl border border-accent/50 max-w-[600px] mx-auto w-full shadow-2xl"
+          >
+            {/* Close Button */}
+            <button
+              onClick={closeDescription}
+              className="absolute top-4 right-4 sm:top-6 sm:right-6 text-white/70 hover:text-accent text-2xl transition-colors"
+              aria-label="Close details"
+            >
+              <RxCross2 />
+            </button>
+
+            {/* Header: Title & Position */}
+            <h3 className="text-2xl sm:text-3xl font-bold text-white uppercase tracking-widest mb-2 pr-8">
+              {workExperiences[selectedIndex].title}
+            </h3>
+            <h4 className="text-accent font-semibold text-lg sm:text-xl mb-6">
+              {workExperiences[selectedIndex].position}
+            </h4>
+
+            {/* Description */}
+            <p className="text-white/80 leading-relaxed text-sm sm:text-base mb-8">
+              {workExperiences[selectedIndex].description}
+            </p>
+
+            {/* External Link */}
+            <Link
+              href={workExperiences[selectedIndex].link}
+              target="_blank"
+              rel="noreferrer noopener"
+              className="inline-flex items-center gap-x-2 text-sm font-bold uppercase tracking-widest text-white hover:text-accent transition-colors border-b border-transparent hover:border-accent pb-1"
+            >
+              <span>Visit Company Site</span>
+              <BsArrowRight className="text-lg" aria-hidden />
+            </Link>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </div>
   );
 };
 
