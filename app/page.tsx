@@ -10,15 +10,16 @@ import { fadeIn } from "./variants";
 export default function Home() {
   return (
     <main className="relative w-full h-screen overflow-y-scroll [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none]">
+      
       {/* --- 1. THE FIXED BACKGROUND LAYER --- */}
       {/* This sits behind everything (z-[-10]) and stays fixed while you scroll. */}
-      <div className="fixed inset-0 z-[-10] w-full h-full">
+      <div className="fixed inset-0 z-[-10] w-full h-full pointer-events-none">
         {/* Spider-Punk Poster Matching Gradient */}
         <div className="absolute inset-0 bg-gradient-to-br from-sky-600 via-slate-900 to-rose-500" />
 
-        {/* The Noise/Grain Texture (Optional: Adds that comic book grit) */}
+        {/* The Noise/Grain Texture */}
         <div
-          className="absolute inset-0 opacity-20 mix-blend-overlay pointer-events-none"
+          className="absolute inset-0 opacity-20 mix-blend-overlay"
           style={{
             backgroundImage: `url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.065' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='1'/%3E%3C/svg%3E")`,
           }}
@@ -27,77 +28,99 @@ export default function Home() {
         <ParticlesContainer />
       </div>
 
-      {/* --- 2. SCROLLABLE CONTENT --- */}
-      {/* min-h-screen ensures it fills the view, but 'relative' allows it to grow/scroll */}
-      <div className="relative min-h-screen w-full">
+      {/* --- 2. HEADER --- */}
+      {/* Absolute positioned at the top so it doesn't interfere with flex centering */}
+      <div className="absolute top-0 left-0 w-full z-50">
         <Header />
+      </div>
 
-        {/* Content Wrapper */}
-        <div className="w-full h-full">
-          {/* Text Section */}
-          <div className="w-full h-full xl:min-h-screen flex flex-col justify-center">
-            {/* Added xl:min-h-screen to center text on desktop, but allow scroll on mobile */}
-            <div className="text-center flex flex-col justify-center xl:pt-40 xl:text-left container mx-auto z-10 relative pb-20 xl:pb-0">
-              {/* title */}
-              <motion.h1 variants={fadeIn("down", 0.2)} initial="hidden" animate="show" exit="hidden" className="h1">
-                Aryan Sarda <br />
-              </motion.h1>
-              <motion.p variants={fadeIn("down", 0.2)} initial="hidden" animate="show" exit="hidden" className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-6">
-                <br />
-                B.S: Computer Science & B.A: Economics(Specialization: Data Analytics)
-              </motion.p>
+      {/* --- 3. EXPLOSION BACKGROUND (Desktop Only) --- */}
+      {/* Kept your original explosion texture, locked to the right side */}
+      <div 
+        role="img" 
+        className="fixed right-0 bottom-0 w-full xl:w-[1280px] h-full bg-none xl:bg-explosion xl:bg-cover xl:bg-right xl:bg-no-repeat mix-blend-color-dodge translate-z-0 pointer-events-none z-[-5]" 
+        aria-hidden 
+      />
 
-              {/* subtitle */}
-              <motion.p variants={fadeIn("down", 0.3)} initial="hidden" animate="show" exit="hidden" className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-6">
-                Graduate from UC Davis with hands-on experience building healthcare, AI, and cloud-based systems. Completed a double major in three and a half years while designing and developing scalable distributed applications spanning full-stack development, data pipelines, and AI platforms.
-              </motion.p>
-
-              <motion.p variants={fadeIn("down", 0.4)} initial="hidden" animate="show" exit="hidden" className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-6">
-                Currently conducting contract-based AI research at Handshake AI and leading frontend modernization efforts for Icarus Alpha Inc. Hold three AWS certifications: Cloud Practitioner, AI Practitioner, and Data Engineer Associate. NVIDIA AI Infrastructure and Operations Certified
-              </motion.p>
-
-              <motion.p variants={fadeIn("down", 0.4)} initial="hidden" animate="show" exit="hidden" className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16">
-                Actively seeking Software Engineering and AI/Data Engineering roles.
-              </motion.p>
-
-              {/* btn */}
-              <div className="flex justify-center xl:hidden relative z-20">
-                <ProjectsBtn />
-              </div>
-              <motion.div variants={fadeIn("down", 0.4)} initial="hidden" animate="show" exit="hidden" className="hidden xl:flex">
-                <ProjectsBtn />
-              </motion.div>
-            </div>
-          </div>
-
-          {/* --- 3. THE IMAGE LAYER --- */}
-
-          {/* ISSUE FIX: If you want to scroll for the image overflow,
-
-             it cannot be 'absolute' on small screens.
-
-          */}
-
-          <div className="w-full xl:w-[1280px] h-full absolute right-0 bottom-0 pointer-events-none">
-            {/* Background Texture/Explosion */}
-
-            <div role="img" className="bg-none xl:bg-explosion xl:bg-cover xl:bg-right xl:bg-no-repeat w-full h-full absolute mix-blend-color-dodge translate-z-0" aria-hidden />
-
-            {/* Avatar / Poster Image */}
-
-            <motion.div
-              variants={fadeIn("up", 0.5)}
-              initial="hidden"
-              animate="show"
+      {/* --- 4. MAIN SCROLLABLE CONTENT --- */}
+      {/* Added pt-32 to push content below the absolute header on mobile. */}
+      <div className="relative min-h-screen flex items-center justify-center pt-32 pb-24 lg:pt-0 z-10 w-full">
+        
+        {/* FLEX ROW/COLUMN CONTAINER */}
+        <div className="container mx-auto px-4 flex flex-col lg:flex-row items-center justify-between gap-y-12 lg:gap-x-12">
+          
+          {/* --- LEFT SIDE: TEXT --- */}
+          <div className="w-full lg:w-[55%] flex flex-col justify-center text-center lg:text-left z-20">
+            
+            {/* Name */}
+            <motion.h1 
+              variants={fadeIn("down", 0.2)} 
+              initial="hidden" 
+              animate="show" 
               exit="hidden"
-              transition={{ duration: 1, ease: "easeInOut" }}
-              // Updated positioning logic:
-
-              className="w-full h-full max-w-[737px] max-h-[678px] absolute -bottom-32 lg:bottom-0 lg:right-[8%]"
+              className="text-5xl md:text-6xl lg:text-7xl font-extrabold text-white mb-2 tracking-tight drop-shadow-lg"
             >
-              <Grad />
+              Aryan Sarda
+            </motion.h1>
+
+            {/* Degree / Subtitle */}
+            <motion.p 
+              variants={fadeIn("down", 0.3)} 
+              initial="hidden" 
+              animate="show" 
+              exit="hidden"
+              className="text-accent text-sm md:text-base font-bold mb-6 uppercase tracking-widest"
+            >
+              B.S: Computer Science & B.A: Economics (Data Analytics)
+            </motion.p>
+
+            {/* Bio Paragraphs */}
+            <motion.div 
+              variants={fadeIn("down", 0.4)} 
+              initial="hidden" 
+              animate="show" 
+              exit="hidden"
+              className="flex flex-col gap-y-4 max-w-[550px] mx-auto lg:mx-0 text-white/80 text-sm md:text-base leading-relaxed font-light mb-8"
+            >
+              <p>
+                Graduate from UC Davis with hands-on experience building healthcare, AI, and cloud-based systems. Completed a double major in three and a half years while designing and developing scalable distributed applications spanning full-stack development, data pipelines, and AI platforms.
+              </p>
+              <p>
+                Currently conducting contract-based AI research at Handshake AI and leading frontend modernization efforts for Icarus Alpha Inc. Hold three AWS certifications: Cloud Practitioner, AI Practitioner, and Data Engineer Associate. NVIDIA AI Infrastructure and Operations Certified.
+              </p>
+              <p className="font-medium text-white/90">
+                Actively seeking Software Engineering and AI/Data Engineering roles.
+              </p>
+            </motion.div>
+
+            {/* Projects Button */}
+            <motion.div 
+              variants={fadeIn("up", 0.6)} 
+              initial="hidden" 
+              animate="show" 
+              exit="hidden"
+              className="flex justify-center lg:justify-start"
+            >
+              <ProjectsBtn />
             </motion.div>
           </div>
+
+          {/* --- RIGHT SIDE: IMAGE --- */}
+          {/* Sits in the normal flow so it drops nicely below the text on mobile */}
+          <motion.div 
+            variants={fadeIn("up", 0.5)} 
+            initial="hidden" 
+            animate="show" 
+            exit="hidden"
+            transition={{ duration: 1, ease: "easeInOut" }}
+            className="w-full lg:w-[45%] flex justify-center lg:justify-end z-20 relative"
+          >
+            {/* Container for your Grad component */}
+            <div className="w-full max-w-[500px] lg:max-w-[737px] relative flex justify-center items-center">
+               <Grad />
+            </div>
+          </motion.div>
+
         </div>
       </div>
     </main>
