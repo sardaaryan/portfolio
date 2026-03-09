@@ -1,22 +1,20 @@
 import Header from "../../components/Header"; 
 import SpotifyStats from "../../components/SpotifyStats";
+import StravaStats from "../../components/StravaStats"; 
 
 import spotifyData from "../../data/stats.json"; 
+import stravaData from "../../data/metrics.json"; 
 
 export default function About() {
-
   return (
-    <main className="relative min-h-screen w-full overflow-y-scroll [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none] bg-primary/30">
-      {/* HEADER */}
+    <main className="relative min-h-screen w-full overflow-y-scroll no-scrollbar bg-primary/30">
       <div className="absolute top-0 left-0 w-full z-50">
         <Header />
       </div>
 
-      {/* MAIN CONTENT WRAPPER */}
       <div className="min-h-screen flex flex-col pt-32 pb-24 relative overflow-hidden">
         <div className="container mx-auto z-10 px-4 flex flex-col gap-y-12">
           
-          {/* PAGE TITLE */}
           <div className="text-center lg:text-left mt-8 xl:mt-12">
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-4 tracking-tight">
               About Me <span className="text-accent">.</span>
@@ -26,9 +24,9 @@ export default function About() {
             </p>
           </div>
 
-          {/* DASHBOARD GRID */}
           <div className="w-full flex flex-col gap-y-8">
             <SpotifyStats data={spotifyData} />
+            <StravaStats data={stravaData} />
           </div>
 
         </div>
