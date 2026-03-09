@@ -25,3 +25,37 @@ h1 {
   font-size: 4rem;
   font-weight: bold;
 }
+
+/* =========================================
+   GLOBAL CUSTOM CURSOR & APP-LIKE BEHAVIOR
+   ========================================= */
+
+/* 1. Force the music note and kill the I-beam on ALL elements, including text */
+* {
+  cursor: url("data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2232%22%20height%3D%2232%22%3E%3Ctext%20y%3D%2224%22%20font-size%3D%2224%22%3E%F0%9F%8E%B5%3C%2Ftext%3E%3C%2Fsvg%3E") 16 16, auto !important;
+  
+  /* Disables text selection across the board */
+  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  user-select: none !important;
+
+  -webkit-user-drag: none !important;
+}
+
+/* 2. THE NUCLEAR OPTION: Specifically target text-heavy elements to ensure 
+      the browser doesn't switch to the 'text' cursor (I-beam) */
+p, h1, h2, h3, h4, h5, h6, span, div, section, article {
+  cursor: url("data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2232%22%20height%3D%2232%22%3E%3Ctext%20y%3D%2224%22%20font-size%3D%2224%22%3E%F0%9F%8E%B5%3C%2Ftext%3E%3C%2Fsvg%3E") 16 16, auto !important;
+}
+
+/* 3. Standard pointer for links and buttons */
+a, button, [role="button"], a *, button * {
+  cursor: pointer !important;
+}
+
+/* 4. Keep actual form inputs functional */
+input, textarea {
+  cursor: text !important;
+  user-select: auto !important;
+}

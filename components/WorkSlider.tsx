@@ -8,7 +8,6 @@ import { RxCross2 } from "react-icons/rx";
 import { BsArrowRight } from "react-icons/bs";
 
 // Make sure your path to variants is correct based on your folder structure
-// You might need to adjust this import depending on exactly where variants.js lives relative to components/WorkSlider.jsx
 import { fadeIn } from "../app/variants"; 
 
 // FLATTENED DATA
@@ -44,7 +43,7 @@ const workExperiences = [
 ];
 
 const WorkSlider = () => {
-  const [selectedIndex, setSelectedIndex] = useState(null);
+  const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
 
   const closeDescription = () => setSelectedIndex(null);
 
@@ -80,6 +79,8 @@ const WorkSlider = () => {
                     src={experience.path}
                     alt={experience.title}
                     fill
+                    // ADDED SIZES PROP HERE to fix the Next.js warning
+                    sizes="(max-width: 640px) 96px, 128px"
                     className="object-cover group-hover:scale-110 transition-transform duration-500 ease-in-out"
                   />
                 </div>

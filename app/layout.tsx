@@ -1,6 +1,7 @@
 import { Inter } from "next/font/google";
 import type { Metadata } from "next";
 import "./globals.css";
+import MouseTrail from "../components/MouseTrail";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -19,7 +20,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="scroll-smooth">
-      <body className={`${inter.className} antialiased`}>{children}</body>
+      <body className={`${inter.className} antialiased`}>
+        {/* --- MOUSE TRAIL COMPONENT (Drops the 👣 emojis) --- */}
+        <MouseTrail />
+        {children}
+        </body>
     </html>
   );
 }

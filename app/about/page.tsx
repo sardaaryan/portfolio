@@ -1,14 +1,12 @@
-import Header from "../../components/Header"; // Adjust paths based on your actual folder setup
+import Header from "../../components/Header"; 
 import SpotifyStats from "../../components/SpotifyStats";
 
-// Directly import the JSON data. 
-// Webpack/Next.js handles this automatically.
 import spotifyData from "../../data/stats.json"; 
 
 export default function About() {
+
   return (
     <main className="relative min-h-screen w-full overflow-y-scroll [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none] bg-primary/30">
-      
       {/* HEADER */}
       <div className="absolute top-0 left-0 w-full z-50">
         <Header />
@@ -30,11 +28,7 @@ export default function About() {
 
           {/* DASHBOARD GRID */}
           <div className="w-full flex flex-col gap-y-8">
-            {/* Spotify Pipeline Component */}
             <SpotifyStats data={spotifyData} />
-            
-            {/* Future Strava Component will go here! */}
-            {/* <StravaStats data={stravaData} /> */}
           </div>
 
         </div>
