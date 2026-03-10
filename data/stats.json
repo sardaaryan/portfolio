@@ -1,42 +1,42 @@
 {
-    "last_updated": "2026-03-10T09:08:33.742630",
-    "total_listening_time": "4h 46m",
+    "last_updated": "2026-03-10T20:58:45.424454",
+    "total_listening_time": "5h 45m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
-            "plays": 22
+            "plays": 23
         },
         {
             "artist_name": "brakence",
-            "plays": 16
+            "plays": 17
         },
         {
-            "artist_name": "Joomanji",
-            "plays": 2
+            "artist_name": "cr1tter",
+            "plays": 5
         },
         {
             "artist_name": "Quadeca",
-            "plays": 2
+            "plays": 3
         },
         {
-            "artist_name": "The Weeknd",
-            "plays": 2
+            "artist_name": "ovine hall",
+            "plays": 3
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Appalachia",
+            "track_name": "Nouveau Riche",
             "artist_name": "glaive",
-            "plays": 2
+            "plays": 3
+        },
+        {
+            "track_name": "venus fly trap",
+            "artist_name": "brakence",
+            "plays": 3
         },
         {
             "track_name": "For Once in My Life - Music From The Motion Picture",
             "artist_name": "Joaquin Phoenix",
-            "plays": 2
-        },
-        {
-            "track_name": "Nouveau Riche",
-            "artist_name": "glaive",
             "plays": 2
         },
         {
@@ -54,26 +54,26 @@
         {
             "album_name": "Y\u2019all",
             "artist_name": "glaive",
-            "plays": 22
+            "plays": 23
         },
         {
             "album_name": "hypochondriac",
             "artist_name": "brakence",
-            "plays": 16
+            "plays": 17
         },
         {
-            "album_name": "AlwaysHappy",
-            "artist_name": "Yeek",
+            "album_name": "things i forgot about",
+            "artist_name": "ovine hall",
+            "plays": 3
+        },
+        {
+            "album_name": "Joker: Folie \u00e0 Deux (Music From The Motion Picture)",
+            "artist_name": "Joaquin Phoenix",
             "plays": 2
         },
         {
             "album_name": "Manj",
             "artist_name": "Joomanji",
-            "plays": 2
-        },
-        {
-            "album_name": "Joker: Folie \u00e0 Deux (Music From The Motion Picture)",
-            "artist_name": "Joaquin Phoenix",
             "plays": 2
         }
     ]
