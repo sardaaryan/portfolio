@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { fadeIn } from "../app/variants"; // Adjust path if needed
+import { fadeIn } from "../../app/variants"; // Adjust path if needed
 
 type StravaData = {
   last_updated: string;

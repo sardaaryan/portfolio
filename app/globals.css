@@ -3,16 +3,21 @@
 @theme {
   /* Define the keyframes */
   --keyframes-spin: spin 1s linear infinite; 
-  
   /* Define the custom animation using the existing 'spin' keyframe */
   --animate-spin-slow: spin 6s linear infinite;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
+:root {
     --background: #0a0a0a;
     --foreground: #ededed;
-  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  /* Prevent white overscroll on mobile */
+  background-color: #060606; 
 }
 
 @layer utilities {
@@ -25,75 +30,7 @@
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
   }
-}
 
-@layer components {
-  .animate-glitch {
-    position: relative;
-    display: inline-block;
-    /* Shortened to 1.5s for a more frequent "heartbeat" glitch */
-    animation: main-shake-burst 1.5s infinite;
-  }
-
-  .animate-glitch::before,
-  .animate-glitch::after {
-    content: attr(data-text);
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    opacity: 0;
-  }
-
-  /* CYAN BURST - Frequency increased */
-  .animate-glitch::before {
-    text-shadow: -3px 0 #00ffff;
-    animation: glitch-burst-1 1.5s infinite;
-    z-index: -1;
-  }
-
-  /* RED BURST - Frequency increased */
-  .animate-glitch::after {
-    text-shadow: 3px 0 #ff2a2a;
-    animation: glitch-burst-2 1.5s infinite;
-    z-index: -2;
-  }
-
-  /* Movement now takes up 60% of the 1.5s cycle (roughly 0.9s of action) */
-  @keyframes glitch-burst-1 {
-    0% { opacity: 1; clip-path: inset(20% 0 50% 0); transform: translate(-6px, 2px); }
-    10% { opacity: 1; clip-path: inset(60% 0 10% 0); transform: translate(6px, -2px); }
-    20% { opacity: 1; clip-path: inset(40% 0 40% 0); transform: translate(-6px, 2px); }
-    30% { opacity: 1; clip-path: inset(10% 0 60% 0); transform: translate(6px, -2px); }
-    40% { opacity: 1; clip-path: inset(80% 0 5% 0); transform: translate(-6px, 2px); }
-    50% { opacity: 1; clip-path: inset(30% 0 30% 0); transform: translate(6px, -2px); }
-    60% { opacity: 0; transform: translate(0, 0); }
-    100% { opacity: 0; }
-  }
-
-  @keyframes glitch-burst-2 {
-    0% { opacity: 1; clip-path: inset(10% 0 80% 0); transform: translate(6px, -2px); }
-    10% { opacity: 1; clip-path: inset(70% 0 5% 0); transform: translate(-6px, 2px); }
-    20% { opacity: 1; clip-path: inset(30% 0 40% 0); transform: translate(6px, -2px); }
-    30% { opacity: 1; clip-path: inset(5% 0 70% 0); transform: translate(-6px, 2px); }
-    40% { opacity: 1; clip-path: inset(50% 0 20% 0); transform: translate(6px, -2px); }
-    50% { opacity: 1; clip-path: inset(15% 0 55% 0); transform: translate(-6px, 2px); }
-    60% { opacity: 0; transform: translate(0, 0); }
-    100% { opacity: 0; }
-  }
-
-  /* Main text shakes for the first 0.9s, then rests for 0.6s */
-  @keyframes main-shake-burst {
-    0% { transform: translate(1px, -1px) skew(-1deg); }
-    20% { transform: translate(-1px, 1px) skew(1deg); }
-    40% { transform: translate(1px, 1px) skew(-1deg); }
-    60% { transform: translate(0, 0) skew(0deg); }
-    100% { transform: translate(0, 0) skew(0deg); }
-  }
-}
-
-@layer utilities {
   @keyframes gradient-move {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
@@ -101,8 +38,7 @@
   }
 
   .animate-gradient {
-    /* 300% width gives the animation more "track" to slide on, 
-       making the Purple-Pink-Cyan transition much more obvious */
+    /* 300% width gives the animation more "track" to slide on */
     background-size: 300% 300%;
     animation: gradient-move 8s ease infinite;
   }
@@ -117,10 +53,73 @@
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  /* THE NEW "SPIDER-VERSE" GLITCH */
+  .animate-glitch {
+    position: relative;
+    display: inline-block;
+    /* Slowed down to a 4-second cycle to match React math */
+    animation: glitch-anim-main 4s infinite linear alternate-reverse;
+  }
+
+  .animate-glitch::before,
+  .animate-glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    /* CRITICAL: This forces the red/cyan layers to follow the staggered delay of the letter */
+    animation-delay: inherit; 
+    mix-blend-mode: screen; /* Makes overlapping red/cyan turn pure white */
+  }
+
+  /* CYAN FRAGMENT */
+  .animate-glitch::before {
+    color: #00ffff;
+    z-index: -1;
+    animation: glitch-anim-cyan 4s infinite linear alternate-reverse;
+    animation-delay: inherit; /* MUST BE HERE */
+  }
+
+  /* RED FRAGMENT */
+  .animate-glitch::after {
+    color: #ff2a2a;
+    z-index: -2;
+    animation: glitch-anim-red 4s infinite linear alternate-reverse;
+    animation-delay: inherit; /* MUST BE HERE */
+  }
+
+  /* Base Letter: Rests for 85% of the time, then twitches */
+  @keyframes glitch-anim-main {
+    0%, 85% { transform: translate(0, 0) skew(0deg) scale(1); filter: blur(0px); }
+    87% { transform: translate(1px, -1px) skew(2deg) scale(1.02); filter: blur(1px); }
+    89% { transform: translate(-2px, 1px) skew(-3deg) scale(0.98); filter: blur(0px); }
+    91% { transform: translate(0, 0) skew(0deg) scale(1); }
+    100% { transform: translate(0, 0) skew(0deg) scale(1); }
+  }
+
+  /* Cyan Slice: Erratic horizontal cuts */
+  @keyframes glitch-anim-cyan {
+    0%, 85% { opacity: 0; transform: translate(0, 0); clip-path: inset(0 0 0 0); }
+    86% { opacity: 1; transform: translate(-4px, 1px) skew(-10deg); clip-path: inset(10% 0 40% 0); }
+    88% { opacity: 1; transform: translate(5px, -2px) skew(15deg); clip-path: inset(40% 0 20% 0); }
+    90% { opacity: 1; transform: translate(-3px, 2px) skew(-5deg); clip-path: inset(80% 0 5% 0); }
+    92% { opacity: 0; transform: translate(0, 0); clip-path: inset(0 0 0 0); }
+    100% { opacity: 0; }
+  }
+
+  /* Red Slice: Cuts the opposite direction */
+  @keyframes glitch-anim-red {
+    0%, 85% { opacity: 0; transform: translate(0, 0); clip-path: inset(0 0 0 0); }
+    86% { opacity: 1; transform: translate(4px, -1px) skew(10deg); clip-path: inset(30% 0 50% 0); }
+    88% { opacity: 1; transform: translate(-5px, 2px) skew(-15deg); clip-path: inset(10% 0 60% 0); }
+    90% { opacity: 1; transform: translate(3px, -2px) skew(5deg); clip-path: inset(50% 0 30% 0); }
+    92% { opacity: 0; transform: translate(0, 0); clip-path: inset(0 0 0 0); }
+    100% { opacity: 0; }
+  }
 }
 
 h1 {
@@ -141,12 +140,10 @@ h1 {
   -moz-user-select: none !important;
   -ms-user-select: none !important;
   user-select: none !important;
-
   -webkit-user-drag: none !important;
 }
 
-/* 2. THE NUCLEAR OPTION: Specifically target text-heavy elements to ensure 
-      the browser doesn't switch to the 'text' cursor (I-beam) */
+/* 2. Target text-heavy elements to ensure the browser doesn't switch to the 'text' cursor */
 p, h1, h2, h3, h4, h5, h6, span, div, section, article {
   cursor: url("data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2232%22%20height%3D%2232%22%3E%3Ctext%20y%3D%2224%22%20font-size%3D%2224%22%3E%F0%9F%8E%B5%3C%2Ftext%3E%3C%2Fsvg%3E") 16 16, auto !important;
 }

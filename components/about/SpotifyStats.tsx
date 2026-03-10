@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 // You might need to adjust this path to wherever your variants file is
-import { fadeIn } from "../app/variants"; 
+import { fadeIn } from "../../app/variants"; 
 
 type SpotifyData = {
   last_updated: string;

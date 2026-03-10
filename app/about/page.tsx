@@ -1,8 +1,8 @@
 "use client";
 
 import Header from "../../components/Header";
-import SpotifyStats from "../../components/SpotifyStats";
-import StravaStats from "../../components/StravaStats";
+import SpotifyStats from "../../components/about/SpotifyStats";
+import StravaStats from "../../components/about/StravaStats";
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
 import spotifyData from "../../data/stats.json";

@@ -2,17 +2,17 @@
 
 import { motion } from "framer-motion";
 import Image from "next/image";
-import CircuitOverlay from "../../components/CircuitOverlay";
-import Bulb from "../../components/Bulb";
-import Circles from "../../components/Circles";
-import WorkSlider from "../../components/WorkSlider";
+import CircuitOverlay from "../../components/work/CircuitOverlay";
+import Bulb from "../../components/work/Bulb";
+import Circles from "../../components/work/Circles";
+import WorkSlider from "../../components/work/WorkSlider";
 import Header from "../../components/Header";
 import RotatingText from "../../components/RotatingText";
 import { fadeIn } from "../variants";
 
 const Work = () => {
   return (
-    <main className="relative w-full h-screen overflow-y-scroll [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none] bg-primary/30">
+    <main className="relative w-full h-screen overflow-y-scroll [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none] bg-[#060606]">
       <CircuitOverlay />
       <div className="absolute top-0 left-0 w-full z-50">
         <Header />

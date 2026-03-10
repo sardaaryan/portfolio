@@ -8,7 +8,7 @@ import { RxCross2 } from "react-icons/rx";
 import { BsArrowRight } from "react-icons/bs";
 
 // Make sure your path to variants is correct based on your folder structure
-import { fadeIn } from "../app/variants"; 
+import { fadeIn } from "../../app/variants"; 
 
 // FLATTENED DATA
 const workExperiences = [
