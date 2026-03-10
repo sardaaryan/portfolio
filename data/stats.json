@@ -1,21 +1,21 @@
 {
-    "last_updated": "2026-03-09T20:59:47.369039",
-    "total_listening_time": "3h 40m",
+    "last_updated": "2026-03-10T09:08:33.742630",
+    "total_listening_time": "4h 46m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
-            "plays": 21
+            "plays": 22
         },
         {
-            "artist_name": "Yeek",
+            "artist_name": "brakence",
+            "plays": 16
+        },
+        {
+            "artist_name": "Joomanji",
             "plays": 2
         },
         {
             "artist_name": "Quadeca",
-            "plays": 2
-        },
-        {
-            "artist_name": "Joomanji",
             "plays": 2
         },
         {
@@ -25,28 +25,28 @@
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Bluebirds",
-            "artist_name": "glaive",
-            "plays": 2
-        },
-        {
-            "track_name": "Fuck",
-            "artist_name": "glaive",
-            "plays": 2
-        },
-        {
             "track_name": "Appalachia",
             "artist_name": "glaive",
             "plays": 2
         },
         {
-            "track_name": "AlwaysHappy",
-            "artist_name": "Yeek",
+            "track_name": "For Once in My Life - Music From The Motion Picture",
+            "artist_name": "Joaquin Phoenix",
             "plays": 2
         },
         {
-            "track_name": "For Once in My Life - Music From The Motion Picture",
-            "artist_name": "Joaquin Phoenix",
+            "track_name": "Nouveau Riche",
+            "artist_name": "glaive",
+            "plays": 2
+        },
+        {
+            "track_name": "Asheville",
+            "artist_name": "glaive",
+            "plays": 2
+        },
+        {
+            "track_name": "Veni Vidi Vici",
+            "artist_name": "glaive",
             "plays": 2
         }
     ],
@@ -54,12 +54,12 @@
         {
             "album_name": "Y\u2019all",
             "artist_name": "glaive",
-            "plays": 21
+            "plays": 22
         },
         {
-            "album_name": "Manj",
-            "artist_name": "Joomanji",
-            "plays": 2
+            "album_name": "hypochondriac",
+            "artist_name": "brakence",
+            "plays": 16
         },
         {
             "album_name": "AlwaysHappy",
@@ -67,14 +67,14 @@
             "plays": 2
         },
         {
-            "album_name": "Joker: Folie \u00e0 Deux (Music From The Motion Picture)",
-            "artist_name": "Joaquin Phoenix",
+            "album_name": "Manj",
+            "artist_name": "Joomanji",
             "plays": 2
         },
         {
-            "album_name": "SATURATION II",
-            "artist_name": "BROCKHAMPTON",
-            "plays": 1
+            "album_name": "Joker: Folie \u00e0 Deux (Music From The Motion Picture)",
+            "artist_name": "Joaquin Phoenix",
+            "plays": 2
         }
     ]
 }
