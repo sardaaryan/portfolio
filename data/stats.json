@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-10T20:58:45.424454",
-    "total_listening_time": "5h 45m",
+    "last_updated": "2026-03-11T09:07:53.441171",
+    "total_listening_time": "8h 13m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
-            "plays": 23
+            "plays": 28
         },
         {
             "artist_name": "brakence",
@@ -12,20 +12,35 @@
         },
         {
             "artist_name": "cr1tter",
-            "plays": 5
+            "plays": 12
         },
         {
-            "artist_name": "Quadeca",
-            "plays": 3
+            "artist_name": "Danny Brown",
+            "plays": 9
         },
         {
             "artist_name": "ovine hall",
-            "plays": 3
+            "plays": 6
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Nouveau Riche",
+            "artist_name": "glaive",
+            "plays": 4
+        },
+        {
+            "track_name": "Appalachia",
+            "artist_name": "glaive",
+            "plays": 3
+        },
+        {
+            "track_name": "Veni Vidi Vici",
+            "artist_name": "glaive",
+            "plays": 3
+        },
+        {
+            "track_name": "Bluebirds",
             "artist_name": "glaive",
             "plays": 3
         },
@@ -33,28 +48,13 @@
             "track_name": "venus fly trap",
             "artist_name": "brakence",
             "plays": 3
-        },
-        {
-            "track_name": "For Once in My Life - Music From The Motion Picture",
-            "artist_name": "Joaquin Phoenix",
-            "plays": 2
-        },
-        {
-            "track_name": "Asheville",
-            "artist_name": "glaive",
-            "plays": 2
-        },
-        {
-            "track_name": "Veni Vidi Vici",
-            "artist_name": "glaive",
-            "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "Y\u2019all",
             "artist_name": "glaive",
-            "plays": 23
+            "plays": 27
         },
         {
             "album_name": "hypochondriac",
@@ -62,19 +62,19 @@
             "plays": 17
         },
         {
+            "album_name": "Stardust",
+            "artist_name": "Danny Brown",
+            "plays": 6
+        },
+        {
             "album_name": "things i forgot about",
             "artist_name": "ovine hall",
-            "plays": 3
+            "plays": 6
         },
         {
-            "album_name": "Joker: Folie \u00e0 Deux (Music From The Motion Picture)",
-            "artist_name": "Joaquin Phoenix",
-            "plays": 2
-        },
-        {
-            "album_name": "Manj",
-            "artist_name": "Joomanji",
-            "plays": 2
+            "album_name": "Revengeseekerz",
+            "artist_name": "Jane Remover",
+            "plays": 5
         }
     ]
 }
