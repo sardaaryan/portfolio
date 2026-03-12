@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-11T20:57:53.505145",
-    "total_listening_time": "8h 19m",
+    "last_updated": "2026-03-12T09:09:13.551572",
+    "total_listening_time": "9h 15m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
@@ -16,23 +16,23 @@
         },
         {
             "artist_name": "Danny Brown",
-            "plays": 9
+            "plays": 10
         },
         {
-            "artist_name": "ovine hall",
-            "plays": 6
+            "artist_name": "Quadeca",
+            "plays": 7
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Nouveau Riche",
-            "artist_name": "glaive",
+            "track_name": "Late Night Funk",
+            "artist_name": "Drum! Drum! Drum!",
             "plays": 4
         },
         {
-            "track_name": "Appalachia",
+            "track_name": "Nouveau Riche",
             "artist_name": "glaive",
-            "plays": 3
+            "plays": 4
         },
         {
             "track_name": "Veni Vidi Vici",
@@ -40,13 +40,13 @@
             "plays": 3
         },
         {
-            "track_name": "Bluebirds",
+            "track_name": "Appalachia",
             "artist_name": "glaive",
             "plays": 3
         },
         {
-            "track_name": "venus fly trap",
-            "artist_name": "brakence",
+            "track_name": "Bluebirds",
+            "artist_name": "glaive",
             "plays": 3
         }
     ],
