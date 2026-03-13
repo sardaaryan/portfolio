@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-12T21:00:14.810219",
-    "total_listening_time": "9h 15m",
+    "last_updated": "2026-03-13T09:05:48.574451",
+    "total_listening_time": "10h 6m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
-            "plays": 28
+            "plays": 32
         },
         {
             "artist_name": "brakence",
@@ -12,49 +12,49 @@
         },
         {
             "artist_name": "cr1tter",
-            "plays": 12
+            "plays": 14
         },
         {
             "artist_name": "Danny Brown",
-            "plays": 10
+            "plays": 12
         },
         {
             "artist_name": "Quadeca",
-            "plays": 7
+            "plays": 9
         }
     ],
     "top_tracks_weekly": [
+        {
+            "track_name": "Appalachia",
+            "artist_name": "glaive",
+            "plays": 4
+        },
+        {
+            "track_name": "Veni Vidi Vici",
+            "artist_name": "glaive",
+            "plays": 4
+        },
+        {
+            "track_name": "i feel like",
+            "artist_name": "cr1tter",
+            "plays": 4
+        },
         {
             "track_name": "Nouveau Riche",
             "artist_name": "glaive",
             "plays": 4
         },
         {
-            "track_name": "Late Night Funk",
-            "artist_name": "Drum! Drum! Drum!",
-            "plays": 4
-        },
-        {
-            "track_name": "Appalachia",
-            "artist_name": "glaive",
-            "plays": 3
-        },
-        {
-            "track_name": "Veni Vidi Vici",
-            "artist_name": "glaive",
-            "plays": 3
-        },
-        {
             "track_name": "Bluebirds",
             "artist_name": "glaive",
-            "plays": 3
+            "plays": 4
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "Y\u2019all",
             "artist_name": "glaive",
-            "plays": 27
+            "plays": 30
         },
         {
             "album_name": "hypochondriac",
@@ -67,14 +67,14 @@
             "plays": 6
         },
         {
-            "album_name": "things i forgot about",
-            "artist_name": "ovine hall",
+            "album_name": "Vanisher, Horizon Scraper",
+            "artist_name": "Quadeca",
             "plays": 6
         },
         {
-            "album_name": "Revengeseekerz",
-            "artist_name": "Jane Remover",
-            "plays": 5
+            "album_name": "things i forgot about",
+            "artist_name": "ovine hall",
+            "plays": 6
         }
     ]
 }
