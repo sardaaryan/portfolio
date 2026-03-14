@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-14T09:00:32.782055",
-    "total_listening_time": "11h 41m",
+    "last_updated": "2026-03-14T20:53:54.777952",
+    "total_listening_time": "13h 32m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
-            "plays": 32
+            "plays": 33
         },
         {
             "artist_name": "brakence",
@@ -12,7 +12,7 @@
         },
         {
             "artist_name": "cr1tter",
-            "plays": 15
+            "plays": 16
         },
         {
             "artist_name": "Danny Brown",
@@ -25,13 +25,13 @@
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Bluebirds",
-            "artist_name": "glaive",
-            "plays": 4
-        },
-        {
             "track_name": "Late Night Funk",
             "artist_name": "Drum! Drum! Drum!",
+            "plays": 5
+        },
+        {
+            "track_name": "Nouveau Riche",
+            "artist_name": "glaive",
             "plays": 4
         },
         {
@@ -45,7 +45,7 @@
             "plays": 4
         },
         {
-            "track_name": "Nouveau Riche",
+            "track_name": "Veni Vidi Vici",
             "artist_name": "glaive",
             "plays": 4
         }
@@ -62,8 +62,8 @@
             "plays": 17
         },
         {
-            "album_name": "Vanisher, Horizon Scraper",
-            "artist_name": "Quadeca",
+            "album_name": "things i forgot about",
+            "artist_name": "ovine hall",
             "plays": 6
         },
         {
@@ -72,8 +72,8 @@
             "plays": 6
         },
         {
-            "album_name": "things i forgot about",
-            "artist_name": "ovine hall",
+            "album_name": "Vanisher, Horizon Scraper",
+            "artist_name": "Quadeca",
             "plays": 6
         }
     ]
