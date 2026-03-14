@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-13T21:01:17.940299",
-    "total_listening_time": "11h 33m",
+    "last_updated": "2026-03-14T09:00:32.782055",
+    "total_listening_time": "11h 41m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
@@ -25,12 +25,17 @@
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Veni Vidi Vici",
+            "track_name": "Bluebirds",
             "artist_name": "glaive",
             "plays": 4
         },
         {
-            "track_name": "Nouveau Riche",
+            "track_name": "Late Night Funk",
+            "artist_name": "Drum! Drum! Drum!",
+            "plays": 4
+        },
+        {
+            "track_name": "Appalachia",
             "artist_name": "glaive",
             "plays": 4
         },
@@ -40,12 +45,7 @@
             "plays": 4
         },
         {
-            "track_name": "Appalachia",
-            "artist_name": "glaive",
-            "plays": 4
-        },
-        {
-            "track_name": "Bluebirds",
+            "track_name": "Nouveau Riche",
             "artist_name": "glaive",
             "plays": 4
         }
@@ -72,8 +72,8 @@
             "plays": 6
         },
         {
-            "album_name": "Revengeseekerz",
-            "artist_name": "Jane Remover",
+            "album_name": "things i forgot about",
+            "artist_name": "ovine hall",
             "plays": 6
         }
     ]
