@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-15T09:01:54.037729",
-    "total_listening_time": "15h 4m",
+    "last_updated": "2026-03-15T20:54:19.325006",
+    "total_listening_time": "15h 20m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
@@ -30,8 +30,8 @@
             "plays": 5
         },
         {
-            "track_name": "Bluebirds",
-            "artist_name": "glaive",
+            "track_name": "i feel like",
+            "artist_name": "cr1tter",
             "plays": 4
         },
         {
@@ -40,12 +40,12 @@
             "plays": 4
         },
         {
-            "track_name": "Veni Vidi Vici",
+            "track_name": "Appalachia",
             "artist_name": "glaive",
             "plays": 4
         },
         {
-            "track_name": "Appalachia",
+            "track_name": "Veni Vidi Vici",
             "artist_name": "glaive",
             "plays": 4
         }
@@ -62,18 +62,18 @@
             "plays": 17
         },
         {
-            "album_name": "Stardust",
-            "artist_name": "Danny Brown",
-            "plays": 6
-        },
-        {
             "album_name": "things i forgot about",
             "artist_name": "ovine hall",
             "plays": 6
         },
         {
-            "album_name": "Vanisher, Horizon Scraper",
-            "artist_name": "Quadeca",
+            "album_name": "Revengeseekerz",
+            "artist_name": "Jane Remover",
+            "plays": 6
+        },
+        {
+            "album_name": "Stardust",
+            "artist_name": "Danny Brown",
             "plays": 6
         }
     ]
