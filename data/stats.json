@@ -1,80 +1,80 @@
 {
-    "last_updated": "2026-03-15T20:54:19.325006",
-    "total_listening_time": "15h 20m",
+    "last_updated": "2026-03-16T09:41:02.715211",
+    "total_listening_time": "2h 40m",
     "top_artists_weekly": [
         {
-            "artist_name": "glaive",
-            "plays": 33
+            "artist_name": "A$AP Rocky",
+            "plays": 2
         },
         {
-            "artist_name": "brakence",
-            "plays": 17
-        },
-        {
-            "artist_name": "cr1tter",
-            "plays": 16
-        },
-        {
-            "artist_name": "Danny Brown",
-            "plays": 12
+            "artist_name": "Earl Sweatshirt",
+            "plays": 2
         },
         {
             "artist_name": "Quadeca",
-            "plays": 9
+            "plays": 2
+        },
+        {
+            "artist_name": "Daniel Pemberton",
+            "plays": 2
+        },
+        {
+            "artist_name": "1takejay",
+            "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Late Night Funk",
-            "artist_name": "Drum! Drum! Drum!",
-            "plays": 5
+            "track_name": "Right Now",
+            "artist_name": "Fixupboy",
+            "plays": 2
         },
         {
-            "track_name": "i feel like",
-            "artist_name": "cr1tter",
-            "plays": 4
+            "track_name": "To Da Neck",
+            "artist_name": "1takejay",
+            "plays": 2
         },
         {
-            "track_name": "Nouveau Riche",
-            "artist_name": "glaive",
-            "plays": 4
+            "track_name": "What Kind of Love",
+            "artist_name": "Childish Gambino",
+            "plays": 1
         },
         {
-            "track_name": "Appalachia",
-            "artist_name": "glaive",
-            "plays": 4
+            "track_name": "Fire Alarm (feat. Snow Strippers)",
+            "artist_name": "Lil Uzi Vert",
+            "plays": 1
         },
         {
-            "track_name": "Veni Vidi Vici",
-            "artist_name": "glaive",
-            "plays": 4
+            "track_name": "The Bends",
+            "artist_name": "Earl Sweatshirt",
+            "plays": 1
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "Y\u2019all",
-            "artist_name": "glaive",
-            "plays": 30
+            "album_name": "Right Now",
+            "artist_name": "Fixupboy",
+            "plays": 2
         },
         {
-            "album_name": "hypochondriac",
-            "artist_name": "brakence",
-            "plays": 17
+            "album_name": "Spider-Man: Across the Spider-Verse (Original Score)",
+            "artist_name": "Daniel Pemberton",
+            "plays": 2
         },
         {
-            "album_name": "things i forgot about",
-            "artist_name": "ovine hall",
-            "plays": 6
+            "album_name": "To Da Neck",
+            "artist_name": "1takejay",
+            "plays": 2
         },
         {
-            "album_name": "Revengeseekerz",
-            "artist_name": "Jane Remover",
-            "plays": 6
+            "album_name": "AT.LONG.LAST.A$AP",
+            "artist_name": "A$AP Rocky",
+            "plays": 1
         },
         {
-            "album_name": "Stardust",
-            "artist_name": "Danny Brown",
-            "plays": 6
+            "album_name": "Brutalist (remix)",
+            "artist_name": "Tahj Keeton",
+            "plays": 1
         }
     ]
 }
