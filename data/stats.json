@@ -1,7 +1,11 @@
 {
-    "last_updated": "2026-03-16T09:41:02.715211",
-    "total_listening_time": "2h 40m",
+    "last_updated": "2026-03-16T21:05:00.107741",
+    "total_listening_time": "2h 57m",
     "top_artists_weekly": [
+        {
+            "artist_name": "Daniel Pemberton",
+            "plays": 6
+        },
         {
             "artist_name": "A$AP Rocky",
             "plays": 2
@@ -11,54 +15,55 @@
             "plays": 2
         },
         {
+            "artist_name": "Tahj Keeton",
+            "plays": 2
+        },
+        {
             "artist_name": "Quadeca",
-            "plays": 2
-        },
-        {
-            "artist_name": "Daniel Pemberton",
-            "plays": 2
-        },
-        {
-            "artist_name": "1takejay",
             "plays": 2
         }
     ],
     "top_tracks_weekly": [
-        {
-            "track_name": "Right Now",
-            "artist_name": "Fixupboy",
-            "plays": 2
-        },
         {
             "track_name": "To Da Neck",
             "artist_name": "1takejay",
             "plays": 2
         },
         {
-            "track_name": "What Kind of Love",
-            "artist_name": "Childish Gambino",
-            "plays": 1
+            "track_name": "Right Now",
+            "artist_name": "Fixupboy",
+            "plays": 2
         },
         {
-            "track_name": "Fire Alarm (feat. Snow Strippers)",
-            "artist_name": "Lil Uzi Vert",
-            "plays": 1
+            "track_name": "Brutalist (remix)",
+            "artist_name": "Tahj Keeton",
+            "plays": 2
         },
         {
-            "track_name": "The Bends",
-            "artist_name": "Earl Sweatshirt",
+            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
+            "artist_name": "Santana",
+            "plays": 2
+        },
+        {
+            "track_name": "My Kitchen",
+            "artist_name": "Gucci Mane",
             "plays": 1
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "Right Now",
-            "artist_name": "Fixupboy",
+            "album_name": "Spider-Man: Across the Spider-Verse (Original Score)",
+            "artist_name": "Daniel Pemberton",
+            "plays": 6
+        },
+        {
+            "album_name": "Brutalist (remix)",
+            "artist_name": "Tahj Keeton",
             "plays": 2
         },
         {
-            "album_name": "Spider-Man: Across the Spider-Verse (Original Score)",
-            "artist_name": "Daniel Pemberton",
+            "album_name": "Right Now",
+            "artist_name": "Fixupboy",
             "plays": 2
         },
         {
@@ -67,14 +72,9 @@
             "plays": 2
         },
         {
-            "album_name": "AT.LONG.LAST.A$AP",
-            "artist_name": "A$AP Rocky",
-            "plays": 1
-        },
-        {
-            "album_name": "Brutalist (remix)",
-            "artist_name": "Tahj Keeton",
-            "plays": 1
+            "album_name": "Supernatural (Remastered)",
+            "artist_name": "Santana",
+            "plays": 2
         }
     ]
 }
