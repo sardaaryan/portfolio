@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-03-16T21:05:00.107741",
-    "total_listening_time": "2h 57m",
+    "last_updated": "2026-03-17T09:28:27.923152",
+    "total_listening_time": "3h 46m",
     "top_artists_weekly": [
         {
             "artist_name": "Daniel Pemberton",
             "plays": 6
         },
         {
-            "artist_name": "A$AP Rocky",
-            "plays": 2
+            "artist_name": "Santana",
+            "plays": 3
         },
         {
             "artist_name": "Earl Sweatshirt",
@@ -19,24 +19,19 @@
             "plays": 2
         },
         {
-            "artist_name": "Quadeca",
+            "artist_name": "A$AP Rocky",
             "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "To Da Neck",
-            "artist_name": "1takejay",
-            "plays": 2
-        },
-        {
-            "track_name": "Right Now",
-            "artist_name": "Fixupboy",
-            "plays": 2
-        },
-        {
             "track_name": "Brutalist (remix)",
             "artist_name": "Tahj Keeton",
+            "plays": 2
+        },
+        {
+            "track_name": "To Da Neck",
+            "artist_name": "1takejay",
             "plays": 2
         },
         {
@@ -45,8 +40,13 @@
             "plays": 2
         },
         {
-            "track_name": "My Kitchen",
-            "artist_name": "Gucci Mane",
+            "track_name": "Right Now",
+            "artist_name": "Fixupboy",
+            "plays": 2
+        },
+        {
+            "track_name": "Drive",
+            "artist_name": "Incubus",
             "plays": 1
         }
     ],
@@ -57,11 +57,6 @@
             "plays": 6
         },
         {
-            "album_name": "Brutalist (remix)",
-            "artist_name": "Tahj Keeton",
-            "plays": 2
-        },
-        {
             "album_name": "Right Now",
             "artist_name": "Fixupboy",
             "plays": 2
@@ -69,6 +64,11 @@
         {
             "album_name": "To Da Neck",
             "artist_name": "1takejay",
+            "plays": 2
+        },
+        {
+            "album_name": "Brutalist (remix)",
+            "artist_name": "Tahj Keeton",
             "plays": 2
         },
         {
