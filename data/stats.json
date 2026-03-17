@@ -1,37 +1,32 @@
 {
-    "last_updated": "2026-03-17T09:28:27.923152",
-    "total_listening_time": "3h 46m",
+    "last_updated": "2026-03-17T21:05:56.671667",
+    "total_listening_time": "6h 45m",
     "top_artists_weekly": [
         {
             "artist_name": "Daniel Pemberton",
             "plays": 6
         },
         {
-            "artist_name": "Santana",
+            "artist_name": "A$AP Rocky",
+            "plays": 4
+        },
+        {
+            "artist_name": "Clairo",
+            "plays": 4
+        },
+        {
+            "artist_name": "Quadeca",
             "plays": 3
         },
         {
-            "artist_name": "Earl Sweatshirt",
-            "plays": 2
-        },
-        {
-            "artist_name": "Tahj Keeton",
-            "plays": 2
-        },
-        {
-            "artist_name": "A$AP Rocky",
-            "plays": 2
+            "artist_name": "Joji",
+            "plays": 3
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Brutalist (remix)",
             "artist_name": "Tahj Keeton",
-            "plays": 2
-        },
-        {
-            "track_name": "To Da Neck",
-            "artist_name": "1takejay",
             "plays": 2
         },
         {
@@ -45,8 +40,13 @@
             "plays": 2
         },
         {
-            "track_name": "Drive",
-            "artist_name": "Incubus",
+            "track_name": "To Da Neck",
+            "artist_name": "1takejay",
+            "plays": 2
+        },
+        {
+            "track_name": "Moving Fast",
+            "artist_name": "King OSF",
             "plays": 1
         }
     ],
@@ -62,18 +62,18 @@
             "plays": 2
         },
         {
-            "album_name": "To Da Neck",
-            "artist_name": "1takejay",
-            "plays": 2
-        },
-        {
             "album_name": "Brutalist (remix)",
             "artist_name": "Tahj Keeton",
             "plays": 2
         },
         {
-            "album_name": "Supernatural (Remastered)",
-            "artist_name": "Santana",
+            "album_name": "TESTING",
+            "artist_name": "A$AP Rocky",
+            "plays": 2
+        },
+        {
+            "album_name": "AT.LONG.LAST.A$AP",
+            "artist_name": "A$AP Rocky",
             "plays": 2
         }
     ]
