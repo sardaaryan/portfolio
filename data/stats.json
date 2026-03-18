@@ -1,10 +1,18 @@
 {
-    "last_updated": "2026-03-17T21:05:56.671667",
-    "total_listening_time": "6h 45m",
+    "last_updated": "2026-03-18T09:15:01.005572",
+    "total_listening_time": "9h 2m",
     "top_artists_weekly": [
+        {
+            "artist_name": "Gorillaz",
+            "plays": 7
+        },
         {
             "artist_name": "Daniel Pemberton",
             "plays": 6
+        },
+        {
+            "artist_name": "The Weeknd",
+            "plays": 5
         },
         {
             "artist_name": "A$AP Rocky",
@@ -13,22 +21,9 @@
         {
             "artist_name": "Clairo",
             "plays": 4
-        },
-        {
-            "artist_name": "Quadeca",
-            "plays": 3
-        },
-        {
-            "artist_name": "Joji",
-            "plays": 3
         }
     ],
     "top_tracks_weekly": [
-        {
-            "track_name": "Brutalist (remix)",
-            "artist_name": "Tahj Keeton",
-            "plays": 2
-        },
         {
             "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
             "artist_name": "Santana",
@@ -45,9 +40,14 @@
             "plays": 2
         },
         {
-            "track_name": "Moving Fast",
-            "artist_name": "King OSF",
-            "plays": 1
+            "track_name": "Brutalist (remix)",
+            "artist_name": "Tahj Keeton",
+            "plays": 2
+        },
+        {
+            "track_name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+            "artist_name": "Daft Punk",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
@@ -57,14 +57,9 @@
             "plays": 6
         },
         {
-            "album_name": "Right Now",
-            "artist_name": "Fixupboy",
-            "plays": 2
-        },
-        {
-            "album_name": "Brutalist (remix)",
-            "artist_name": "Tahj Keeton",
-            "plays": 2
+            "album_name": "The Mountain",
+            "artist_name": "Gorillaz",
+            "plays": 6
         },
         {
             "album_name": "TESTING",
@@ -74,6 +69,11 @@
         {
             "album_name": "AT.LONG.LAST.A$AP",
             "artist_name": "A$AP Rocky",
+            "plays": 2
+        },
+        {
+            "album_name": "Right Now",
+            "artist_name": "Fixupboy",
             "plays": 2
         }
     ]
