@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-18T09:15:01.005572",
-    "total_listening_time": "9h 2m",
+    "last_updated": "2026-03-18T21:03:21.749212",
+    "total_listening_time": "9h 27m",
     "top_artists_weekly": [
         {
             "artist_name": "Gorillaz",
@@ -11,22 +11,22 @@
             "plays": 6
         },
         {
-            "artist_name": "The Weeknd",
+            "artist_name": "Baby Smoove",
             "plays": 5
         },
         {
-            "artist_name": "A$AP Rocky",
-            "plays": 4
+            "artist_name": "Mike Sherm",
+            "plays": 5
         },
         {
-            "artist_name": "Clairo",
-            "plays": 4
+            "artist_name": "The Weeknd",
+            "plays": 5
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
-            "artist_name": "Santana",
+            "track_name": "Brutalist (remix)",
+            "artist_name": "Tahj Keeton",
             "plays": 2
         },
         {
@@ -40,8 +40,8 @@
             "plays": 2
         },
         {
-            "track_name": "Brutalist (remix)",
-            "artist_name": "Tahj Keeton",
+            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
+            "artist_name": "Santana",
             "plays": 2
         },
         {
@@ -62,18 +62,18 @@
             "plays": 6
         },
         {
-            "album_name": "TESTING",
-            "artist_name": "A$AP Rocky",
-            "plays": 2
-        },
-        {
             "album_name": "AT.LONG.LAST.A$AP",
             "artist_name": "A$AP Rocky",
             "plays": 2
         },
         {
-            "album_name": "Right Now",
-            "artist_name": "Fixupboy",
+            "album_name": "TESTING",
+            "artist_name": "A$AP Rocky",
+            "plays": 2
+        },
+        {
+            "album_name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+            "artist_name": "Metro Boomin",
             "plays": 2
         }
     ]
