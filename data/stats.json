@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-18T21:03:21.749212",
-    "total_listening_time": "9h 27m",
+    "last_updated": "2026-03-19T09:09:34.848265",
+    "total_listening_time": "10h 0m",
     "top_artists_weekly": [
         {
             "artist_name": "Gorillaz",
-            "plays": 7
+            "plays": 8
         },
         {
             "artist_name": "Daniel Pemberton",
@@ -15,7 +15,7 @@
             "plays": 5
         },
         {
-            "artist_name": "Mike Sherm",
+            "artist_name": "Quadeca",
             "plays": 5
         },
         {
@@ -25,8 +25,18 @@
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Brutalist (remix)",
-            "artist_name": "Tahj Keeton",
+            "track_name": "To Da Neck",
+            "artist_name": "1takejay",
+            "plays": 2
+        },
+        {
+            "track_name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
+            "artist_name": "Daft Punk",
+            "plays": 2
+        },
+        {
+            "track_name": "Losing My Mind, Pt.2",
+            "artist_name": "Baby Smoove",
             "plays": 2
         },
         {
@@ -35,18 +45,8 @@
             "plays": 2
         },
         {
-            "track_name": "To Da Neck",
-            "artist_name": "1takejay",
-            "plays": 2
-        },
-        {
-            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
-            "artist_name": "Santana",
-            "plays": 2
-        },
-        {
-            "track_name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
-            "artist_name": "Daft Punk",
+            "track_name": "Brutalist (remix)",
+            "artist_name": "Tahj Keeton",
             "plays": 2
         }
     ],
@@ -72,8 +72,8 @@
             "plays": 2
         },
         {
-            "album_name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-            "artist_name": "Metro Boomin",
+            "album_name": "Vanisher, Horizon Scraper",
+            "artist_name": "Quadeca",
             "plays": 2
         }
     ]
