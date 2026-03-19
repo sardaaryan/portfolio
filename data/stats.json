@@ -1,47 +1,47 @@
 {
-    "last_updated": "2026-03-19T09:09:34.848265",
-    "total_listening_time": "10h 0m",
+    "last_updated": "2026-03-19T21:04:16.893201",
+    "total_listening_time": "12h 49m",
     "top_artists_weekly": [
         {
             "artist_name": "Gorillaz",
-            "plays": 8
+            "plays": 9
+        },
+        {
+            "artist_name": "Quadeca",
+            "plays": 6
         },
         {
             "artist_name": "Daniel Pemberton",
             "plays": 6
         },
         {
-            "artist_name": "Baby Smoove",
-            "plays": 5
-        },
-        {
-            "artist_name": "Quadeca",
-            "plays": 5
-        },
-        {
             "artist_name": "The Weeknd",
+            "plays": 6
+        },
+        {
+            "artist_name": "Baby Smoove",
             "plays": 5
         }
     ],
     "top_tracks_weekly": [
-        {
-            "track_name": "To Da Neck",
-            "artist_name": "1takejay",
-            "plays": 2
-        },
         {
             "track_name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
             "artist_name": "Daft Punk",
             "plays": 2
         },
         {
-            "track_name": "Losing My Mind, Pt.2",
-            "artist_name": "Baby Smoove",
+            "track_name": "Pills",
+            "artist_name": "Joji",
             "plays": 2
         },
         {
-            "track_name": "Right Now",
-            "artist_name": "Fixupboy",
+            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
+            "artist_name": "Santana",
+            "plays": 2
+        },
+        {
+            "track_name": "To Da Neck",
+            "artist_name": "1takejay",
             "plays": 2
         },
         {
@@ -62,18 +62,18 @@
             "plays": 6
         },
         {
-            "album_name": "AT.LONG.LAST.A$AP",
-            "artist_name": "A$AP Rocky",
+            "album_name": "Right Now",
+            "artist_name": "Fixupboy",
             "plays": 2
         },
         {
-            "album_name": "TESTING",
-            "artist_name": "A$AP Rocky",
+            "album_name": "Im Still Perfect",
+            "artist_name": "Baby Smoove",
             "plays": 2
         },
         {
-            "album_name": "Vanisher, Horizon Scraper",
-            "artist_name": "Quadeca",
+            "album_name": "Brutalist (remix)",
+            "artist_name": "Tahj Keeton",
             "plays": 2
         }
     ]
