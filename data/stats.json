@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-19T21:04:16.893201",
-    "total_listening_time": "12h 49m",
+    "last_updated": "2026-03-20T09:06:08.415356",
+    "total_listening_time": "12h 52m",
     "top_artists_weekly": [
         {
             "artist_name": "Gorillaz",
@@ -19,24 +19,19 @@
             "plays": 6
         },
         {
-            "artist_name": "Baby Smoove",
+            "artist_name": "Mike Sherm",
             "plays": 5
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
-            "artist_name": "Daft Punk",
-            "plays": 2
-        },
-        {
-            "track_name": "Pills",
-            "artist_name": "Joji",
-            "plays": 2
-        },
-        {
             "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
             "artist_name": "Santana",
+            "plays": 2
+        },
+        {
+            "track_name": "Brutalist (remix)",
+            "artist_name": "Tahj Keeton",
             "plays": 2
         },
         {
@@ -45,20 +40,25 @@
             "plays": 2
         },
         {
-            "track_name": "Brutalist (remix)",
-            "artist_name": "Tahj Keeton",
+            "track_name": "Right Now",
+            "artist_name": "Fixupboy",
+            "plays": 2
+        },
+        {
+            "track_name": "Pills",
+            "artist_name": "Joji",
             "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "Spider-Man: Across the Spider-Verse (Original Score)",
-            "artist_name": "Daniel Pemberton",
+            "album_name": "The Mountain",
+            "artist_name": "Gorillaz",
             "plays": 6
         },
         {
-            "album_name": "The Mountain",
-            "artist_name": "Gorillaz",
+            "album_name": "Spider-Man: Across the Spider-Verse (Original Score)",
+            "artist_name": "Daniel Pemberton",
             "plays": 6
         },
         {
@@ -72,8 +72,8 @@
             "plays": 2
         },
         {
-            "album_name": "Brutalist (remix)",
-            "artist_name": "Tahj Keeton",
+            "album_name": "Supernatural (Remastered)",
+            "artist_name": "Santana",
             "plays": 2
         }
     ]
