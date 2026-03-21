@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-21T08:58:22.496938",
+    "last_updated": "2026-03-21T20:51:06.961136",
     "total_listening_time": "17h 36m",
     "top_artists_weekly": [
         {
@@ -35,30 +35,30 @@
             "plays": 3
         },
         {
-            "track_name": "Right Now",
-            "artist_name": "Fixupboy",
+            "track_name": "It's Five O'Clock Somewhere",
+            "artist_name": "Alan Jackson",
             "plays": 2
         },
         {
-            "track_name": "Damn Good in a Dive Bar",
-            "artist_name": "Laci Kaye Booth",
+            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
+            "artist_name": "Santana",
             "plays": 2
         },
         {
-            "track_name": "minnesota is a place that exists - Spotify Singles",
-            "artist_name": "glaive",
+            "track_name": "Ballin",
+            "artist_name": "Mike Sherm",
             "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "Spider-Man: Across the Spider-Verse (Original Score)",
-            "artist_name": "Daniel Pemberton",
+            "album_name": "The Mountain",
+            "artist_name": "Gorillaz",
             "plays": 6
         },
         {
-            "album_name": "The Mountain",
-            "artist_name": "Gorillaz",
+            "album_name": "Spider-Man: Across the Spider-Verse (Original Score)",
+            "artist_name": "Daniel Pemberton",
             "plays": 6
         },
         {
@@ -67,13 +67,13 @@
             "plays": 4
         },
         {
-            "album_name": "Heading South",
+            "album_name": "Zach Bryan",
             "artist_name": "Zach Bryan",
             "plays": 3
         },
         {
-            "album_name": "Voice Memos",
-            "artist_name": "Quadeca",
+            "album_name": "Hurts Like Hell",
+            "artist_name": "Lily Fitts",
             "plays": 3
         }
     ]
