@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-20T20:58:38.067087",
-    "total_listening_time": "14h 58m",
+    "last_updated": "2026-03-21T08:58:22.496938",
+    "total_listening_time": "17h 36m",
     "top_artists_weekly": [
         {
             "artist_name": "Zach Bryan",
@@ -11,16 +11,16 @@
             "plays": 9
         },
         {
-            "artist_name": "Daniel Pemberton",
-            "plays": 6
+            "artist_name": "glaive",
+            "plays": 9
         },
         {
             "artist_name": "Quadeca",
-            "plays": 6
+            "plays": 8
         },
         {
-            "artist_name": "Mike Sherm",
-            "plays": 6
+            "artist_name": "The Weeknd",
+            "plays": 7
         }
     ],
     "top_tracks_weekly": [
@@ -30,41 +30,41 @@
             "plays": 3
         },
         {
-            "track_name": "Cowboy Forever",
-            "artist_name": "Carter Faith",
+            "track_name": "Hurts Like Hell",
+            "artist_name": "Lily Fitts",
+            "plays": 3
+        },
+        {
+            "track_name": "Right Now",
+            "artist_name": "Fixupboy",
             "plays": 2
         },
         {
-            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
-            "artist_name": "Santana",
+            "track_name": "Damn Good in a Dive Bar",
+            "artist_name": "Laci Kaye Booth",
             "plays": 2
         },
         {
-            "track_name": "It's Five O'Clock Somewhere",
-            "artist_name": "Alan Jackson",
-            "plays": 2
-        },
-        {
-            "track_name": "Ballin",
-            "artist_name": "Mike Sherm",
+            "track_name": "minnesota is a place that exists - Spotify Singles",
+            "artist_name": "glaive",
             "plays": 2
         }
     ],
     "top_albums_weekly": [
-        {
-            "album_name": "The Mountain",
-            "artist_name": "Gorillaz",
-            "plays": 6
-        },
         {
             "album_name": "Spider-Man: Across the Spider-Verse (Original Score)",
             "artist_name": "Daniel Pemberton",
             "plays": 6
         },
         {
-            "album_name": "Zach Bryan",
-            "artist_name": "Zach Bryan",
-            "plays": 3
+            "album_name": "The Mountain",
+            "artist_name": "Gorillaz",
+            "plays": 6
+        },
+        {
+            "album_name": "Solstice",
+            "artist_name": "Anna Graves",
+            "plays": 4
         },
         {
             "album_name": "Heading South",
@@ -72,9 +72,9 @@
             "plays": 3
         },
         {
-            "album_name": "Spotify Singles",
-            "artist_name": "glaive",
-            "plays": 2
+            "album_name": "Voice Memos",
+            "artist_name": "Quadeca",
+            "plays": 3
         }
     ]
 }
