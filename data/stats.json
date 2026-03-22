@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-03-21T20:51:06.961136",
-    "total_listening_time": "17h 36m",
+    "last_updated": "2026-03-22T08:59:03.637321",
+    "total_listening_time": "18h 38m",
     "top_artists_weekly": [
         {
             "artist_name": "Zach Bryan",
             "plays": 10
         },
         {
-            "artist_name": "Gorillaz",
+            "artist_name": "glaive",
             "plays": 9
         },
         {
-            "artist_name": "glaive",
+            "artist_name": "Gorillaz",
             "plays": 9
         },
         {
@@ -35,18 +35,18 @@
             "plays": 3
         },
         {
-            "track_name": "It's Five O'Clock Somewhere",
-            "artist_name": "Alan Jackson",
-            "plays": 2
+            "track_name": "What They Say",
+            "artist_name": "Lily Fitts",
+            "plays": 3
         },
         {
-            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
-            "artist_name": "Santana",
-            "plays": 2
+            "track_name": "Cowboy Forever",
+            "artist_name": "Carter Faith",
+            "plays": 3
         },
         {
-            "track_name": "Ballin",
-            "artist_name": "Mike Sherm",
+            "track_name": "Damn Good in a Dive Bar",
+            "artist_name": "Laci Kaye Booth",
             "plays": 2
         }
     ],
@@ -57,23 +57,23 @@
             "plays": 6
         },
         {
-            "album_name": "Spider-Man: Across the Spider-Verse (Original Score)",
-            "artist_name": "Daniel Pemberton",
-            "plays": 6
-        },
-        {
             "album_name": "Solstice",
             "artist_name": "Anna Graves",
+            "plays": 5
+        },
+        {
+            "album_name": "Spider-Man: Across the Spider-Verse (Original Score)",
+            "artist_name": "Daniel Pemberton",
             "plays": 4
         },
         {
-            "album_name": "Zach Bryan",
-            "artist_name": "Zach Bryan",
+            "album_name": "What They Say",
+            "artist_name": "Lily Fitts",
             "plays": 3
         },
         {
-            "album_name": "Hurts Like Hell",
-            "artist_name": "Lily Fitts",
+            "album_name": "Heading South",
+            "artist_name": "Zach Bryan",
             "plays": 3
         }
     ]
