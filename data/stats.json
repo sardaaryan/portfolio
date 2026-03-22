@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-22T08:59:03.637321",
-    "total_listening_time": "18h 38m",
+    "last_updated": "2026-03-22T20:52:42.736654",
+    "total_listening_time": "19h 12m",
     "top_artists_weekly": [
         {
             "artist_name": "Zach Bryan",
@@ -8,7 +8,7 @@
         },
         {
             "artist_name": "glaive",
-            "plays": 9
+            "plays": 10
         },
         {
             "artist_name": "Gorillaz",
@@ -25,6 +25,11 @@
     ],
     "top_tracks_weekly": [
         {
+            "track_name": "What They Say",
+            "artist_name": "Lily Fitts",
+            "plays": 3
+        },
+        {
             "track_name": "Heading South",
             "artist_name": "Zach Bryan",
             "plays": 3
@@ -35,18 +40,13 @@
             "plays": 3
         },
         {
-            "track_name": "What They Say",
-            "artist_name": "Lily Fitts",
-            "plays": 3
-        },
-        {
             "track_name": "Cowboy Forever",
             "artist_name": "Carter Faith",
             "plays": 3
         },
         {
-            "track_name": "Damn Good in a Dive Bar",
-            "artist_name": "Laci Kaye Booth",
+            "track_name": "minnesota is a place that exists - Spotify Singles",
+            "artist_name": "glaive",
             "plays": 2
         }
     ],
@@ -72,8 +72,8 @@
             "plays": 3
         },
         {
-            "album_name": "Heading South",
-            "artist_name": "Zach Bryan",
+            "album_name": "Voice Memos",
+            "artist_name": "Quadeca",
             "plays": 3
         }
     ]
