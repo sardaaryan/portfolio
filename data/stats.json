@@ -1,80 +1,80 @@
 {
-    "last_updated": "2026-03-22T20:52:42.736654",
-    "total_listening_time": "19h 12m",
+    "last_updated": "2026-03-23T09:38:00.199277",
+    "total_listening_time": "3h 1m",
     "top_artists_weekly": [
         {
+            "artist_name": "Katatonia",
+            "plays": 20
+        },
+        {
+            "artist_name": "Brent Faiyaz",
+            "plays": 3
+        },
+        {
+            "artist_name": "The Neighbourhood",
+            "plays": 2
+        },
+        {
             "artist_name": "Zach Bryan",
-            "plays": 10
+            "plays": 2
         },
         {
-            "artist_name": "glaive",
-            "plays": 10
-        },
-        {
-            "artist_name": "Gorillaz",
-            "plays": 9
-        },
-        {
-            "artist_name": "Quadeca",
-            "plays": 8
-        },
-        {
-            "artist_name": "The Weeknd",
-            "plays": 7
-        }
-    ],
-    "top_tracks_weekly": [
-        {
-            "track_name": "What They Say",
-            "artist_name": "Lily Fitts",
-            "plays": 3
-        },
-        {
-            "track_name": "Heading South",
-            "artist_name": "Zach Bryan",
-            "plays": 3
-        },
-        {
-            "track_name": "Hurts Like Hell",
-            "artist_name": "Lily Fitts",
-            "plays": 3
-        },
-        {
-            "track_name": "Cowboy Forever",
-            "artist_name": "Carter Faith",
-            "plays": 3
-        },
-        {
-            "track_name": "minnesota is a place that exists - Spotify Singles",
             "artist_name": "glaive",
             "plays": 2
         }
     ],
+    "top_tracks_weekly": [
+        {
+            "track_name": "Will I Arrive",
+            "artist_name": "Katatonia",
+            "plays": 1
+        },
+        {
+            "track_name": "I Believe",
+            "artist_name": "Caroline Polachek",
+            "plays": 1
+        },
+        {
+            "track_name": "My Twin",
+            "artist_name": "Katatonia",
+            "plays": 1
+        },
+        {
+            "track_name": "Sleeper",
+            "artist_name": "Katatonia",
+            "plays": 1
+        },
+        {
+            "track_name": "Something in the Orange - Z&E's Version",
+            "artist_name": "Zach Bryan",
+            "plays": 1
+        }
+    ],
     "top_albums_weekly": [
         {
-            "album_name": "The Mountain",
-            "artist_name": "Gorillaz",
-            "plays": 6
+            "album_name": "The Great Cold Distance",
+            "artist_name": "Katatonia",
+            "plays": 12
         },
         {
-            "album_name": "Solstice",
-            "artist_name": "Anna Graves",
-            "plays": 5
+            "album_name": "Viva Emptiness",
+            "artist_name": "Katatonia",
+            "plays": 8
         },
         {
-            "album_name": "Spider-Man: Across the Spider-Verse (Original Score)",
-            "artist_name": "Daniel Pemberton",
-            "plays": 4
-        },
-        {
-            "album_name": "What They Say",
-            "artist_name": "Lily Fitts",
+            "album_name": "Sonder Son",
+            "artist_name": "Brent Faiyaz",
             "plays": 3
         },
         {
-            "album_name": "Voice Memos",
-            "artist_name": "Quadeca",
-            "plays": 3
+            "album_name": "Hard To Imagine The Neighbourhood Ever Changing",
+            "artist_name": "The Neighbourhood",
+            "plays": 2
+        },
+        {
+            "album_name": "i care so much that i dont care at all",
+            "artist_name": "glaive",
+            "plays": 2
         }
     ]
 }
