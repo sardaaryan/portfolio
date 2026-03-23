@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-23T09:38:00.199277",
-    "total_listening_time": "3h 1m",
+    "last_updated": "2026-03-23T21:02:23.538169",
+    "total_listening_time": "3h 20m",
     "top_artists_weekly": [
         {
             "artist_name": "Katatonia",
-            "plays": 20
+            "plays": 25
         },
         {
             "artist_name": "Brent Faiyaz",
@@ -25,41 +25,41 @@
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Will I Arrive",
+            "track_name": "Omerta",
+            "artist_name": "Katatonia",
+            "plays": 2
+        },
+        {
+            "track_name": "Increase",
             "artist_name": "Katatonia",
             "plays": 1
         },
         {
-            "track_name": "I Believe",
-            "artist_name": "Caroline Polachek",
+            "track_name": "Raabta (From \"Agent Vinod\")",
+            "artist_name": "Pritam",
             "plays": 1
         },
         {
-            "track_name": "My Twin",
+            "track_name": "Leaders",
             "artist_name": "Katatonia",
             "plays": 1
         },
         {
-            "track_name": "Sleeper",
-            "artist_name": "Katatonia",
-            "plays": 1
-        },
-        {
-            "track_name": "Something in the Orange - Z&E's Version",
-            "artist_name": "Zach Bryan",
+            "track_name": "Burn One (Interlude)",
+            "artist_name": "Brent Faiyaz",
             "plays": 1
         }
     ],
     "top_albums_weekly": [
         {
+            "album_name": "Viva Emptiness",
+            "artist_name": "Katatonia",
+            "plays": 13
+        },
+        {
             "album_name": "The Great Cold Distance",
             "artist_name": "Katatonia",
             "plays": 12
-        },
-        {
-            "album_name": "Viva Emptiness",
-            "artist_name": "Katatonia",
-            "plays": 8
         },
         {
             "album_name": "Sonder Son",
