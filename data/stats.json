@@ -1,42 +1,42 @@
 {
-    "last_updated": "2026-03-24T09:28:02.353308",
-    "total_listening_time": "3h 36m",
+    "last_updated": "2026-03-24T21:04:38.672842",
+    "total_listening_time": "5h 31m",
     "top_artists_weekly": [
         {
             "artist_name": "Katatonia",
-            "plays": 28
+            "plays": 29
         },
         {
             "artist_name": "Brent Faiyaz",
-            "plays": 3
-        },
-        {
-            "artist_name": "glaive",
-            "plays": 2
-        },
-        {
-            "artist_name": "Zach Bryan",
-            "plays": 2
+            "plays": 17
         },
         {
             "artist_name": "The Neighbourhood",
+            "plays": 5
+        },
+        {
+            "artist_name": "5 Seconds of Summer",
+            "plays": 2
+        },
+        {
+            "artist_name": "The Strokes",
             "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Sleeper",
-            "artist_name": "Katatonia",
+            "track_name": "Home",
+            "artist_name": "Brent Faiyaz",
+            "plays": 3
+        },
+        {
+            "track_name": "Gang Over Luv",
+            "artist_name": "Brent Faiyaz",
             "plays": 2
         },
         {
-            "track_name": "Omerta",
-            "artist_name": "Katatonia",
-            "plays": 2
-        },
-        {
-            "track_name": "Ghost Of The Sun",
-            "artist_name": "Katatonia",
+            "track_name": "Sadderdaze",
+            "artist_name": "The Neighbourhood",
             "plays": 2
         },
         {
@@ -45,16 +45,21 @@
             "plays": 2
         },
         {
-            "track_name": "I Believe",
-            "artist_name": "Caroline Polachek",
-            "plays": 1
+            "track_name": "Burn One (Interlude)",
+            "artist_name": "Brent Faiyaz",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
+            "album_name": "Sonder Son",
+            "artist_name": "Brent Faiyaz",
+            "plays": 17
+        },
+        {
             "album_name": "Viva Emptiness",
             "artist_name": "Katatonia",
-            "plays": 16
+            "plays": 17
         },
         {
             "album_name": "The Great Cold Distance",
@@ -62,14 +67,9 @@
             "plays": 12
         },
         {
-            "album_name": "Sonder Son",
-            "artist_name": "Brent Faiyaz",
-            "plays": 3
-        },
-        {
             "album_name": "Hard To Imagine The Neighbourhood Ever Changing",
             "artist_name": "The Neighbourhood",
-            "plays": 2
+            "plays": 4
         },
         {
             "album_name": "i care so much that i dont care at all",
