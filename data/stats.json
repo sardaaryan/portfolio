@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-24T21:04:38.672842",
-    "total_listening_time": "5h 31m",
+    "last_updated": "2026-03-25T09:27:58.994314",
+    "total_listening_time": "6h 51m",
     "top_artists_weekly": [
         {
             "artist_name": "Katatonia",
@@ -12,41 +12,41 @@
         },
         {
             "artist_name": "The Neighbourhood",
-            "plays": 5
+            "plays": 7
         },
         {
             "artist_name": "5 Seconds of Summer",
-            "plays": 2
+            "plays": 4
         },
         {
             "artist_name": "The Strokes",
-            "plays": 2
+            "plays": 3
         }
     ],
     "top_tracks_weekly": [
+        {
+            "track_name": "Selfless",
+            "artist_name": "The Strokes",
+            "plays": 3
+        },
         {
             "track_name": "Home",
             "artist_name": "Brent Faiyaz",
             "plays": 3
         },
         {
-            "track_name": "Gang Over Luv",
-            "artist_name": "Brent Faiyaz",
-            "plays": 2
-        },
-        {
-            "track_name": "Sadderdaze",
+            "track_name": "Paradise",
             "artist_name": "The Neighbourhood",
-            "plays": 2
-        },
-        {
-            "track_name": "Inside The City Of Glass",
-            "artist_name": "Katatonia",
             "plays": 2
         },
         {
             "track_name": "Burn One (Interlude)",
             "artist_name": "Brent Faiyaz",
+            "plays": 2
+        },
+        {
+            "track_name": "Inside The City Of Glass",
+            "artist_name": "Katatonia",
             "plays": 2
         }
     ],
@@ -69,12 +69,12 @@
         {
             "album_name": "Hard To Imagine The Neighbourhood Ever Changing",
             "artist_name": "The Neighbourhood",
-            "plays": 4
+            "plays": 5
         },
         {
-            "album_name": "i care so much that i dont care at all",
-            "artist_name": "glaive",
-            "plays": 2
+            "album_name": "Youngblood (Deluxe)",
+            "artist_name": "5 Seconds of Summer",
+            "plays": 3
         }
     ]
 }
