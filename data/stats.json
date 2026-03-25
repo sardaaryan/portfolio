@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-25T09:27:58.994314",
-    "total_listening_time": "6h 51m",
+    "last_updated": "2026-03-25T21:02:32.586402",
+    "total_listening_time": "7h 3m",
     "top_artists_weekly": [
         {
             "artist_name": "Katatonia",
@@ -35,18 +35,18 @@
             "plays": 3
         },
         {
-            "track_name": "Paradise",
-            "artist_name": "The Neighbourhood",
+            "track_name": "Criminals",
+            "artist_name": "Katatonia",
+            "plays": 2
+        },
+        {
+            "track_name": "Hurts Like Hell",
+            "artist_name": "Lily Fitts",
             "plays": 2
         },
         {
             "track_name": "Burn One (Interlude)",
             "artist_name": "Brent Faiyaz",
-            "plays": 2
-        },
-        {
-            "track_name": "Inside The City Of Glass",
-            "artist_name": "Katatonia",
             "plays": 2
         }
     ],
