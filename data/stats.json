@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-03-26T09:33:36.072325",
-    "total_listening_time": "7h 25m",
+    "last_updated": "2026-03-26T20:59:26.871806",
+    "total_listening_time": "7h 29m",
     "top_artists_weekly": [
         {
             "artist_name": "Katatonia",
-            "plays": 31
+            "plays": 32
         },
         {
             "artist_name": "Brent Faiyaz",
@@ -25,11 +25,6 @@
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Selfless",
-            "artist_name": "The Strokes",
-            "plays": 3
-        },
-        {
             "track_name": "Home",
             "artist_name": "Brent Faiyaz",
             "plays": 3
@@ -40,12 +35,17 @@
             "plays": 3
         },
         {
-            "track_name": "Burn One (Interlude)",
-            "artist_name": "Brent Faiyaz",
+            "track_name": "Selfless",
+            "artist_name": "The Strokes",
+            "plays": 3
+        },
+        {
+            "track_name": "Sleeper",
+            "artist_name": "Katatonia",
             "plays": 2
         },
         {
-            "track_name": "Inside The City Of Glass",
+            "track_name": "Ghost Of The Sun",
             "artist_name": "Katatonia",
             "plays": 2
         }
@@ -54,7 +54,7 @@
         {
             "album_name": "Viva Emptiness",
             "artist_name": "Katatonia",
-            "plays": 19
+            "plays": 20
         },
         {
             "album_name": "Sonder Son",
