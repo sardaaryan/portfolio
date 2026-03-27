@@ -1,14 +1,18 @@
 {
-    "last_updated": "2026-03-26T20:59:26.871806",
-    "total_listening_time": "7h 29m",
+    "last_updated": "2026-03-27T09:15:22.995281",
+    "total_listening_time": "10h 18m",
     "top_artists_weekly": [
         {
             "artist_name": "Katatonia",
-            "plays": 32
+            "plays": 33
         },
         {
             "artist_name": "Brent Faiyaz",
             "plays": 17
+        },
+        {
+            "artist_name": "cr1tter",
+            "plays": 11
         },
         {
             "artist_name": "The Neighbourhood",
@@ -17,13 +21,19 @@
         {
             "artist_name": "5 Seconds of Summer",
             "plays": 4
-        },
-        {
-            "artist_name": "The Strokes",
-            "plays": 3
         }
     ],
     "top_tracks_weekly": [
+        {
+            "track_name": "Inside The City Of Glass",
+            "artist_name": "Katatonia",
+            "plays": 3
+        },
+        {
+            "track_name": "Selfless",
+            "artist_name": "The Strokes",
+            "plays": 3
+        },
         {
             "track_name": "Home",
             "artist_name": "Brent Faiyaz",
@@ -35,18 +45,8 @@
             "plays": 3
         },
         {
-            "track_name": "Selfless",
-            "artist_name": "The Strokes",
-            "plays": 3
-        },
-        {
-            "track_name": "Sleeper",
-            "artist_name": "Katatonia",
-            "plays": 2
-        },
-        {
-            "track_name": "Ghost Of The Sun",
-            "artist_name": "Katatonia",
+            "track_name": "First World Problemz / Nobody Carez",
+            "artist_name": "Brent Faiyaz",
             "plays": 2
         }
     ],
@@ -54,7 +54,7 @@
         {
             "album_name": "Viva Emptiness",
             "artist_name": "Katatonia",
-            "plays": 20
+            "plays": 21
         },
         {
             "album_name": "Sonder Son",
@@ -72,8 +72,8 @@
             "plays": 5
         },
         {
-            "album_name": "The New Abnormal",
-            "artist_name": "The Strokes",
+            "album_name": "yea I think",
+            "artist_name": "cr1tter",
             "plays": 3
         }
     ]
