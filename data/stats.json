@@ -1,37 +1,42 @@
 {
-    "last_updated": "2026-03-27T09:15:22.995281",
-    "total_listening_time": "10h 18m",
+    "last_updated": "2026-03-27T21:04:36.644900",
+    "total_listening_time": "12h 13m",
     "top_artists_weekly": [
         {
             "artist_name": "Katatonia",
             "plays": 33
         },
         {
-            "artist_name": "Brent Faiyaz",
-            "plays": 17
+            "artist_name": "cr1tter",
+            "plays": 20
         },
         {
-            "artist_name": "cr1tter",
-            "plays": 11
+            "artist_name": "Brent Faiyaz",
+            "plays": 17
         },
         {
             "artist_name": "The Neighbourhood",
             "plays": 7
         },
         {
-            "artist_name": "5 Seconds of Summer",
-            "plays": 4
+            "artist_name": "glaive",
+            "plays": 5
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Inside The City Of Glass",
-            "artist_name": "Katatonia",
+            "track_name": "Selfless",
+            "artist_name": "The Strokes",
+            "plays": 4
+        },
+        {
+            "track_name": "Hurts Like Hell",
+            "artist_name": "Lily Fitts",
             "plays": 3
         },
         {
-            "track_name": "Selfless",
-            "artist_name": "The Strokes",
+            "track_name": "Inside The City Of Glass",
+            "artist_name": "Katatonia",
             "plays": 3
         },
         {
@@ -43,11 +48,6 @@
             "track_name": "Omerta",
             "artist_name": "Katatonia",
             "plays": 3
-        },
-        {
-            "track_name": "First World Problemz / Nobody Carez",
-            "artist_name": "Brent Faiyaz",
-            "plays": 2
         }
     ],
     "top_albums_weekly": [
@@ -74,7 +74,7 @@
         {
             "album_name": "yea I think",
             "artist_name": "cr1tter",
-            "plays": 3
+            "plays": 4
         }
     ]
 }
