@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-27T21:04:36.644900",
-    "total_listening_time": "12h 13m",
+    "last_updated": "2026-03-28T09:05:01.367103",
+    "total_listening_time": "13h 46m",
     "top_artists_weekly": [
         {
             "artist_name": "Katatonia",
@@ -30,13 +30,13 @@
             "plays": 4
         },
         {
-            "track_name": "Hurts Like Hell",
-            "artist_name": "Lily Fitts",
+            "track_name": "Inside The City Of Glass",
+            "artist_name": "Katatonia",
             "plays": 3
         },
         {
-            "track_name": "Inside The City Of Glass",
-            "artist_name": "Katatonia",
+            "track_name": "Hurts Like Hell",
+            "artist_name": "Lily Fitts",
             "plays": 3
         },
         {
@@ -72,8 +72,8 @@
             "plays": 5
         },
         {
-            "album_name": "yea I think",
-            "artist_name": "cr1tter",
+            "album_name": "The New Abnormal",
+            "artist_name": "The Strokes",
             "plays": 4
         }
     ]
