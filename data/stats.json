@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-28T09:05:01.367103",
-    "total_listening_time": "13h 46m",
+    "last_updated": "2026-03-28T20:55:57.837222",
+    "total_listening_time": "14h 2m",
     "top_artists_weekly": [
         {
             "artist_name": "Katatonia",
@@ -35,11 +35,6 @@
             "plays": 3
         },
         {
-            "track_name": "Hurts Like Hell",
-            "artist_name": "Lily Fitts",
-            "plays": 3
-        },
-        {
             "track_name": "Home",
             "artist_name": "Brent Faiyaz",
             "plays": 3
@@ -47,6 +42,11 @@
         {
             "track_name": "Omerta",
             "artist_name": "Katatonia",
+            "plays": 3
+        },
+        {
+            "track_name": "Hurts Like Hell",
+            "artist_name": "Lily Fitts",
             "plays": 3
         }
     ],
@@ -72,8 +72,8 @@
             "plays": 5
         },
         {
-            "album_name": "The New Abnormal",
-            "artist_name": "The Strokes",
+            "album_name": "welcome to the cr1tter.n3t",
+            "artist_name": "cr1tter",
             "plays": 4
         }
     ]
