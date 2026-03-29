@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-28T20:55:57.837222",
-    "total_listening_time": "14h 2m",
+    "last_updated": "2026-03-29T09:05:59.213582",
+    "total_listening_time": "16h 31m",
     "top_artists_weekly": [
         {
             "artist_name": "Katatonia",
@@ -8,7 +8,7 @@
         },
         {
             "artist_name": "cr1tter",
-            "plays": 20
+            "plays": 21
         },
         {
             "artist_name": "Brent Faiyaz",
@@ -19,8 +19,8 @@
             "plays": 7
         },
         {
-            "artist_name": "glaive",
-            "plays": 5
+            "artist_name": "Zach Bryan",
+            "plays": 6
         }
     ],
     "top_tracks_weekly": [
@@ -30,23 +30,23 @@
             "plays": 4
         },
         {
+            "track_name": "Hurts Like Hell",
+            "artist_name": "Lily Fitts",
+            "plays": 4
+        },
+        {
             "track_name": "Inside The City Of Glass",
             "artist_name": "Katatonia",
             "plays": 3
         },
         {
+            "track_name": "Something in the Orange - Z&E's Version",
+            "artist_name": "Zach Bryan",
+            "plays": 3
+        },
+        {
             "track_name": "Home",
             "artist_name": "Brent Faiyaz",
-            "plays": 3
-        },
-        {
-            "track_name": "Omerta",
-            "artist_name": "Katatonia",
-            "plays": 3
-        },
-        {
-            "track_name": "Hurts Like Hell",
-            "artist_name": "Lily Fitts",
             "plays": 3
         }
     ],
@@ -72,8 +72,8 @@
             "plays": 5
         },
         {
-            "album_name": "welcome to the cr1tter.n3t",
-            "artist_name": "cr1tter",
+            "album_name": "Hurts Like Hell",
+            "artist_name": "Lily Fitts",
             "plays": 4
         }
     ]
