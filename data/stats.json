@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-29T09:05:59.213582",
-    "total_listening_time": "16h 31m",
+    "last_updated": "2026-03-29T20:57:50.191915",
+    "total_listening_time": "17h 4m",
     "top_artists_weekly": [
         {
             "artist_name": "Katatonia",
@@ -8,7 +8,7 @@
         },
         {
             "artist_name": "cr1tter",
-            "plays": 21
+            "plays": 22
         },
         {
             "artist_name": "Brent Faiyaz",
@@ -35,13 +35,13 @@
             "plays": 4
         },
         {
-            "track_name": "Inside The City Of Glass",
-            "artist_name": "Katatonia",
+            "track_name": "U.B.B.",
+            "artist_name": "Okthxbb",
             "plays": 3
         },
         {
-            "track_name": "Something in the Orange - Z&E's Version",
-            "artist_name": "Zach Bryan",
+            "track_name": "Inside The City Of Glass",
+            "artist_name": "Katatonia",
             "plays": 3
         },
         {
@@ -72,8 +72,8 @@
             "plays": 5
         },
         {
-            "album_name": "Hurts Like Hell",
-            "artist_name": "Lily Fitts",
+            "album_name": "yea I think",
+            "artist_name": "cr1tter",
             "plays": 4
         }
     ]
