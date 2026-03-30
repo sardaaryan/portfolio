@@ -1,80 +1,80 @@
 {
-    "last_updated": "2026-03-29T20:57:50.191915",
-    "total_listening_time": "17h 4m",
+    "last_updated": "2026-03-30T09:56:12.288553",
+    "total_listening_time": "2h 36m",
     "top_artists_weekly": [
         {
-            "artist_name": "Katatonia",
-            "plays": 33
-        },
-        {
             "artist_name": "cr1tter",
-            "plays": 22
+            "plays": 2
         },
         {
-            "artist_name": "Brent Faiyaz",
-            "plays": 17
+            "artist_name": "Bedbug",
+            "plays": 2
         },
         {
-            "artist_name": "The Neighbourhood",
-            "plays": 7
+            "artist_name": "Bowls",
+            "plays": 2
         },
         {
-            "artist_name": "Zach Bryan",
-            "plays": 6
+            "artist_name": "Taraneh",
+            "plays": 2
+        },
+        {
+            "artist_name": "cootie catcher",
+            "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Selfless",
-            "artist_name": "The Strokes",
-            "plays": 4
+            "track_name": "Here's Where The Story Ends",
+            "artist_name": "The Sundays",
+            "plays": 2
         },
         {
-            "track_name": "Hurts Like Hell",
-            "artist_name": "Lily Fitts",
-            "plays": 4
+            "track_name": "W.I.G.F.Y.",
+            "artist_name": "Bowls",
+            "plays": 2
         },
         {
-            "track_name": "U.B.B.",
-            "artist_name": "Okthxbb",
-            "plays": 3
+            "track_name": "tiny fist",
+            "artist_name": "Bedbug",
+            "plays": 2
         },
         {
-            "track_name": "Inside The City Of Glass",
-            "artist_name": "Katatonia",
-            "plays": 3
+            "track_name": "ontario",
+            "artist_name": "cootie catcher",
+            "plays": 2
         },
         {
-            "track_name": "Home",
-            "artist_name": "Brent Faiyaz",
-            "plays": 3
+            "track_name": "Burn",
+            "artist_name": "Taraneh",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "Viva Emptiness",
-            "artist_name": "Katatonia",
-            "plays": 21
+            "album_name": "Shed Winter",
+            "artist_name": "Bowls",
+            "plays": 2
         },
         {
-            "album_name": "Sonder Son",
-            "artist_name": "Brent Faiyaz",
-            "plays": 17
+            "album_name": "rose, water, fountain",
+            "artist_name": "Bedbug",
+            "plays": 2
         },
         {
-            "album_name": "The Great Cold Distance",
-            "artist_name": "Katatonia",
-            "plays": 12
+            "album_name": "Reading, Writing And Arithmetic",
+            "artist_name": "The Sundays",
+            "plays": 2
         },
         {
-            "album_name": "Hard To Imagine The Neighbourhood Ever Changing",
-            "artist_name": "The Neighbourhood",
-            "plays": 5
+            "album_name": "New Age Prayer",
+            "artist_name": "Taraneh",
+            "plays": 2
         },
         {
-            "album_name": "yea I think",
-            "artist_name": "cr1tter",
-            "plays": 4
+            "album_name": "5678",
+            "artist_name": "cootie catcher",
+            "plays": 2
         }
     ]
 }
