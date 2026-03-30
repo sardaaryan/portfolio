@@ -1,9 +1,13 @@
 {
-    "last_updated": "2026-03-30T09:56:12.288553",
-    "total_listening_time": "2h 36m",
+    "last_updated": "2026-03-30T21:08:48.540338",
+    "total_listening_time": "3h 3m",
     "top_artists_weekly": [
         {
-            "artist_name": "cr1tter",
+            "artist_name": "Santana",
+            "plays": 4
+        },
+        {
+            "artist_name": "Taraneh",
             "plays": 2
         },
         {
@@ -11,27 +15,23 @@
             "plays": 2
         },
         {
-            "artist_name": "Bowls",
+            "artist_name": "Lean Tee",
             "plays": 2
         },
         {
-            "artist_name": "Taraneh",
-            "plays": 2
-        },
-        {
-            "artist_name": "cootie catcher",
+            "artist_name": "cr1tter",
             "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Here's Where The Story Ends",
-            "artist_name": "The Sundays",
+            "track_name": "W.I.G.F.Y.",
+            "artist_name": "Bowls",
             "plays": 2
         },
         {
-            "track_name": "W.I.G.F.Y.",
-            "artist_name": "Bowls",
+            "track_name": "no dream / apathy",
+            "artist_name": "Lean Tee",
             "plays": 2
         },
         {
@@ -40,27 +40,17 @@
             "plays": 2
         },
         {
-            "track_name": "ontario",
-            "artist_name": "cootie catcher",
+            "track_name": "Here's Where The Story Ends",
+            "artist_name": "The Sundays",
             "plays": 2
         },
         {
-            "track_name": "Burn",
-            "artist_name": "Taraneh",
+            "track_name": "ontario",
+            "artist_name": "cootie catcher",
             "plays": 2
         }
     ],
     "top_albums_weekly": [
-        {
-            "album_name": "Shed Winter",
-            "artist_name": "Bowls",
-            "plays": 2
-        },
-        {
-            "album_name": "rose, water, fountain",
-            "artist_name": "Bedbug",
-            "plays": 2
-        },
         {
             "album_name": "Reading, Writing And Arithmetic",
             "artist_name": "The Sundays",
@@ -69,6 +59,16 @@
         {
             "album_name": "New Age Prayer",
             "artist_name": "Taraneh",
+            "plays": 2
+        },
+        {
+            "album_name": "no dream / apathy",
+            "artist_name": "Lean Tee",
+            "plays": 2
+        },
+        {
+            "album_name": "Shed Winter",
+            "artist_name": "Bowls",
             "plays": 2
         },
         {
