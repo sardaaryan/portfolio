@@ -1,79 +1,79 @@
 {
-    "last_updated": "2026-03-30T21:08:48.540338",
-    "total_listening_time": "3h 3m",
+    "last_updated": "2026-03-31T09:40:57.144268",
+    "total_listening_time": "5h 30m",
     "top_artists_weekly": [
+        {
+            "artist_name": "cr1tter",
+            "plays": 18
+        },
         {
             "artist_name": "Santana",
             "plays": 4
         },
         {
-            "artist_name": "Taraneh",
-            "plays": 2
+            "artist_name": "han.irl <3",
+            "plays": 4
+        },
+        {
+            "artist_name": "Sewerperson",
+            "plays": 3
         },
         {
             "artist_name": "Bedbug",
             "plays": 2
-        },
-        {
-            "artist_name": "Lean Tee",
-            "plays": 2
-        },
-        {
-            "artist_name": "cr1tter",
-            "plays": 2
         }
     ],
     "top_tracks_weekly": [
-        {
-            "track_name": "W.I.G.F.Y.",
-            "artist_name": "Bowls",
-            "plays": 2
-        },
-        {
-            "track_name": "no dream / apathy",
-            "artist_name": "Lean Tee",
-            "plays": 2
-        },
         {
             "track_name": "tiny fist",
             "artist_name": "Bedbug",
             "plays": 2
         },
         {
-            "track_name": "Here's Where The Story Ends",
-            "artist_name": "The Sundays",
+            "track_name": "I Been Young",
+            "artist_name": "George Clanton",
             "plays": 2
         },
         {
             "track_name": "ontario",
             "artist_name": "cootie catcher",
             "plays": 2
+        },
+        {
+            "track_name": "P.T.S.Tea",
+            "artist_name": "Goat Girl",
+            "plays": 2
+        },
+        {
+            "track_name": "mOXy",
+            "artist_name": "cr1tter",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
+        {
+            "album_name": "yea I think",
+            "artist_name": "cr1tter",
+            "plays": 3
+        },
         {
             "album_name": "Reading, Writing And Arithmetic",
             "artist_name": "The Sundays",
             "plays": 2
         },
         {
+            "album_name": "mOXy",
+            "artist_name": "cr1tter",
+            "plays": 2
+        },
+        {
+            "album_name": "On All Fours",
+            "artist_name": "Goat Girl",
+            "plays": 2
+        },
+        {
             "album_name": "New Age Prayer",
             "artist_name": "Taraneh",
-            "plays": 2
-        },
-        {
-            "album_name": "no dream / apathy",
-            "artist_name": "Lean Tee",
-            "plays": 2
-        },
-        {
-            "album_name": "Shed Winter",
-            "artist_name": "Bowls",
-            "plays": 2
-        },
-        {
-            "album_name": "5678",
-            "artist_name": "cootie catcher",
             "plays": 2
         }
     ]
