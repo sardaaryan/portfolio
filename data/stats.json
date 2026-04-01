@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-03-31T21:03:14.156356",
-    "total_listening_time": "5h 30m",
+    "last_updated": "2026-04-01T09:45:36.443551",
+    "total_listening_time": "6h 29m",
     "top_artists_weekly": [
         {
             "artist_name": "cr1tter",
@@ -19,15 +19,15 @@
             "plays": 3
         },
         {
-            "artist_name": "Bedbug",
-            "plays": 2
+            "artist_name": "BROCKHAMPTON",
+            "plays": 3
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "tiny fist",
-            "artist_name": "Bedbug",
-            "plays": 2
+            "track_name": "BOOGIE",
+            "artist_name": "BROCKHAMPTON",
+            "plays": 3
         },
         {
             "track_name": "mOXy",
@@ -35,26 +35,36 @@
             "plays": 2
         },
         {
+            "track_name": "bite marks",
+            "artist_name": "cr1tter",
+            "plays": 2
+        },
+        {
+            "track_name": "Burn",
+            "artist_name": "Taraneh",
+            "plays": 2
+        },
+        {
             "track_name": "ontario",
             "artist_name": "cootie catcher",
-            "plays": 2
-        },
-        {
-            "track_name": "I Been Young",
-            "artist_name": "George Clanton",
-            "plays": 2
-        },
-        {
-            "track_name": "P.T.S.Tea",
-            "artist_name": "Goat Girl",
             "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
+            "album_name": "SATURATION III",
+            "artist_name": "BROCKHAMPTON",
+            "plays": 3
+        },
+        {
             "album_name": "yea I think",
             "artist_name": "cr1tter",
             "plays": 3
+        },
+        {
+            "album_name": "iRock (iRoll)",
+            "artist_name": "cr1tter",
+            "plays": 2
         },
         {
             "album_name": "Reading, Writing And Arithmetic",
@@ -62,18 +72,8 @@
             "plays": 2
         },
         {
-            "album_name": "mOXy",
+            "album_name": "Poisoner",
             "artist_name": "cr1tter",
-            "plays": 2
-        },
-        {
-            "album_name": "On All Fours",
-            "artist_name": "Goat Girl",
-            "plays": 2
-        },
-        {
-            "album_name": "New Age Prayer",
-            "artist_name": "Taraneh",
             "plays": 2
         }
     ]
