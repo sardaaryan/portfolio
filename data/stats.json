@@ -1,10 +1,14 @@
 {
-    "last_updated": "2026-04-01T09:45:36.443551",
-    "total_listening_time": "6h 29m",
+    "last_updated": "2026-04-01T21:07:46.695676",
+    "total_listening_time": "7h 32m",
     "top_artists_weekly": [
         {
             "artist_name": "cr1tter",
             "plays": 18
+        },
+        {
+            "artist_name": "BROCKHAMPTON",
+            "plays": 4
         },
         {
             "artist_name": "han.irl <3",
@@ -17,36 +21,32 @@
         {
             "artist_name": "Sewerperson",
             "plays": 3
-        },
-        {
-            "artist_name": "BROCKHAMPTON",
-            "plays": 3
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "BOOGIE",
             "artist_name": "BROCKHAMPTON",
-            "plays": 3
+            "plays": 4
         },
         {
-            "track_name": "mOXy",
-            "artist_name": "cr1tter",
+            "track_name": "no dream / apathy",
+            "artist_name": "Lean Tee",
             "plays": 2
         },
         {
-            "track_name": "bite marks",
-            "artist_name": "cr1tter",
+            "track_name": "Strawberry Letter 23",
+            "artist_name": "The Brothers Johnson",
             "plays": 2
         },
         {
-            "track_name": "Burn",
-            "artist_name": "Taraneh",
+            "track_name": "W.I.G.F.Y.",
+            "artist_name": "Bowls",
             "plays": 2
         },
         {
-            "track_name": "ontario",
-            "artist_name": "cootie catcher",
+            "track_name": "Here's Where The Story Ends",
+            "artist_name": "The Sundays",
             "plays": 2
         }
     ],
@@ -54,6 +54,11 @@
         {
             "album_name": "SATURATION III",
             "artist_name": "BROCKHAMPTON",
+            "plays": 4
+        },
+        {
+            "album_name": "Right On Time",
+            "artist_name": "The Brothers Johnson",
             "plays": 3
         },
         {
@@ -62,18 +67,13 @@
             "plays": 3
         },
         {
-            "album_name": "iRock (iRoll)",
-            "artist_name": "cr1tter",
+            "album_name": "New Age Prayer",
+            "artist_name": "Taraneh",
             "plays": 2
         },
         {
-            "album_name": "Reading, Writing And Arithmetic",
-            "artist_name": "The Sundays",
-            "plays": 2
-        },
-        {
-            "album_name": "Poisoner",
-            "artist_name": "cr1tter",
+            "album_name": "On All Fours",
+            "artist_name": "Goat Girl",
             "plays": 2
         }
     ]
