@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-03T09:28:28.149751",
+    "last_updated": "2026-04-03T21:02:23.212800",
     "total_listening_time": "9h 55m",
     "top_artists_weekly": [
         {
@@ -57,13 +57,8 @@
             "plays": 4
         },
         {
-            "album_name": "Here Comes The Cowboy",
-            "artist_name": "Mac DeMarco",
-            "plays": 3
-        },
-        {
-            "album_name": "yea I think",
-            "artist_name": "cr1tter",
+            "album_name": "God Save The Animals",
+            "artist_name": "Alex G",
             "plays": 3
         },
         {
@@ -74,6 +69,11 @@
         {
             "album_name": "Resavoir",
             "artist_name": "Resavoir",
+            "plays": 3
+        },
+        {
+            "album_name": "Here Comes The Cowboy",
+            "artist_name": "Mac DeMarco",
             "plays": 3
         }
     ]
