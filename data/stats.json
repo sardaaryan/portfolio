@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-03T21:02:23.212800",
-    "total_listening_time": "9h 55m",
+    "last_updated": "2026-04-04T09:06:13.981301",
+    "total_listening_time": "9h 59m",
     "top_artists_weekly": [
         {
             "artist_name": "cr1tter",
@@ -57,13 +57,8 @@
             "plays": 4
         },
         {
-            "album_name": "God Save The Animals",
-            "artist_name": "Alex G",
-            "plays": 3
-        },
-        {
-            "album_name": "Right On Time",
-            "artist_name": "The Brothers Johnson",
+            "album_name": "Here Comes The Cowboy",
+            "artist_name": "Mac DeMarco",
             "plays": 3
         },
         {
@@ -72,8 +67,13 @@
             "plays": 3
         },
         {
-            "album_name": "Here Comes The Cowboy",
-            "artist_name": "Mac DeMarco",
+            "album_name": "Right On Time",
+            "artist_name": "The Brothers Johnson",
+            "plays": 3
+        },
+        {
+            "album_name": "God Save The Animals",
+            "artist_name": "Alex G",
             "plays": 3
         }
     ]
