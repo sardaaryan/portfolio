@@ -1,17 +1,17 @@
 {
-    "last_updated": "2026-04-04T09:06:13.981301",
-    "total_listening_time": "9h 59m",
+    "last_updated": "2026-04-04T20:57:05.232509",
+    "total_listening_time": "10h 13m",
     "top_artists_weekly": [
         {
             "artist_name": "cr1tter",
             "plays": 18
         },
         {
-            "artist_name": "Alex G",
-            "plays": 5
+            "artist_name": "Santana",
+            "plays": 8
         },
         {
-            "artist_name": "Santana",
+            "artist_name": "Alex G",
             "plays": 5
         },
         {
@@ -30,13 +30,8 @@
             "plays": 4
         },
         {
-            "track_name": "Miracles",
-            "artist_name": "Alex G",
-            "plays": 3
-        },
-        {
-            "track_name": "Preoccupied",
-            "artist_name": "Mac DeMarco",
+            "track_name": "Foo Foo - Live From NY",
+            "artist_name": "Santana",
             "plays": 3
         },
         {
@@ -45,9 +40,14 @@
             "plays": 3
         },
         {
-            "track_name": "mOXy",
-            "artist_name": "cr1tter",
-            "plays": 2
+            "track_name": "Preoccupied",
+            "artist_name": "Mac DeMarco",
+            "plays": 3
+        },
+        {
+            "track_name": "Miracles",
+            "artist_name": "Alex G",
+            "plays": 3
         }
     ],
     "top_albums_weekly": [
@@ -62,8 +62,8 @@
             "plays": 3
         },
         {
-            "album_name": "Resavoir",
-            "artist_name": "Resavoir",
+            "album_name": "All That I Am... Live From New York",
+            "artist_name": "Santana",
             "plays": 3
         },
         {
@@ -72,8 +72,8 @@
             "plays": 3
         },
         {
-            "album_name": "God Save The Animals",
-            "artist_name": "Alex G",
+            "album_name": "Resavoir",
+            "artist_name": "Resavoir",
             "plays": 3
         }
     ]
