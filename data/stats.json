@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-05T09:07:25.421227",
+    "last_updated": "2026-04-05T20:58:17.649593",
     "total_listening_time": "10h 13m",
     "top_artists_weekly": [
         {
             "artist_name": "cr1tter",
-            "plays": 17
+            "plays": 16
         },
         {
             "artist_name": "Santana",
@@ -30,16 +30,6 @@
             "plays": 4
         },
         {
-            "track_name": "Foo Foo - Live From NY",
-            "artist_name": "Santana",
-            "plays": 3
-        },
-        {
-            "track_name": "Illusion",
-            "artist_name": "Resavoir",
-            "plays": 3
-        },
-        {
             "track_name": "Preoccupied",
             "artist_name": "Mac DeMarco",
             "plays": 3
@@ -47,6 +37,16 @@
         {
             "track_name": "Miracles",
             "artist_name": "Alex G",
+            "plays": 3
+        },
+        {
+            "track_name": "Foo Foo - Live From NY",
+            "artist_name": "Santana",
+            "plays": 3
+        },
+        {
+            "track_name": "Illusion",
+            "artist_name": "Resavoir",
             "plays": 3
         }
     ],
@@ -57,23 +57,23 @@
             "plays": 4
         },
         {
-            "album_name": "Here Comes The Cowboy",
-            "artist_name": "Mac DeMarco",
-            "plays": 3
-        },
-        {
-            "album_name": "All That I Am... Live From New York",
-            "artist_name": "Santana",
-            "plays": 3
-        },
-        {
-            "album_name": "yea I think",
-            "artist_name": "cr1tter",
+            "album_name": "God Save The Animals",
+            "artist_name": "Alex G",
             "plays": 3
         },
         {
             "album_name": "Right On Time",
             "artist_name": "The Brothers Johnson",
+            "plays": 3
+        },
+        {
+            "album_name": "Resavoir",
+            "artist_name": "Resavoir",
+            "plays": 3
+        },
+        {
+            "album_name": "All That I Am... Live From New York",
+            "artist_name": "Santana",
             "plays": 3
         }
     ]
