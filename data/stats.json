@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-07T09:43:27.091520",
-    "total_listening_time": "3h 15m",
+    "last_updated": "2026-04-07T21:10:52.322285",
+    "total_listening_time": "4h 5m",
     "top_artists_weekly": [
         {
             "artist_name": "Santana",
@@ -12,14 +12,14 @@
         },
         {
             "artist_name": "Dazey and the Scouts",
+            "plays": 3
+        },
+        {
+            "artist_name": "JPEGMAFIA",
             "plays": 2
         },
         {
             "artist_name": "America",
-            "plays": 2
-        },
-        {
-            "artist_name": "Raymond Scott",
             "plays": 2
         }
     ],
@@ -30,6 +30,16 @@
             "plays": 3
         },
         {
+            "track_name": "Wet",
+            "artist_name": "Dazey and the Scouts",
+            "plays": 3
+        },
+        {
+            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
+            "artist_name": "Santana",
+            "plays": 2
+        },
+        {
             "track_name": "Foo Foo - Live From NY",
             "artist_name": "Santana",
             "plays": 2
@@ -38,19 +48,14 @@
             "track_name": "Sprite: Melonball Bounce",
             "artist_name": "Raymond Scott",
             "plays": 2
-        },
-        {
-            "track_name": "Wet",
-            "artist_name": "Dazey and the Scouts",
-            "plays": 2
-        },
-        {
-            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
-            "artist_name": "Santana",
-            "plays": 2
         }
     ],
     "top_albums_weekly": [
+        {
+            "album_name": "Maggot",
+            "artist_name": "Dazey and the Scouts",
+            "plays": 3
+        },
         {
             "album_name": "God Save The Animals",
             "artist_name": "Alex G",
@@ -69,11 +74,6 @@
         {
             "album_name": "Supernatural (Remastered)",
             "artist_name": "Santana",
-            "plays": 2
-        },
-        {
-            "album_name": "Maggot",
-            "artist_name": "Dazey and the Scouts",
             "plays": 2
         }
     ]
