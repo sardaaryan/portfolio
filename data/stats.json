@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-06T21:03:34.217636",
+    "last_updated": "2026-04-07T09:43:27.091520",
     "total_listening_time": "3h 15m",
     "top_artists_weekly": [
         {
@@ -15,11 +15,11 @@
             "plays": 2
         },
         {
-            "artist_name": "Raymond Scott",
+            "artist_name": "America",
             "plays": 2
         },
         {
-            "artist_name": "Devon Again",
+            "artist_name": "Raymond Scott",
             "plays": 2
         }
     ],
@@ -28,11 +28,6 @@
             "track_name": "Miracles",
             "artist_name": "Alex G",
             "plays": 3
-        },
-        {
-            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
-            "artist_name": "Santana",
-            "plays": 2
         },
         {
             "track_name": "Foo Foo - Live From NY",
@@ -47,6 +42,11 @@
         {
             "track_name": "Wet",
             "artist_name": "Dazey and the Scouts",
+            "plays": 2
+        },
+        {
+            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
+            "artist_name": "Santana",
             "plays": 2
         }
     ],
