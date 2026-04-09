@@ -1,7 +1,11 @@
 {
-    "last_updated": "2026-04-08T21:10:13.869882",
-    "total_listening_time": "5h 9m",
+    "last_updated": "2026-04-09T09:49:15.364337",
+    "total_listening_time": "6h 7m",
     "top_artists_weekly": [
+        {
+            "artist_name": "Lucky Ali",
+            "plays": 10
+        },
         {
             "artist_name": "Santana",
             "plays": 8
@@ -17,26 +21,22 @@
         {
             "artist_name": "JPEGMAFIA",
             "plays": 3
-        },
-        {
-            "artist_name": "America",
-            "plays": 2
         }
     ],
     "top_tracks_weekly": [
-        {
-            "track_name": "Miracles",
-            "artist_name": "Alex G",
-            "plays": 3
-        },
         {
             "track_name": "Wet",
             "artist_name": "Dazey and the Scouts",
             "plays": 3
         },
         {
-            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
-            "artist_name": "Santana",
+            "track_name": "Miracles",
+            "artist_name": "Alex G",
+            "plays": 3
+        },
+        {
+            "track_name": "Sprite: Melonball Bounce",
+            "artist_name": "Raymond Scott",
             "plays": 2
         },
         {
@@ -45,12 +45,17 @@
             "plays": 2
         },
         {
-            "track_name": "Sprite: Melonball Bounce",
-            "artist_name": "Raymond Scott",
+            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
+            "artist_name": "Santana",
             "plays": 2
         }
     ],
     "top_albums_weekly": [
+        {
+            "album_name": "Sunoh",
+            "artist_name": "Lucky Ali",
+            "plays": 9
+        },
         {
             "album_name": "Maggot",
             "artist_name": "Dazey and the Scouts",
@@ -62,17 +67,12 @@
             "plays": 3
         },
         {
-            "album_name": "All That I Am... Live From New York",
+            "album_name": "Supernatural (Remastered)",
             "artist_name": "Santana",
             "plays": 2
         },
         {
-            "album_name": "Manhattan Research, Inc.",
-            "artist_name": "Raymond Scott",
-            "plays": 2
-        },
-        {
-            "album_name": "Supernatural (Remastered)",
+            "album_name": "All That I Am... Live From New York",
             "artist_name": "Santana",
             "plays": 2
         }
