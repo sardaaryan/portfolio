@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-10T09:46:13.075550",
-    "total_listening_time": "6h 58m",
+    "last_updated": "2026-04-10T21:04:01.051811",
+    "total_listening_time": "8h 19m",
     "top_artists_weekly": [
         {
             "artist_name": "Lucky Ali",
@@ -11,42 +11,42 @@
             "plays": 7
         },
         {
+            "artist_name": "Taraneh",
+            "plays": 5
+        },
+        {
             "artist_name": "The Local Train",
             "plays": 4
         },
         {
-            "artist_name": "JPEGMAFIA",
-            "plays": 2
-        },
-        {
-            "artist_name": "America",
-            "plays": 2
+            "artist_name": "Devon Again",
+            "plays": 3
         }
     ],
     "top_tracks_weekly": [
-        {
-            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
-            "artist_name": "Santana",
-            "plays": 2
-        },
         {
             "track_name": "Tu Hai Kahaan - From \"Do Aur Do Pyaar\"",
             "artist_name": "The Local Train",
             "plays": 2
         },
         {
-            "track_name": "Blues Boys Tune",
-            "artist_name": "B.B. King",
+            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
+            "artist_name": "Santana",
+            "plays": 2
+        },
+        {
+            "track_name": "cherry cola",
+            "artist_name": "Devon Again",
             "plays": 1
         },
         {
-            "track_name": "Ventura Highway",
-            "artist_name": "America",
+            "track_name": "fire",
+            "artist_name": "CAGEDANCR.",
             "plays": 1
         },
         {
-            "track_name": "Time of the Season - Mono Remastered",
-            "artist_name": "The Zombies",
+            "track_name": "Stuck On You",
+            "artist_name": "GIV\u0112ON",
             "plays": 1
         }
     ],
@@ -57,8 +57,13 @@
             "plays": 9
         },
         {
-            "album_name": "Nawal Banna Ri Jaan",
-            "artist_name": "Suresh Pareek",
+            "album_name": "words from a wishing well",
+            "artist_name": "shower curtain",
+            "plays": 3
+        },
+        {
+            "album_name": "come back down",
+            "artist_name": "Total Wife",
             "plays": 2
         },
         {
@@ -67,14 +72,9 @@
             "plays": 2
         },
         {
-            "album_name": "Supernatural (Remastered)",
-            "artist_name": "Santana",
+            "album_name": "Good Health",
+            "artist_name": "Pretty Girls Make Graves",
             "plays": 2
-        },
-        {
-            "album_name": "All That I Am... Live From New York",
-            "artist_name": "Santana",
-            "plays": 1
         }
     ]
 }
