@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-09T21:09:11.733511",
-    "total_listening_time": "6h 43m",
+    "last_updated": "2026-04-10T09:46:13.075550",
+    "total_listening_time": "6h 58m",
     "top_artists_weekly": [
         {
             "artist_name": "Lucky Ali",
@@ -8,27 +8,22 @@
         },
         {
             "artist_name": "Santana",
-            "plays": 8
+            "plays": 7
         },
         {
             "artist_name": "The Local Train",
             "plays": 4
         },
         {
-            "artist_name": "Alex G",
-            "plays": 4
+            "artist_name": "JPEGMAFIA",
+            "plays": 2
         },
         {
-            "artist_name": "JPEGMAFIA",
-            "plays": 3
+            "artist_name": "America",
+            "plays": 2
         }
     ],
     "top_tracks_weekly": [
-        {
-            "track_name": "Miracles",
-            "artist_name": "Alex G",
-            "plays": 3
-        },
         {
             "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
             "artist_name": "Santana",
@@ -40,14 +35,19 @@
             "plays": 2
         },
         {
-            "track_name": "Foo Foo - Live From NY",
-            "artist_name": "Santana",
-            "plays": 2
+            "track_name": "Blues Boys Tune",
+            "artist_name": "B.B. King",
+            "plays": 1
         },
         {
-            "track_name": "Wet",
-            "artist_name": "Dazey and the Scouts",
-            "plays": 2
+            "track_name": "Ventura Highway",
+            "artist_name": "America",
+            "plays": 1
+        },
+        {
+            "track_name": "Time of the Season - Mono Remastered",
+            "artist_name": "The Zombies",
+            "plays": 1
         }
     ],
     "top_albums_weekly": [
@@ -55,11 +55,6 @@
             "album_name": "Sunoh",
             "artist_name": "Lucky Ali",
             "plays": 9
-        },
-        {
-            "album_name": "God Save The Animals",
-            "artist_name": "Alex G",
-            "plays": 3
         },
         {
             "album_name": "Nawal Banna Ri Jaan",
@@ -72,9 +67,14 @@
             "plays": 2
         },
         {
-            "album_name": "All That I Am... Live From New York",
+            "album_name": "Supernatural (Remastered)",
             "artist_name": "Santana",
             "plays": 2
+        },
+        {
+            "album_name": "All That I Am... Live From New York",
+            "artist_name": "Santana",
+            "plays": 1
         }
     ]
 }
