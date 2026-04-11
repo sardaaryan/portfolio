@@ -1,9 +1,13 @@
 {
-    "last_updated": "2026-04-10T21:04:01.051811",
-    "total_listening_time": "8h 19m",
+    "last_updated": "2026-04-11T09:09:01.150544",
+    "total_listening_time": "10h 19m",
     "top_artists_weekly": [
         {
             "artist_name": "Lucky Ali",
+            "plays": 11
+        },
+        {
+            "artist_name": "Goat Girl",
             "plays": 11
         },
         {
@@ -12,15 +16,11 @@
         },
         {
             "artist_name": "Taraneh",
+            "plays": 6
+        },
+        {
+            "artist_name": "Pretty Girls Make Graves",
             "plays": 5
-        },
-        {
-            "artist_name": "The Local Train",
-            "plays": 4
-        },
-        {
-            "artist_name": "Devon Again",
-            "plays": 3
         }
     ],
     "top_tracks_weekly": [
@@ -30,51 +30,51 @@
             "plays": 2
         },
         {
-            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
-            "artist_name": "Santana",
+            "track_name": "Piya",
+            "artist_name": "Khwaab",
             "plays": 2
         },
         {
-            "track_name": "cherry cola",
-            "artist_name": "Devon Again",
-            "plays": 1
+            "track_name": "benadryl man",
+            "artist_name": "shower curtain",
+            "plays": 2
         },
         {
-            "track_name": "fire",
-            "artist_name": "CAGEDANCR.",
-            "plays": 1
+            "track_name": "Heaven Year",
+            "artist_name": "Bleary Eyed",
+            "plays": 2
         },
         {
-            "track_name": "Stuck On You",
-            "artist_name": "GIV\u0112ON",
-            "plays": 1
+            "track_name": "The Getaway",
+            "artist_name": "Pretty Girls Make Graves",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
+        {
+            "album_name": "On All Fours",
+            "artist_name": "Goat Girl",
+            "plays": 9
+        },
         {
             "album_name": "Sunoh",
             "artist_name": "Lucky Ali",
             "plays": 9
         },
         {
-            "album_name": "words from a wishing well",
-            "artist_name": "shower curtain",
-            "plays": 3
-        },
-        {
-            "album_name": "come back down",
-            "artist_name": "Total Wife",
-            "plays": 2
-        },
-        {
-            "album_name": "Tu Hai Kahaan (From \"Do Aur Do Pyaar\")",
-            "artist_name": "The Local Train",
-            "plays": 2
-        },
-        {
             "album_name": "Good Health",
             "artist_name": "Pretty Girls Make Graves",
-            "plays": 2
+            "plays": 5
+        },
+        {
+            "album_name": "words from a wishing well",
+            "artist_name": "shower curtain",
+            "plays": 4
+        },
+        {
+            "album_name": "Return Of Saturn",
+            "artist_name": "No Doubt",
+            "plays": 3
         }
     ]
 }
