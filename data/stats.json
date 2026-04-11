@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-11T09:09:01.150544",
-    "total_listening_time": "10h 19m",
+    "last_updated": "2026-04-11T20:59:59.456270",
+    "total_listening_time": "10h 39m",
     "top_artists_weekly": [
         {
             "artist_name": "Lucky Ali",
@@ -11,54 +11,54 @@
             "plays": 11
         },
         {
-            "artist_name": "Santana",
-            "plays": 7
-        },
-        {
             "artist_name": "Taraneh",
             "plays": 6
         },
         {
             "artist_name": "Pretty Girls Make Graves",
             "plays": 5
+        },
+        {
+            "artist_name": "The Local Train",
+            "plays": 4
         }
     ],
     "top_tracks_weekly": [
         {
+            "track_name": "wrong song",
+            "artist_name": "ee",
+            "plays": 2
+        },
+        {
+            "track_name": "Son of a Preacher Man",
+            "artist_name": "Dusty Springfield",
+            "plays": 2
+        },
+        {
+            "track_name": "Do You Like the Way (feat. Lauryn Hill & Cee-Lo)",
+            "artist_name": "Santana",
+            "plays": 2
+        },
+        {
+            "track_name": "Spitting Image",
+            "artist_name": "Taraneh",
+            "plays": 2
+        },
+        {
             "track_name": "Tu Hai Kahaan - From \"Do Aur Do Pyaar\"",
             "artist_name": "The Local Train",
-            "plays": 2
-        },
-        {
-            "track_name": "Piya",
-            "artist_name": "Khwaab",
-            "plays": 2
-        },
-        {
-            "track_name": "benadryl man",
-            "artist_name": "shower curtain",
-            "plays": 2
-        },
-        {
-            "track_name": "Heaven Year",
-            "artist_name": "Bleary Eyed",
-            "plays": 2
-        },
-        {
-            "track_name": "The Getaway",
-            "artist_name": "Pretty Girls Make Graves",
             "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "On All Fours",
-            "artist_name": "Goat Girl",
+            "album_name": "Sunoh",
+            "artist_name": "Lucky Ali",
             "plays": 9
         },
         {
-            "album_name": "Sunoh",
-            "artist_name": "Lucky Ali",
+            "album_name": "On All Fours",
+            "artist_name": "Goat Girl",
             "plays": 9
         },
         {
@@ -72,8 +72,8 @@
             "plays": 4
         },
         {
-            "album_name": "Return Of Saturn",
-            "artist_name": "No Doubt",
+            "album_name": "Doomin' Sun",
+            "artist_name": "Bachelor",
             "plays": 3
         }
     ]
