@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-04-12T09:12:49.591162",
-    "total_listening_time": "13h 5m",
+    "last_updated": "2026-04-12T21:02:05.450359",
+    "total_listening_time": "13h 54m",
     "top_artists_weekly": [
         {
             "artist_name": "Goat Girl",
-            "plays": 13
+            "plays": 14
         },
         {
             "artist_name": "Lucky Ali",
@@ -12,7 +12,7 @@
         },
         {
             "artist_name": "Taraneh",
-            "plays": 8
+            "plays": 9
         },
         {
             "artist_name": "cr1tter",
@@ -20,46 +20,51 @@
         },
         {
             "artist_name": "Pretty Girls Make Graves",
-            "plays": 6
+            "plays": 7
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Hasta La Vista",
-            "artist_name": "Dream Wife",
-            "plays": 4
-        },
-        {
             "track_name": "Viper Fish",
             "artist_name": "Goat Girl",
-            "plays": 4
+            "plays": 5
         },
         {
             "track_name": "Spitting Image",
             "artist_name": "Taraneh",
-            "plays": 4
+            "plays": 5
+        },
+        {
+            "track_name": "Hasta La Vista",
+            "artist_name": "Dream Wife",
+            "plays": 5
         },
         {
             "track_name": "benadryl man",
             "artist_name": "shower curtain",
-            "plays": 3
+            "plays": 4
         },
         {
             "track_name": "The Getaway",
             "artist_name": "Pretty Girls Make Graves",
-            "plays": 3
+            "plays": 4
         }
     ],
     "top_albums_weekly": [
+        {
+            "album_name": "Sunoh",
+            "artist_name": "Lucky Ali",
+            "plays": 9
+        },
         {
             "album_name": "On All Fours",
             "artist_name": "Goat Girl",
             "plays": 9
         },
         {
-            "album_name": "Sunoh",
-            "artist_name": "Lucky Ali",
-            "plays": 9
+            "album_name": "Good Health",
+            "artist_name": "Pretty Girls Make Graves",
+            "plays": 7
         },
         {
             "album_name": "mountains & molehills",
@@ -67,14 +72,9 @@
             "plays": 7
         },
         {
-            "album_name": "Good Health",
-            "artist_name": "Pretty Girls Make Graves",
-            "plays": 6
-        },
-        {
             "album_name": "words from a wishing well",
             "artist_name": "shower curtain",
-            "plays": 5
+            "plays": 6
         }
     ]
 }
