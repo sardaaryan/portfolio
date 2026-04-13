@@ -1,80 +1,80 @@
 {
-    "last_updated": "2026-04-12T21:02:05.450359",
-    "total_listening_time": "13h 54m",
+    "last_updated": "2026-04-13T10:14:50.566210",
+    "total_listening_time": "2h 35m",
     "top_artists_weekly": [
-        {
-            "artist_name": "Goat Girl",
-            "plays": 14
-        },
-        {
-            "artist_name": "Lucky Ali",
-            "plays": 11
-        },
-        {
-            "artist_name": "Taraneh",
-            "plays": 9
-        },
         {
             "artist_name": "cr1tter",
             "plays": 7
         },
         {
+            "artist_name": "Dazey and the Scouts",
+            "plays": 5
+        },
+        {
+            "artist_name": "ovine hall",
+            "plays": 4
+        },
+        {
+            "artist_name": "glaive",
+            "plays": 3
+        },
+        {
             "artist_name": "Pretty Girls Make Graves",
-            "plays": 7
+            "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Viper Fish",
-            "artist_name": "Goat Girl",
-            "plays": 5
+            "track_name": "tristan",
+            "artist_name": "cr1tter",
+            "plays": 2
         },
         {
-            "track_name": "Spitting Image",
-            "artist_name": "Taraneh",
-            "plays": 5
+            "track_name": "Piya",
+            "artist_name": "Khwaab",
+            "plays": 2
         },
         {
-            "track_name": "Hasta La Vista",
-            "artist_name": "Dream Wife",
-            "plays": 5
+            "track_name": "colt 45",
+            "artist_name": "cr1tter",
+            "plays": 2
         },
         {
-            "track_name": "benadryl man",
-            "artist_name": "shower curtain",
-            "plays": 4
+            "track_name": "Wire - Leaping Dub",
+            "artist_name": "Massive Attack",
+            "plays": 2
         },
         {
-            "track_name": "The Getaway",
-            "artist_name": "Pretty Girls Make Graves",
-            "plays": 4
+            "track_name": "Groan",
+            "artist_name": "Dazey and the Scouts",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
-        {
-            "album_name": "Sunoh",
-            "artist_name": "Lucky Ali",
-            "plays": 9
-        },
-        {
-            "album_name": "On All Fours",
-            "artist_name": "Goat Girl",
-            "plays": 9
-        },
-        {
-            "album_name": "Good Health",
-            "artist_name": "Pretty Girls Make Graves",
-            "plays": 7
-        },
         {
             "album_name": "mountains & molehills",
             "artist_name": "cr1tter",
             "plays": 7
         },
         {
-            "album_name": "words from a wishing well",
-            "artist_name": "shower curtain",
-            "plays": 6
+            "album_name": "Maggot",
+            "artist_name": "Dazey and the Scouts",
+            "plays": 5
+        },
+        {
+            "album_name": "things i forgot about",
+            "artist_name": "ovine hall",
+            "plays": 4
+        },
+        {
+            "album_name": "i care so much that i dont care at all",
+            "artist_name": "glaive",
+            "plays": 3
+        },
+        {
+            "album_name": "Odessey and Oracle (Mono Remastered)",
+            "artist_name": "The Zombies",
+            "plays": 2
         }
     ]
 }
