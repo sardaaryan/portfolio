@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-13T10:14:50.566210",
-    "total_listening_time": "2h 35m",
+    "last_updated": "2026-04-13T21:13:15.264924",
+    "total_listening_time": "2h 39m",
     "top_artists_weekly": [
         {
             "artist_name": "cr1tter",
@@ -25,8 +25,8 @@
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "tristan",
-            "artist_name": "cr1tter",
+            "track_name": "Stupid Shit - A.T. mixxx",
+            "artist_name": "Rio Da Yung Og",
             "plays": 2
         },
         {
@@ -35,18 +35,18 @@
             "plays": 2
         },
         {
-            "track_name": "colt 45",
+            "track_name": "Groan",
+            "artist_name": "Dazey and the Scouts",
+            "plays": 2
+        },
+        {
+            "track_name": "tristan",
             "artist_name": "cr1tter",
             "plays": 2
         },
         {
-            "track_name": "Wire - Leaping Dub",
-            "artist_name": "Massive Attack",
-            "plays": 2
-        },
-        {
-            "track_name": "Groan",
-            "artist_name": "Dazey and the Scouts",
+            "track_name": "Time of the Season - Mono Remastered",
+            "artist_name": "The Zombies",
             "plays": 2
         }
     ],
@@ -72,8 +72,8 @@
             "plays": 3
         },
         {
-            "album_name": "Odessey and Oracle (Mono Remastered)",
-            "artist_name": "The Zombies",
+            "album_name": "Nawal Banna Ri Jaan",
+            "artist_name": "Suresh Pareek",
             "plays": 2
         }
     ]
