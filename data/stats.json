@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-13T21:13:15.264924",
-    "total_listening_time": "2h 39m",
+    "last_updated": "2026-04-14T09:55:15.342716",
+    "total_listening_time": "3h 9m",
     "top_artists_weekly": [
         {
             "artist_name": "cr1tter",
@@ -11,27 +11,27 @@
             "plays": 5
         },
         {
+            "artist_name": "Pretty Girls Make Graves",
+            "plays": 4
+        },
+        {
             "artist_name": "ovine hall",
             "plays": 4
         },
         {
             "artist_name": "glaive",
             "plays": 3
-        },
-        {
-            "artist_name": "Pretty Girls Make Graves",
-            "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Stupid Shit - A.T. mixxx",
-            "artist_name": "Rio Da Yung Og",
-            "plays": 2
+            "track_name": "Wire - Leaping Dub",
+            "artist_name": "Massive Attack",
+            "plays": 3
         },
         {
-            "track_name": "Piya",
-            "artist_name": "Khwaab",
+            "track_name": "wrong song",
+            "artist_name": "ee",
             "plays": 2
         },
         {
@@ -40,8 +40,8 @@
             "plays": 2
         },
         {
-            "track_name": "tristan",
-            "artist_name": "cr1tter",
+            "track_name": "Son of a Preacher Man",
+            "artist_name": "Dusty Springfield",
             "plays": 2
         },
         {
@@ -67,14 +67,14 @@
             "plays": 4
         },
         {
-            "album_name": "i care so much that i dont care at all",
-            "artist_name": "glaive",
-            "plays": 3
+            "album_name": "Good Health",
+            "artist_name": "Pretty Girls Make Graves",
+            "plays": 4
         },
         {
-            "album_name": "Nawal Banna Ri Jaan",
-            "artist_name": "Suresh Pareek",
-            "plays": 2
+            "album_name": "Mezzanine (Deluxe)",
+            "artist_name": "Massive Attack",
+            "plays": 3
         }
     ]
 }
