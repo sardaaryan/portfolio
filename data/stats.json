@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-14T09:55:15.342716",
-    "total_listening_time": "3h 9m",
+    "last_updated": "2026-04-14T21:13:06.509172",
+    "total_listening_time": "3h 37m",
     "top_artists_weekly": [
         {
             "artist_name": "cr1tter",
@@ -11,37 +11,37 @@
             "plays": 5
         },
         {
-            "artist_name": "Pretty Girls Make Graves",
-            "plays": 4
-        },
-        {
             "artist_name": "ovine hall",
             "plays": 4
         },
         {
-            "artist_name": "glaive",
-            "plays": 3
+            "artist_name": "Pretty Girls Make Graves",
+            "plays": 4
+        },
+        {
+            "artist_name": "Khwaab",
+            "plays": 4
         }
     ],
     "top_tracks_weekly": [
+        {
+            "track_name": "Piya",
+            "artist_name": "Khwaab",
+            "plays": 4
+        },
         {
             "track_name": "Wire - Leaping Dub",
             "artist_name": "Massive Attack",
             "plays": 3
         },
         {
-            "track_name": "wrong song",
-            "artist_name": "ee",
-            "plays": 2
+            "track_name": "Hasta La Vista",
+            "artist_name": "Dream Wife",
+            "plays": 3
         },
         {
             "track_name": "Groan",
             "artist_name": "Dazey and the Scouts",
-            "plays": 2
-        },
-        {
-            "track_name": "Son of a Preacher Man",
-            "artist_name": "Dusty Springfield",
             "plays": 2
         },
         {
@@ -62,19 +62,19 @@
             "plays": 5
         },
         {
-            "album_name": "things i forgot about",
-            "artist_name": "ovine hall",
-            "plays": 4
-        },
-        {
             "album_name": "Good Health",
             "artist_name": "Pretty Girls Make Graves",
             "plays": 4
         },
         {
-            "album_name": "Mezzanine (Deluxe)",
-            "artist_name": "Massive Attack",
-            "plays": 3
+            "album_name": "Haal-e-Dil",
+            "artist_name": "Khwaab",
+            "plays": 4
+        },
+        {
+            "album_name": "things i forgot about",
+            "artist_name": "ovine hall",
+            "plays": 4
         }
     ]
 }
