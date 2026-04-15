@@ -1,10 +1,14 @@
 {
-    "last_updated": "2026-04-15T09:57:10.545913",
-    "total_listening_time": "5h 51m",
+    "last_updated": "2026-04-15T21:15:20.817758",
+    "total_listening_time": "8h 50m",
     "top_artists_weekly": [
         {
             "artist_name": "cr1tter",
             "plays": 7
+        },
+        {
+            "artist_name": "The Weeknd",
+            "plays": 5
         },
         {
             "artist_name": "Dazey and the Scouts",
@@ -16,10 +20,6 @@
         },
         {
             "artist_name": "ovine hall",
-            "plays": 4
-        },
-        {
-            "artist_name": "Pretty Girls Make Graves",
             "plays": 4
         }
     ],
@@ -35,11 +35,6 @@
             "plays": 3
         },
         {
-            "track_name": "Money Folder",
-            "artist_name": "Madvillain",
-            "plays": 3
-        },
-        {
             "track_name": "Wire - Leaping Dub",
             "artist_name": "Massive Attack",
             "plays": 3
@@ -47,6 +42,11 @@
         {
             "track_name": "pond",
             "artist_name": "chloe moriondo",
+            "plays": 3
+        },
+        {
+            "track_name": "Money Folder",
+            "artist_name": "Madvillain",
             "plays": 3
         }
     ],
@@ -62,13 +62,13 @@
             "plays": 5
         },
         {
-            "album_name": "things i forgot about",
-            "artist_name": "ovine hall",
+            "album_name": "Good Health",
+            "artist_name": "Pretty Girls Make Graves",
             "plays": 4
         },
         {
-            "album_name": "Good Health",
-            "artist_name": "Pretty Girls Make Graves",
+            "album_name": "things i forgot about",
+            "artist_name": "ovine hall",
             "plays": 4
         },
         {
