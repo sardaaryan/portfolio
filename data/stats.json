@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-14T21:13:06.509172",
-    "total_listening_time": "3h 37m",
+    "last_updated": "2026-04-15T09:57:10.545913",
+    "total_listening_time": "5h 51m",
     "top_artists_weekly": [
         {
             "artist_name": "cr1tter",
@@ -11,15 +11,15 @@
             "plays": 5
         },
         {
+            "artist_name": "Khwaab",
+            "plays": 4
+        },
+        {
             "artist_name": "ovine hall",
             "plays": 4
         },
         {
             "artist_name": "Pretty Girls Make Graves",
-            "plays": 4
-        },
-        {
-            "artist_name": "Khwaab",
             "plays": 4
         }
     ],
@@ -30,24 +30,24 @@
             "plays": 4
         },
         {
-            "track_name": "Wire - Leaping Dub",
-            "artist_name": "Massive Attack",
-            "plays": 3
-        },
-        {
             "track_name": "Hasta La Vista",
             "artist_name": "Dream Wife",
             "plays": 3
         },
         {
-            "track_name": "Groan",
-            "artist_name": "Dazey and the Scouts",
-            "plays": 2
+            "track_name": "Money Folder",
+            "artist_name": "Madvillain",
+            "plays": 3
         },
         {
-            "track_name": "Time of the Season - Mono Remastered",
-            "artist_name": "The Zombies",
-            "plays": 2
+            "track_name": "Wire - Leaping Dub",
+            "artist_name": "Massive Attack",
+            "plays": 3
+        },
+        {
+            "track_name": "pond",
+            "artist_name": "chloe moriondo",
+            "plays": 3
         }
     ],
     "top_albums_weekly": [
@@ -62,6 +62,11 @@
             "plays": 5
         },
         {
+            "album_name": "things i forgot about",
+            "artist_name": "ovine hall",
+            "plays": 4
+        },
+        {
             "album_name": "Good Health",
             "artist_name": "Pretty Girls Make Graves",
             "plays": 4
@@ -69,11 +74,6 @@
         {
             "album_name": "Haal-e-Dil",
             "artist_name": "Khwaab",
-            "plays": 4
-        },
-        {
-            "album_name": "things i forgot about",
-            "artist_name": "ovine hall",
             "plays": 4
         }
     ]
