@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-15T21:15:20.817758",
-    "total_listening_time": "8h 50m",
+    "last_updated": "2026-04-16T09:56:29.824737",
+    "total_listening_time": "10h 41m",
     "top_artists_weekly": [
         {
             "artist_name": "cr1tter",
@@ -8,18 +8,18 @@
         },
         {
             "artist_name": "The Weeknd",
-            "plays": 5
+            "plays": 7
         },
         {
             "artist_name": "Dazey and the Scouts",
             "plays": 5
         },
         {
-            "artist_name": "Khwaab",
+            "artist_name": "ovine hall",
             "plays": 4
         },
         {
-            "artist_name": "ovine hall",
+            "artist_name": "Pretty Girls Make Graves",
             "plays": 4
         }
     ],
@@ -30,13 +30,13 @@
             "plays": 4
         },
         {
-            "track_name": "Hasta La Vista",
-            "artist_name": "Dream Wife",
+            "track_name": "Wire - Leaping Dub",
+            "artist_name": "Massive Attack",
             "plays": 3
         },
         {
-            "track_name": "Wire - Leaping Dub",
-            "artist_name": "Massive Attack",
+            "track_name": "Money Folder",
+            "artist_name": "Madvillain",
             "plays": 3
         },
         {
@@ -45,8 +45,8 @@
             "plays": 3
         },
         {
-            "track_name": "Money Folder",
-            "artist_name": "Madvillain",
+            "track_name": "Hasta La Vista",
+            "artist_name": "Dream Wife",
             "plays": 3
         }
     ],
@@ -62,6 +62,11 @@
             "plays": 5
         },
         {
+            "album_name": "House Of Balloons (Original)",
+            "artist_name": "The Weeknd",
+            "plays": 4
+        },
+        {
             "album_name": "Good Health",
             "artist_name": "Pretty Girls Make Graves",
             "plays": 4
@@ -69,11 +74,6 @@
         {
             "album_name": "things i forgot about",
             "artist_name": "ovine hall",
-            "plays": 4
-        },
-        {
-            "album_name": "Haal-e-Dil",
-            "artist_name": "Khwaab",
             "plays": 4
         }
     ]
