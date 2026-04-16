@@ -1,13 +1,13 @@
 {
-    "last_updated": "2026-04-16T09:56:29.824737",
-    "total_listening_time": "10h 41m",
+    "last_updated": "2026-04-16T21:10:23.198702",
+    "total_listening_time": "11h 7m",
     "top_artists_weekly": [
         {
-            "artist_name": "cr1tter",
-            "plays": 7
+            "artist_name": "The Weeknd",
+            "plays": 8
         },
         {
-            "artist_name": "The Weeknd",
+            "artist_name": "cr1tter",
             "plays": 7
         },
         {
@@ -30,8 +30,8 @@
             "plays": 4
         },
         {
-            "track_name": "Wire - Leaping Dub",
-            "artist_name": "Massive Attack",
+            "track_name": "Hasta La Vista",
+            "artist_name": "Dream Wife",
             "plays": 3
         },
         {
@@ -40,13 +40,13 @@
             "plays": 3
         },
         {
-            "track_name": "pond",
-            "artist_name": "chloe moriondo",
+            "track_name": "Wire - Leaping Dub",
+            "artist_name": "Massive Attack",
             "plays": 3
         },
         {
-            "track_name": "Hasta La Vista",
-            "artist_name": "Dream Wife",
+            "track_name": "pond",
+            "artist_name": "chloe moriondo",
             "plays": 3
         }
     ],
@@ -64,16 +64,16 @@
         {
             "album_name": "House Of Balloons (Original)",
             "artist_name": "The Weeknd",
-            "plays": 4
-        },
-        {
-            "album_name": "Good Health",
-            "artist_name": "Pretty Girls Make Graves",
-            "plays": 4
+            "plays": 5
         },
         {
             "album_name": "things i forgot about",
             "artist_name": "ovine hall",
+            "plays": 4
+        },
+        {
+            "album_name": "Haal-e-Dil",
+            "artist_name": "Khwaab",
             "plays": 4
         }
     ]
