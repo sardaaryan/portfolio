@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-16T21:10:23.198702",
-    "total_listening_time": "11h 7m",
+    "last_updated": "2026-04-17T09:54:44.089322",
+    "total_listening_time": "13h 6m",
     "top_artists_weekly": [
         {
             "artist_name": "The Weeknd",
@@ -15,11 +15,11 @@
             "plays": 5
         },
         {
-            "artist_name": "ovine hall",
-            "plays": 4
+            "artist_name": "Vishal-Shekhar",
+            "plays": 5
         },
         {
-            "artist_name": "Pretty Girls Make Graves",
+            "artist_name": "Pritam",
             "plays": 4
         }
     ],
@@ -30,8 +30,8 @@
             "plays": 4
         },
         {
-            "track_name": "Hasta La Vista",
-            "artist_name": "Dream Wife",
+            "track_name": "Wire - Leaping Dub",
+            "artist_name": "Massive Attack",
             "plays": 3
         },
         {
@@ -40,13 +40,13 @@
             "plays": 3
         },
         {
-            "track_name": "Wire - Leaping Dub",
-            "artist_name": "Massive Attack",
+            "track_name": "pond",
+            "artist_name": "chloe moriondo",
             "plays": 3
         },
         {
-            "track_name": "pond",
-            "artist_name": "chloe moriondo",
+            "track_name": "Hasta La Vista",
+            "artist_name": "Dream Wife",
             "plays": 3
         }
     ],
@@ -67,13 +67,13 @@
             "plays": 5
         },
         {
-            "album_name": "things i forgot about",
-            "artist_name": "ovine hall",
+            "album_name": "Good Health",
+            "artist_name": "Pretty Girls Make Graves",
             "plays": 4
         },
         {
-            "album_name": "Haal-e-Dil",
-            "artist_name": "Khwaab",
+            "album_name": "things i forgot about",
+            "artist_name": "ovine hall",
             "plays": 4
         }
     ]
