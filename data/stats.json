@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-17T21:10:00.061445",
-    "total_listening_time": "13h 56m",
+    "last_updated": "2026-04-18T09:12:27.103113",
+    "total_listening_time": "15h 52m",
     "top_artists_weekly": [
         {
             "artist_name": "The Weeknd",
@@ -12,15 +12,15 @@
         },
         {
             "artist_name": "Vishal-Shekhar",
+            "plays": 6
+        },
+        {
+            "artist_name": "Pritam",
             "plays": 5
         },
         {
             "artist_name": "Dazey and the Scouts",
             "plays": 5
-        },
-        {
-            "artist_name": "chloe moriondo",
-            "plays": 4
         }
     ],
     "top_tracks_weekly": [
@@ -32,7 +32,7 @@
         {
             "track_name": "Hasta La Vista",
             "artist_name": "Dream Wife",
-            "plays": 3
+            "plays": 4
         },
         {
             "track_name": "Money Folder",
@@ -67,14 +67,14 @@
             "plays": 5
         },
         {
-            "album_name": "Haal-e-Dil",
-            "artist_name": "Khwaab",
-            "plays": 4
+            "album_name": "things i forgot about",
+            "artist_name": "ovine hall",
+            "plays": 5
         },
         {
-            "album_name": "Good Health",
-            "artist_name": "Pretty Girls Make Graves",
-            "plays": 4
+            "album_name": "Madvillainy",
+            "artist_name": "Madvillain",
+            "plays": 5
         }
     ]
 }
