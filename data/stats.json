@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-18T09:12:27.103113",
+    "last_updated": "2026-04-18T21:02:16.088919",
     "total_listening_time": "15h 52m",
     "top_artists_weekly": [
         {
@@ -57,23 +57,23 @@
             "plays": 7
         },
         {
-            "album_name": "Maggot",
-            "artist_name": "Dazey and the Scouts",
-            "plays": 5
-        },
-        {
-            "album_name": "House Of Balloons (Original)",
-            "artist_name": "The Weeknd",
-            "plays": 5
-        },
-        {
             "album_name": "things i forgot about",
             "artist_name": "ovine hall",
             "plays": 5
         },
         {
+            "album_name": "Maggot",
+            "artist_name": "Dazey and the Scouts",
+            "plays": 5
+        },
+        {
             "album_name": "Madvillainy",
             "artist_name": "Madvillain",
+            "plays": 5
+        },
+        {
+            "album_name": "House Of Balloons (Original)",
+            "artist_name": "The Weeknd",
             "plays": 5
         }
     ]
