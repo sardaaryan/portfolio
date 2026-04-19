@@ -1,37 +1,37 @@
 {
-    "last_updated": "2026-04-18T21:02:16.088919",
-    "total_listening_time": "15h 52m",
+    "last_updated": "2026-04-19T09:12:59.873610",
+    "total_listening_time": "15h 55m",
     "top_artists_weekly": [
         {
             "artist_name": "The Weeknd",
             "plays": 9
         },
         {
-            "artist_name": "cr1tter",
-            "plays": 7
-        },
-        {
             "artist_name": "Vishal-Shekhar",
             "plays": 6
+        },
+        {
+            "artist_name": "Quadeca",
+            "plays": 5
         },
         {
             "artist_name": "Pritam",
             "plays": 5
         },
         {
-            "artist_name": "Dazey and the Scouts",
+            "artist_name": "Juice WRLD",
             "plays": 5
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Piya",
-            "artist_name": "Khwaab",
+            "track_name": "Hasta La Vista",
+            "artist_name": "Dream Wife",
             "plays": 4
         },
         {
-            "track_name": "Hasta La Vista",
-            "artist_name": "Dream Wife",
+            "track_name": "Piya",
+            "artist_name": "Khwaab",
             "plays": 4
         },
         {
@@ -52,18 +52,8 @@
     ],
     "top_albums_weekly": [
         {
-            "album_name": "mountains & molehills",
-            "artist_name": "cr1tter",
-            "plays": 7
-        },
-        {
-            "album_name": "things i forgot about",
-            "artist_name": "ovine hall",
-            "plays": 5
-        },
-        {
-            "album_name": "Maggot",
-            "artist_name": "Dazey and the Scouts",
+            "album_name": "House Of Balloons (Original)",
+            "artist_name": "The Weeknd",
             "plays": 5
         },
         {
@@ -72,9 +62,19 @@
             "plays": 5
         },
         {
-            "album_name": "House Of Balloons (Original)",
-            "artist_name": "The Weeknd",
-            "plays": 5
+            "album_name": "Good Health",
+            "artist_name": "Pretty Girls Make Graves",
+            "plays": 4
+        },
+        {
+            "album_name": "Haal-e-Dil",
+            "artist_name": "Khwaab",
+            "plays": 4
+        },
+        {
+            "album_name": "So When You Gonna...",
+            "artist_name": "Dream Wife",
+            "plays": 4
         }
     ]
 }
