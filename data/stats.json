@@ -1,80 +1,80 @@
 {
-    "last_updated": "2026-04-19T21:02:44.257097",
-    "total_listening_time": "15h 55m",
+    "last_updated": "2026-04-20T10:16:17.548069",
+    "total_listening_time": "2h 42m",
     "top_artists_weekly": [
         {
-            "artist_name": "The Weeknd",
-            "plays": 9
-        },
-        {
-            "artist_name": "Vishal-Shekhar",
-            "plays": 6
-        },
-        {
             "artist_name": "Quadeca",
-            "plays": 5
+            "plays": 3
         },
         {
-            "artist_name": "Pritam",
-            "plays": 5
+            "artist_name": "Madvillain",
+            "plays": 2
         },
         {
-            "artist_name": "Juice WRLD",
-            "plays": 5
+            "artist_name": "LOONA",
+            "plays": 1
+        },
+        {
+            "artist_name": "MIKE",
+            "plays": 1
+        },
+        {
+            "artist_name": "IDK",
+            "plays": 1
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Piya",
-            "artist_name": "Khwaab",
-            "plays": 4
-        },
-        {
-            "track_name": "Money Folder",
-            "artist_name": "Madvillain",
-            "plays": 3
-        },
-        {
-            "track_name": "Hasta La Vista",
-            "artist_name": "Dream Wife",
-            "plays": 3
-        },
-        {
-            "track_name": "Wire - Leaping Dub",
-            "artist_name": "Massive Attack",
-            "plays": 3
-        },
-        {
-            "track_name": "High For This",
-            "artist_name": "The Weeknd",
+            "track_name": "A LA CARTE",
+            "artist_name": "Quadeca",
             "plays": 2
+        },
+        {
+            "track_name": "All Caps",
+            "artist_name": "Madvillain",
+            "plays": 2
+        },
+        {
+            "track_name": "deepfake",
+            "artist_name": "brakence",
+            "plays": 1
+        },
+        {
+            "track_name": "Acquainted",
+            "artist_name": "The Weeknd",
+            "plays": 1
+        },
+        {
+            "track_name": "Brain Damage",
+            "artist_name": "Eminem",
+            "plays": 1
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "House Of Balloons (Original)",
-            "artist_name": "The Weeknd",
-            "plays": 5
+            "album_name": "SCRAPYARD",
+            "artist_name": "Quadeca",
+            "plays": 2
         },
         {
             "album_name": "Madvillainy",
             "artist_name": "Madvillain",
-            "plays": 5
+            "plays": 2
         },
         {
-            "album_name": "Haal-e-Dil",
-            "artist_name": "Khwaab",
-            "plays": 4
+            "album_name": "Phata Poster Nikhla Hero (Original Motion Picture Soundtrack)",
+            "artist_name": "Pritam",
+            "plays": 1
         },
         {
-            "album_name": "Mezzanine (Deluxe)",
-            "artist_name": "Massive Attack",
-            "plays": 3
+            "album_name": "Bread Winners",
+            "artist_name": "YBN (Young Boss N*ggas)",
+            "plays": 1
         },
         {
-            "album_name": "Good Health",
-            "artist_name": "Pretty Girls Make Graves",
-            "plays": 3
+            "album_name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+            "artist_name": "Rob Zombie",
+            "plays": 1
         }
     ]
 }
