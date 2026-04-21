@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-21T09:59:20.497663",
-    "total_listening_time": "2h 42m",
+    "last_updated": "2026-04-21T21:11:10.050177",
+    "total_listening_time": "2h 45m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
@@ -11,15 +11,15 @@
             "plays": 2
         },
         {
-            "artist_name": "LOONA",
+            "artist_name": "Gucci Mane",
             "plays": 1
         },
         {
-            "artist_name": "MIKE",
+            "artist_name": "Don Toliver",
             "plays": 1
         },
         {
-            "artist_name": "IDK",
+            "artist_name": "Maggie Lindemann",
             "plays": 1
         }
     ],
@@ -35,18 +35,18 @@
             "plays": 2
         },
         {
-            "track_name": "no, no",
-            "artist_name": "MIKE",
+            "track_name": "deepfake",
+            "artist_name": "brakence",
             "plays": 1
         },
         {
-            "track_name": "Bread Winners",
-            "artist_name": "YBN (Young Boss N*ggas)",
+            "track_name": "Acquainted",
+            "artist_name": "The Weeknd",
             "plays": 1
         },
         {
-            "track_name": "Karma - Skit",
-            "artist_name": "Juice WRLD",
+            "track_name": "Brain Damage",
+            "artist_name": "Eminem",
             "plays": 1
         }
     ],
