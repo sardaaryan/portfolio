@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-20T21:10:41.860817",
+    "last_updated": "2026-04-21T09:59:20.497663",
     "total_listening_time": "2h 42m",
     "top_artists_weekly": [
         {
@@ -11,11 +11,11 @@
             "plays": 2
         },
         {
-            "artist_name": "MIKE",
+            "artist_name": "LOONA",
             "plays": 1
         },
         {
-            "artist_name": "LOONA",
+            "artist_name": "MIKE",
             "plays": 1
         },
         {
@@ -35,18 +35,18 @@
             "plays": 2
         },
         {
-            "track_name": "deepfake",
-            "artist_name": "brakence",
+            "track_name": "no, no",
+            "artist_name": "MIKE",
             "plays": 1
         },
         {
-            "track_name": "Acquainted",
-            "artist_name": "The Weeknd",
+            "track_name": "Bread Winners",
+            "artist_name": "YBN (Young Boss N*ggas)",
             "plays": 1
         },
         {
-            "track_name": "Brain Damage",
-            "artist_name": "Eminem",
+            "track_name": "Karma - Skit",
+            "artist_name": "Juice WRLD",
             "plays": 1
         }
     ],
@@ -62,18 +62,18 @@
             "plays": 2
         },
         {
-            "album_name": "weight of the world",
-            "artist_name": "MIKE",
+            "album_name": "hypochondriac",
+            "artist_name": "brakence",
             "plays": 1
         },
         {
-            "album_name": "Goodbye & Good Riddance",
-            "artist_name": "Juice WRLD",
+            "album_name": "Final",
+            "artist_name": "Papithbk",
             "plays": 1
         },
         {
-            "album_name": "Piece of My Heart (feat. Brent Faiyaz)",
-            "artist_name": "Wizkid",
+            "album_name": "BELIEVE IN ME, WHO BELIEVES IN YOU",
+            "artist_name": "Aries",
             "plays": 1
         }
     ]
