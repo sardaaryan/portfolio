@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-22T10:00:10.805370",
+    "last_updated": "2026-04-22T21:25:53.681087",
     "total_listening_time": "3h 29m",
     "top_artists_weekly": [
         {
@@ -30,23 +30,23 @@
             "plays": 2
         },
         {
-            "track_name": "Intro - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
-            "plays": 2
-        },
-        {
             "track_name": "All Caps",
             "artist_name": "Madvillain",
             "plays": 2
         },
         {
-            "track_name": "Brain Damage",
-            "artist_name": "Eminem",
+            "track_name": "Intro - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
+            "plays": 2
+        },
+        {
+            "track_name": "Well, Everybody's Fucking In A U.F.O.",
+            "artist_name": "Rob Zombie",
             "plays": 1
         },
         {
-            "track_name": "deepfake",
-            "artist_name": "brakence",
+            "track_name": "Obsessed",
+            "artist_name": "Maggie Lindemann",
             "plays": 1
         }
     ],
@@ -57,23 +57,23 @@
             "plays": 12
         },
         {
-            "album_name": "Madvillainy",
-            "artist_name": "Madvillain",
-            "plays": 2
-        },
-        {
             "album_name": "SCRAPYARD",
             "artist_name": "Quadeca",
             "plays": 2
         },
         {
-            "album_name": "The Life Of Pablo",
-            "artist_name": "Kanye West",
+            "album_name": "Madvillainy",
+            "artist_name": "Madvillain",
+            "plays": 2
+        },
+        {
+            "album_name": "BELIEVE IN ME, WHO BELIEVES IN YOU",
+            "artist_name": "Aries",
             "plays": 1
         },
         {
-            "album_name": "Uncle Meat",
-            "artist_name": "Frank Zappa",
+            "album_name": "Final",
+            "artist_name": "Papithbk",
             "plays": 1
         }
     ]
