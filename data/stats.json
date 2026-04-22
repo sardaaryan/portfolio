@@ -1,7 +1,11 @@
 {
-    "last_updated": "2026-04-21T21:11:10.050177",
-    "total_listening_time": "2h 45m",
+    "last_updated": "2026-04-22T10:00:10.805370",
+    "total_listening_time": "3h 29m",
     "top_artists_weekly": [
+        {
+            "artist_name": "Nine Inch Nails",
+            "plays": 12
+        },
         {
             "artist_name": "Quadeca",
             "plays": 3
@@ -11,15 +15,11 @@
             "plays": 2
         },
         {
-            "artist_name": "Gucci Mane",
+            "artist_name": "LOONA",
             "plays": 1
         },
         {
-            "artist_name": "Don Toliver",
-            "plays": 1
-        },
-        {
-            "artist_name": "Maggie Lindemann",
+            "artist_name": "IDK",
             "plays": 1
         }
     ],
@@ -30,31 +30,31 @@
             "plays": 2
         },
         {
+            "track_name": "Intro - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
+            "plays": 2
+        },
+        {
             "track_name": "All Caps",
             "artist_name": "Madvillain",
             "plays": 2
         },
         {
-            "track_name": "deepfake",
-            "artist_name": "brakence",
-            "plays": 1
-        },
-        {
-            "track_name": "Acquainted",
-            "artist_name": "The Weeknd",
-            "plays": 1
-        },
-        {
             "track_name": "Brain Damage",
             "artist_name": "Eminem",
+            "plays": 1
+        },
+        {
+            "track_name": "deepfake",
+            "artist_name": "brakence",
             "plays": 1
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "SCRAPYARD",
-            "artist_name": "Quadeca",
-            "plays": 2
+            "album_name": "Nine Inch Noize",
+            "artist_name": "Nine Inch Nails",
+            "plays": 12
         },
         {
             "album_name": "Madvillainy",
@@ -62,18 +62,18 @@
             "plays": 2
         },
         {
-            "album_name": "hypochondriac",
-            "artist_name": "brakence",
+            "album_name": "SCRAPYARD",
+            "artist_name": "Quadeca",
+            "plays": 2
+        },
+        {
+            "album_name": "The Life Of Pablo",
+            "artist_name": "Kanye West",
             "plays": 1
         },
         {
-            "album_name": "Final",
-            "artist_name": "Papithbk",
-            "plays": 1
-        },
-        {
-            "album_name": "BELIEVE IN ME, WHO BELIEVES IN YOU",
-            "artist_name": "Aries",
+            "album_name": "Uncle Meat",
+            "artist_name": "Frank Zappa",
             "plays": 1
         }
     ]
