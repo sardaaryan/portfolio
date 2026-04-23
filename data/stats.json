@@ -1,37 +1,32 @@
 {
-    "last_updated": "2026-04-22T21:25:53.681087",
-    "total_listening_time": "3h 29m",
+    "last_updated": "2026-04-23T10:06:18.801313",
+    "total_listening_time": "6h 12m",
     "top_artists_weekly": [
         {
             "artist_name": "Nine Inch Nails",
-            "plays": 12
+            "plays": 14
+        },
+        {
+            "artist_name": "The Books",
+            "plays": 4
+        },
+        {
+            "artist_name": "The Weeknd",
+            "plays": 3
         },
         {
             "artist_name": "Quadeca",
             "plays": 3
         },
         {
-            "artist_name": "Madvillain",
+            "artist_name": "The Avalanches",
             "plays": 2
-        },
-        {
-            "artist_name": "LOONA",
-            "plays": 1
-        },
-        {
-            "artist_name": "IDK",
-            "plays": 1
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "A LA CARTE",
-            "artist_name": "Quadeca",
-            "plays": 2
-        },
-        {
-            "track_name": "All Caps",
-            "artist_name": "Madvillain",
+            "track_name": "Heresy - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
             "plays": 2
         },
         {
@@ -40,25 +35,35 @@
             "plays": 2
         },
         {
-            "track_name": "Well, Everybody's Fucking In A U.F.O.",
-            "artist_name": "Rob Zombie",
-            "plays": 1
+            "track_name": "Parasite - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
+            "plays": 2
         },
         {
-            "track_name": "Obsessed",
-            "artist_name": "Maggie Lindemann",
-            "plays": 1
+            "track_name": "Hasta La Vista",
+            "artist_name": "Dream Wife",
+            "plays": 2
+        },
+        {
+            "track_name": "Bonita",
+            "artist_name": "Osmar Milito",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "Nine Inch Noize",
             "artist_name": "Nine Inch Nails",
-            "plays": 12
+            "plays": 14
         },
         {
-            "album_name": "SCRAPYARD",
-            "artist_name": "Quadeca",
+            "album_name": "Only For Dolphins",
+            "artist_name": "Action Bronson",
+            "plays": 2
+        },
+        {
+            "album_name": "Since I Left You (20th Anniversary Deluxe Edition)",
+            "artist_name": "The Avalanches",
             "plays": 2
         },
         {
@@ -67,14 +72,9 @@
             "plays": 2
         },
         {
-            "album_name": "BELIEVE IN ME, WHO BELIEVES IN YOU",
-            "artist_name": "Aries",
-            "plays": 1
-        },
-        {
-            "album_name": "Final",
-            "artist_name": "Papithbk",
-            "plays": 1
+            "album_name": "Viagem",
+            "artist_name": "Osmar Milito",
+            "plays": 2
         }
     ]
 }
