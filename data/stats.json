@@ -1,29 +1,34 @@
 {
-    "last_updated": "2026-04-23T10:06:18.801313",
-    "total_listening_time": "6h 12m",
+    "last_updated": "2026-04-23T21:13:37.874368",
+    "total_listening_time": "8h 28m",
     "top_artists_weekly": [
         {
             "artist_name": "Nine Inch Nails",
             "plays": 14
         },
         {
+            "artist_name": "Everyone Asked About You",
+            "plays": 9
+        },
+        {
             "artist_name": "The Books",
-            "plays": 4
+            "plays": 5
+        },
+        {
+            "artist_name": "Katatonia",
+            "plays": 3
         },
         {
             "artist_name": "The Weeknd",
             "plays": 3
-        },
-        {
-            "artist_name": "Quadeca",
-            "plays": 3
-        },
-        {
-            "artist_name": "The Avalanches",
-            "plays": 2
         }
     ],
     "top_tracks_weekly": [
+        {
+            "track_name": "Hasta La Vista",
+            "artist_name": "Dream Wife",
+            "plays": 3
+        },
         {
             "track_name": "Heresy - Nine Inch Noize Version",
             "artist_name": "Nine Inch Nails",
@@ -35,18 +40,13 @@
             "plays": 2
         },
         {
-            "track_name": "Parasite - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
+            "track_name": "A Cold Freezin' Night",
+            "artist_name": "The Books",
             "plays": 2
         },
         {
-            "track_name": "Hasta La Vista",
-            "artist_name": "Dream Wife",
-            "plays": 2
-        },
-        {
-            "track_name": "Bonita",
-            "artist_name": "Osmar Milito",
+            "track_name": "If Not Now, Whenever",
+            "artist_name": "The Books",
             "plays": 2
         }
     ],
@@ -57,24 +57,24 @@
             "plays": 14
         },
         {
-            "album_name": "Only For Dolphins",
-            "artist_name": "Action Bronson",
-            "plays": 2
+            "album_name": "Paper Airplanes, Paper Hearts",
+            "artist_name": "Everyone Asked About You",
+            "plays": 8
         },
         {
-            "album_name": "Since I Left You (20th Anniversary Deluxe Edition)",
-            "artist_name": "The Avalanches",
-            "plays": 2
+            "album_name": "So When You Gonna...",
+            "artist_name": "Dream Wife",
+            "plays": 3
         },
         {
-            "album_name": "Madvillainy",
-            "artist_name": "Madvillain",
-            "plays": 2
+            "album_name": "Viva Emptiness",
+            "artist_name": "Katatonia",
+            "plays": 3
         },
         {
-            "album_name": "Viagem",
-            "artist_name": "Osmar Milito",
-            "plays": 2
+            "album_name": "The Way Out",
+            "artist_name": "The Books",
+            "plays": 3
         }
     ]
 }
