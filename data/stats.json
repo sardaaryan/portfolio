@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-24T10:04:59.147144",
-    "total_listening_time": "11h 20m",
+    "last_updated": "2026-04-24T21:13:05.666983",
+    "total_listening_time": "11h 31m",
     "top_artists_weekly": [
         {
             "artist_name": "Everyone Asked About You",
@@ -15,38 +15,38 @@
             "plays": 5
         },
         {
-            "artist_name": "Santana",
-            "plays": 4
+            "artist_name": "glaive",
+            "plays": 5
         },
         {
-            "artist_name": "glaive",
+            "artist_name": "Santana",
             "plays": 4
         }
     ],
     "top_tracks_weekly": [
-        {
-            "track_name": "Closer - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
-            "plays": 3
-        },
         {
             "track_name": "Hasta La Vista",
             "artist_name": "Dream Wife",
             "plays": 3
         },
         {
-            "track_name": "All Caps",
-            "artist_name": "Madvillain",
+            "track_name": "Closer - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
+            "plays": 3
+        },
+        {
+            "track_name": "Heresy - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
             "plays": 2
         },
         {
-            "track_name": "Vega",
-            "artist_name": "Action Bronson",
+            "track_name": "A Cold Freezin' Night",
+            "artist_name": "The Books",
             "plays": 2
         },
         {
-            "track_name": "Two Hearts In 3/4 Time",
-            "artist_name": "The Avalanches",
+            "track_name": "Handsome, Beautiful",
+            "artist_name": "Everyone Asked About You",
             "plays": 2
         }
     ],
