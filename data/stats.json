@@ -1,52 +1,52 @@
 {
-    "last_updated": "2026-04-23T21:13:37.874368",
-    "total_listening_time": "8h 28m",
+    "last_updated": "2026-04-24T10:04:59.147144",
+    "total_listening_time": "11h 20m",
     "top_artists_weekly": [
         {
-            "artist_name": "Nine Inch Nails",
-            "plays": 14
+            "artist_name": "Everyone Asked About You",
+            "plays": 22
         },
         {
-            "artist_name": "Everyone Asked About You",
-            "plays": 9
+            "artist_name": "Nine Inch Nails",
+            "plays": 17
         },
         {
             "artist_name": "The Books",
             "plays": 5
         },
         {
-            "artist_name": "Katatonia",
-            "plays": 3
+            "artist_name": "Santana",
+            "plays": 4
         },
         {
-            "artist_name": "The Weeknd",
-            "plays": 3
+            "artist_name": "glaive",
+            "plays": 4
         }
     ],
     "top_tracks_weekly": [
+        {
+            "track_name": "Closer - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
+            "plays": 3
+        },
         {
             "track_name": "Hasta La Vista",
             "artist_name": "Dream Wife",
             "plays": 3
         },
         {
-            "track_name": "Heresy - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
+            "track_name": "All Caps",
+            "artist_name": "Madvillain",
             "plays": 2
         },
         {
-            "track_name": "Intro - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
+            "track_name": "Vega",
+            "artist_name": "Action Bronson",
             "plays": 2
         },
         {
-            "track_name": "A Cold Freezin' Night",
-            "artist_name": "The Books",
-            "plays": 2
-        },
-        {
-            "track_name": "If Not Now, Whenever",
-            "artist_name": "The Books",
+            "track_name": "Two Hearts In 3/4 Time",
+            "artist_name": "The Avalanches",
             "plays": 2
         }
     ],
@@ -54,26 +54,26 @@
         {
             "album_name": "Nine Inch Noize",
             "artist_name": "Nine Inch Nails",
-            "plays": 14
+            "plays": 16
         },
         {
             "album_name": "Paper Airplanes, Paper Hearts",
             "artist_name": "Everyone Asked About You",
-            "plays": 8
+            "plays": 12
         },
         {
-            "album_name": "So When You Gonna...",
-            "artist_name": "Dream Wife",
-            "plays": 3
+            "album_name": "Let's Be Enemies",
+            "artist_name": "Everyone Asked About You",
+            "plays": 6
+        },
+        {
+            "album_name": "Never Leave",
+            "artist_name": "Everyone Asked About You",
+            "plays": 4
         },
         {
             "album_name": "Viva Emptiness",
             "artist_name": "Katatonia",
-            "plays": 3
-        },
-        {
-            "album_name": "The Way Out",
-            "artist_name": "The Books",
             "plays": 3
         }
     ]
