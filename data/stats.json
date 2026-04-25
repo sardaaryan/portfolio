@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-24T21:13:05.666983",
-    "total_listening_time": "11h 31m",
+    "last_updated": "2026-04-25T09:28:50.032236",
+    "total_listening_time": "13h 22m",
     "top_artists_weekly": [
         {
             "artist_name": "Everyone Asked About You",
@@ -8,7 +8,11 @@
         },
         {
             "artist_name": "Nine Inch Nails",
-            "plays": 17
+            "plays": 18
+        },
+        {
+            "artist_name": "The Strokes",
+            "plays": 10
         },
         {
             "artist_name": "The Books",
@@ -17,36 +21,32 @@
         {
             "artist_name": "glaive",
             "plays": 5
-        },
-        {
-            "artist_name": "Santana",
-            "plays": 4
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Hasta La Vista",
-            "artist_name": "Dream Wife",
-            "plays": 3
-        },
-        {
             "track_name": "Closer - Nine Inch Noize Version",
             "artist_name": "Nine Inch Nails",
+            "plays": 4
+        },
+        {
+            "track_name": "Two Hearts In 3/4 Time",
+            "artist_name": "The Avalanches",
             "plays": 3
         },
         {
-            "track_name": "Heresy - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
+            "track_name": "Vega",
+            "artist_name": "Action Bronson",
+            "plays": 3
+        },
+        {
+            "track_name": "Olha Maria",
+            "artist_name": "Chico Buarque",
             "plays": 2
         },
         {
-            "track_name": "A Cold Freezin' Night",
-            "artist_name": "The Books",
-            "plays": 2
-        },
-        {
-            "track_name": "Handsome, Beautiful",
-            "artist_name": "Everyone Asked About You",
+            "track_name": "A LA CARTE",
+            "artist_name": "Quadeca",
             "plays": 2
         }
     ],
@@ -54,12 +54,17 @@
         {
             "album_name": "Nine Inch Noize",
             "artist_name": "Nine Inch Nails",
-            "plays": 16
+            "plays": 17
         },
         {
             "album_name": "Paper Airplanes, Paper Hearts",
             "artist_name": "Everyone Asked About You",
             "plays": 12
+        },
+        {
+            "album_name": "The New Abnormal",
+            "artist_name": "The Strokes",
+            "plays": 10
         },
         {
             "album_name": "Let's Be Enemies",
@@ -70,11 +75,6 @@
             "album_name": "Never Leave",
             "artist_name": "Everyone Asked About You",
             "plays": 4
-        },
-        {
-            "album_name": "Viva Emptiness",
-            "artist_name": "Katatonia",
-            "plays": 3
         }
     ]
 }
