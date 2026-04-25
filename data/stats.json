@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-25T09:28:50.032236",
+    "last_updated": "2026-04-25T21:04:33.523971",
     "total_listening_time": "13h 22m",
     "top_artists_weekly": [
         {
@@ -30,23 +30,23 @@
             "plays": 4
         },
         {
-            "track_name": "Two Hearts In 3/4 Time",
-            "artist_name": "The Avalanches",
-            "plays": 3
-        },
-        {
             "track_name": "Vega",
             "artist_name": "Action Bronson",
             "plays": 3
         },
         {
-            "track_name": "Olha Maria",
-            "artist_name": "Chico Buarque",
+            "track_name": "Two Hearts In 3/4 Time",
+            "artist_name": "The Avalanches",
+            "plays": 3
+        },
+        {
+            "track_name": "Bonita",
+            "artist_name": "Osmar Milito",
             "plays": 2
         },
         {
-            "track_name": "A LA CARTE",
-            "artist_name": "Quadeca",
+            "track_name": "Parasite - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
             "plays": 2
         }
     ],
