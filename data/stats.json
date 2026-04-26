@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-26T09:30:57.452988",
-    "total_listening_time": "14h 59m",
+    "last_updated": "2026-04-26T21:04:42.510194",
+    "total_listening_time": "15h 57m",
     "top_artists_weekly": [
         {
             "artist_name": "Everyone Asked About You",
@@ -12,7 +12,7 @@
         },
         {
             "artist_name": "The Strokes",
-            "plays": 10
+            "plays": 12
         },
         {
             "artist_name": "The Books",
@@ -30,6 +30,11 @@
             "plays": 4
         },
         {
+            "track_name": "Brooklyn Bridge To Chorus",
+            "artist_name": "The Strokes",
+            "plays": 4
+        },
+        {
             "track_name": "Vega",
             "artist_name": "Action Bronson",
             "plays": 3
@@ -40,14 +45,9 @@
             "plays": 3
         },
         {
-            "track_name": "Intro - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
-            "plays": 2
-        },
-        {
-            "track_name": "Heresy - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
-            "plays": 2
+            "track_name": "Son of a Preacher Man",
+            "artist_name": "Dusty Springfield",
+            "plays": 3
         }
     ],
     "top_albums_weekly": [
@@ -64,7 +64,7 @@
         {
             "album_name": "The New Abnormal",
             "artist_name": "The Strokes",
-            "plays": 10
+            "plays": 12
         },
         {
             "album_name": "Let's Be Enemies",
