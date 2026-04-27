@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-27T10:32:33.599345",
-    "total_listening_time": "2h 53m",
+    "last_updated": "2026-04-27T21:34:17.467174",
+    "total_listening_time": "4h 2m",
     "top_artists_weekly": [
         {
             "artist_name": "Nine Inch Nails",
@@ -8,19 +8,19 @@
         },
         {
             "artist_name": "Juice WRLD",
-            "plays": 3
+            "plays": 4
         },
         {
             "artist_name": "Travis Scott",
             "plays": 2
         },
         {
-            "artist_name": "lilbubblegum",
-            "plays": 1
+            "artist_name": "Tyler, The Creator",
+            "plays": 2
         },
         {
-            "artist_name": "LAUNDRY DAY",
-            "plays": 1
+            "artist_name": "Lil Tecca",
+            "plays": 2
         }
     ],
     "top_tracks_weekly": [
@@ -57,23 +57,23 @@
             "plays": 12
         },
         {
-            "album_name": "Like The Way You Move",
-            "artist_name": "ASM Bopster",
+            "album_name": "Legends Never Die",
+            "artist_name": "Juice WRLD",
+            "plays": 2
+        },
+        {
+            "album_name": "\u6d6e\u904a\u7a7a\u9593",
+            "artist_name": "Tomoko Aran",
             "plays": 1
         },
         {
-            "album_name": "Tako's Son",
-            "artist_name": "Rucci",
+            "album_name": "Heaven Or Hell",
+            "artist_name": "Don Toliver",
             "plays": 1
         },
         {
-            "album_name": "BLUE SUPER LOVE",
-            "artist_name": "Ally Evenson",
-            "plays": 1
-        },
-        {
-            "album_name": "pay attention",
-            "artist_name": "lynU",
+            "album_name": "Christmas",
+            "artist_name": "Michael Bubl\u00e9",
             "plays": 1
         }
     ]
