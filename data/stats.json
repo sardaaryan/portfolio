@@ -1,60 +1,70 @@
 {
-    "last_updated": "2026-04-27T21:34:17.467174",
-    "total_listening_time": "4h 2m",
+    "last_updated": "2026-04-28T10:31:49.237547",
+    "total_listening_time": "5h 34m",
     "top_artists_weekly": [
         {
             "artist_name": "Nine Inch Nails",
-            "plays": 12
+            "plays": 14
         },
         {
             "artist_name": "Juice WRLD",
             "plays": 4
         },
         {
+            "artist_name": "Earl Sweatshirt",
+            "plays": 2
+        },
+        {
             "artist_name": "Travis Scott",
             "plays": 2
         },
         {
-            "artist_name": "Tyler, The Creator",
-            "plays": 2
-        },
-        {
-            "artist_name": "Lil Tecca",
+            "artist_name": "The Books",
             "plays": 2
         }
     ],
     "top_tracks_weekly": [
+        {
+            "track_name": "Think For Yourself - Remastered 2009",
+            "artist_name": "The Beatles",
+            "plays": 2
+        },
+        {
+            "track_name": "Order of the Golden Dawn",
+            "artist_name": "Daedelus",
+            "plays": 2
+        },
         {
             "track_name": "Vessel - Nine Inch Noize Version",
             "artist_name": "Nine Inch Nails",
             "plays": 2
         },
         {
-            "track_name": "I MAKE IT LOOK EFFORTLESS",
-            "artist_name": "Quadeca",
-            "plays": 1
-        },
-        {
-            "track_name": "After Party",
-            "artist_name": "Don Toliver",
-            "plays": 1
-        },
-        {
-            "track_name": "It's Beginning to Look a Lot like Christmas",
-            "artist_name": "Michael Bubl\u00e9",
-            "plays": 1
+            "track_name": "Heresy - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
+            "plays": 2
         },
         {
             "track_name": "Closer - Nine Inch Noize Version",
             "artist_name": "Nine Inch Nails",
-            "plays": 1
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "Nine Inch Noize",
             "artist_name": "Nine Inch Nails",
-            "plays": 12
+            "plays": 14
+        },
+        {
+            "album_name": "SICK!",
+            "artist_name": "Earl Sweatshirt",
+            "plays": 2
+        },
+        {
+            "album_name": "Rubber Soul (Remastered 2009)",
+            "artist_name": "The Beatles",
+            "plays": 2
         },
         {
             "album_name": "Legends Never Die",
@@ -62,19 +72,9 @@
             "plays": 2
         },
         {
-            "album_name": "\u6d6e\u904a\u7a7a\u9593",
-            "artist_name": "Tomoko Aran",
-            "plays": 1
-        },
-        {
-            "album_name": "Heaven Or Hell",
-            "artist_name": "Don Toliver",
-            "plays": 1
-        },
-        {
-            "album_name": "Christmas",
-            "artist_name": "Michael Bubl\u00e9",
-            "plays": 1
+            "album_name": "The New Abnormal",
+            "artist_name": "The Strokes",
+            "plays": 2
         }
     ]
 }
