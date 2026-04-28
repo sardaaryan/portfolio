@@ -1,13 +1,17 @@
 {
-    "last_updated": "2026-04-28T10:31:49.237547",
-    "total_listening_time": "5h 34m",
+    "last_updated": "2026-04-28T21:36:41.695755",
+    "total_listening_time": "6h 4m",
     "top_artists_weekly": [
         {
             "artist_name": "Nine Inch Nails",
-            "plays": 14
+            "plays": 15
         },
         {
             "artist_name": "Juice WRLD",
+            "plays": 4
+        },
+        {
+            "artist_name": "The Strokes",
             "plays": 4
         },
         {
@@ -15,24 +19,15 @@
             "plays": 2
         },
         {
-            "artist_name": "Travis Scott",
-            "plays": 2
-        },
-        {
-            "artist_name": "The Books",
+            "artist_name": "The Beatles",
             "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Think For Yourself - Remastered 2009",
-            "artist_name": "The Beatles",
-            "plays": 2
-        },
-        {
-            "track_name": "Order of the Golden Dawn",
-            "artist_name": "Daedelus",
-            "plays": 2
+            "track_name": "Heresy - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
+            "plays": 3
         },
         {
             "track_name": "Vessel - Nine Inch Noize Version",
@@ -40,13 +35,18 @@
             "plays": 2
         },
         {
-            "track_name": "Heresy - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
+            "track_name": "Brooklyn Bridge To Chorus",
+            "artist_name": "The Strokes",
             "plays": 2
         },
         {
             "track_name": "Closer - Nine Inch Noize Version",
             "artist_name": "Nine Inch Nails",
+            "plays": 2
+        },
+        {
+            "track_name": "TOO COOL TO BE CARELESS",
+            "artist_name": "PAWSA",
             "plays": 2
         }
     ],
@@ -54,26 +54,26 @@
         {
             "album_name": "Nine Inch Noize",
             "artist_name": "Nine Inch Nails",
-            "plays": 14
-        },
-        {
-            "album_name": "SICK!",
-            "artist_name": "Earl Sweatshirt",
-            "plays": 2
-        },
-        {
-            "album_name": "Rubber Soul (Remastered 2009)",
-            "artist_name": "The Beatles",
-            "plays": 2
-        },
-        {
-            "album_name": "Legends Never Die",
-            "artist_name": "Juice WRLD",
-            "plays": 2
+            "plays": 15
         },
         {
             "album_name": "The New Abnormal",
             "artist_name": "The Strokes",
+            "plays": 4
+        },
+        {
+            "album_name": "Romance Latino vol.3 -Cuba Caliente Y Su Ritmo Sabroso-",
+            "artist_name": "Lisa Ono",
+            "plays": 2
+        },
+        {
+            "album_name": "TOO COOL TO BE CARELESS",
+            "artist_name": "PAWSA",
+            "plays": 2
+        },
+        {
+            "album_name": "Righteous Fists of Harmony",
+            "artist_name": "Daedelus",
             "plays": 2
         }
     ]
