@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-29T10:24:51.328960",
-    "total_listening_time": "6h 44m",
+    "last_updated": "2026-04-29T21:39:37.053198",
+    "total_listening_time": "6h 48m",
     "top_artists_weekly": [
         {
             "artist_name": "Nine Inch Nails",
@@ -30,13 +30,13 @@
             "plays": 5
         },
         {
-            "track_name": "\u30ad\u30a8\u30f3\u30bb\u30e9",
-            "artist_name": "Lisa Ono",
+            "track_name": "Heresy - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
             "plays": 4
         },
         {
-            "track_name": "Heresy - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
+            "track_name": "\u30ad\u30a8\u30f3\u30bb\u30e9",
+            "artist_name": "Lisa Ono",
             "plays": 4
         },
         {
@@ -45,8 +45,8 @@
             "plays": 3
         },
         {
-            "track_name": "Think For Yourself - Remastered 2009",
-            "artist_name": "The Beatles",
+            "track_name": "At The Door",
+            "artist_name": "The Strokes",
             "plays": 2
         }
     ],
@@ -62,19 +62,19 @@
             "plays": 5
         },
         {
-            "album_name": "The New Abnormal",
-            "artist_name": "The Strokes",
-            "plays": 4
-        },
-        {
             "album_name": "Romance Latino vol.3 -Cuba Caliente Y Su Ritmo Sabroso-",
             "artist_name": "Lisa Ono",
             "plays": 4
         },
         {
+            "album_name": "The New Abnormal",
+            "artist_name": "The Strokes",
+            "plays": 4
+        },
+        {
             "album_name": "SICK!",
             "artist_name": "Earl Sweatshirt",
-            "plays": 2
+            "plays": 3
         }
     ]
 }
