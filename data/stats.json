@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-04-29T21:39:37.053198",
-    "total_listening_time": "6h 48m",
+    "last_updated": "2026-04-30T10:24:52.628468",
+    "total_listening_time": "7h 5m",
     "top_artists_weekly": [
         {
             "artist_name": "Nine Inch Nails",
@@ -11,15 +11,15 @@
             "plays": 5
         },
         {
+            "artist_name": "Earl Sweatshirt",
+            "plays": 5
+        },
+        {
             "artist_name": "Lisa Ono",
             "plays": 4
         },
         {
             "artist_name": "Juice WRLD",
-            "plays": 4
-        },
-        {
-            "artist_name": "The Strokes",
             "plays": 4
         }
     ],
@@ -40,14 +40,14 @@
             "plays": 4
         },
         {
-            "track_name": "Closer - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
+            "track_name": "The Troubles",
+            "artist_name": "glaive",
             "plays": 3
         },
         {
-            "track_name": "At The Door",
-            "artist_name": "The Strokes",
-            "plays": 2
+            "track_name": "Tabula Rasa (feat. Armand Hammer)",
+            "artist_name": "Earl Sweatshirt",
+            "plays": 3
         }
     ],
     "top_albums_weekly": [
@@ -62,6 +62,11 @@
             "plays": 5
         },
         {
+            "album_name": "SICK!",
+            "artist_name": "Earl Sweatshirt",
+            "plays": 5
+        },
+        {
             "album_name": "Romance Latino vol.3 -Cuba Caliente Y Su Ritmo Sabroso-",
             "artist_name": "Lisa Ono",
             "plays": 4
@@ -70,11 +75,6 @@
             "album_name": "The New Abnormal",
             "artist_name": "The Strokes",
             "plays": 4
-        },
-        {
-            "album_name": "SICK!",
-            "artist_name": "Earl Sweatshirt",
-            "plays": 3
         }
     ]
 }
