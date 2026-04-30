@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-30T10:24:52.628468",
+    "last_updated": "2026-04-30T21:32:51.227983",
     "total_listening_time": "7h 5m",
     "top_artists_weekly": [
         {
@@ -45,8 +45,8 @@
             "plays": 3
         },
         {
-            "track_name": "Tabula Rasa (feat. Armand Hammer)",
-            "artist_name": "Earl Sweatshirt",
+            "track_name": "Closer - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
             "plays": 3
         }
     ],
@@ -67,13 +67,13 @@
             "plays": 5
         },
         {
-            "album_name": "Romance Latino vol.3 -Cuba Caliente Y Su Ritmo Sabroso-",
-            "artist_name": "Lisa Ono",
+            "album_name": "The New Abnormal",
+            "artist_name": "The Strokes",
             "plays": 4
         },
         {
-            "album_name": "The New Abnormal",
-            "artist_name": "The Strokes",
+            "album_name": "Romance Latino vol.3 -Cuba Caliente Y Su Ritmo Sabroso-",
+            "artist_name": "Lisa Ono",
             "plays": 4
         }
     ]
