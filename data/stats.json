@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-01T10:05:37.259693",
+    "last_updated": "2026-05-01T21:24:45.664731",
     "total_listening_time": "7h 50m",
     "top_artists_weekly": [
         {
@@ -35,18 +35,18 @@
             "plays": 6
         },
         {
-            "track_name": "\u30ad\u30a8\u30f3\u30bb\u30e9",
-            "artist_name": "Lisa Ono",
-            "plays": 4
-        },
-        {
             "track_name": "Heresy - Nine Inch Noize Version",
             "artist_name": "Nine Inch Nails",
             "plays": 4
         },
         {
-            "track_name": "Closer - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
+            "track_name": "\u30ad\u30a8\u30f3\u30bb\u30e9",
+            "artist_name": "Lisa Ono",
+            "plays": 4
+        },
+        {
+            "track_name": "Tabula Rasa (feat. Armand Hammer)",
+            "artist_name": "Earl Sweatshirt",
             "plays": 3
         }
     ],
@@ -72,8 +72,8 @@
             "plays": 6
         },
         {
-            "album_name": "The New Abnormal",
-            "artist_name": "The Strokes",
+            "album_name": "Romance Latino vol.3 -Cuba Caliente Y Su Ritmo Sabroso-",
+            "artist_name": "Lisa Ono",
             "plays": 4
         }
     ]
