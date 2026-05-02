@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-01T21:24:45.664731",
-    "total_listening_time": "7h 50m",
+    "last_updated": "2026-05-02T09:41:27.152615",
+    "total_listening_time": "8h 4m",
     "top_artists_weekly": [
         {
             "artist_name": "Nine Inch Nails",
@@ -8,7 +8,7 @@
         },
         {
             "artist_name": "PAWSA",
-            "plays": 7
+            "plays": 9
         },
         {
             "artist_name": "glaive",
@@ -27,7 +27,7 @@
         {
             "track_name": "TOO COOL TO BE CARELESS",
             "artist_name": "PAWSA",
-            "plays": 7
+            "plays": 9
         },
         {
             "track_name": "The Troubles",
@@ -35,18 +35,18 @@
             "plays": 6
         },
         {
-            "track_name": "Heresy - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
-            "plays": 4
-        },
-        {
             "track_name": "\u30ad\u30a8\u30f3\u30bb\u30e9",
             "artist_name": "Lisa Ono",
             "plays": 4
         },
         {
-            "track_name": "Tabula Rasa (feat. Armand Hammer)",
-            "artist_name": "Earl Sweatshirt",
+            "track_name": "Heresy - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
+            "plays": 4
+        },
+        {
+            "track_name": "Closer - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
             "plays": 3
         }
     ],
@@ -59,16 +59,16 @@
         {
             "album_name": "TOO COOL TO BE CARELESS",
             "artist_name": "PAWSA",
-            "plays": 7
-        },
-        {
-            "album_name": "The Troubles",
-            "artist_name": "glaive",
-            "plays": 6
+            "plays": 9
         },
         {
             "album_name": "SICK!",
             "artist_name": "Earl Sweatshirt",
+            "plays": 6
+        },
+        {
+            "album_name": "The Troubles",
+            "artist_name": "glaive",
             "plays": 6
         },
         {
