@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-03T09:48:01.593812",
-    "total_listening_time": "9h 9m",
+    "last_updated": "2026-05-03T21:09:45.426293",
+    "total_listening_time": "9h 16m",
     "top_artists_weekly": [
         {
             "artist_name": "Nine Inch Nails",
@@ -19,7 +19,7 @@
             "plays": 6
         },
         {
-            "artist_name": "Juice WRLD",
+            "artist_name": "Lisa Ono",
             "plays": 4
         }
     ],
@@ -35,13 +35,13 @@
             "plays": 6
         },
         {
-            "track_name": "\u30ad\u30a8\u30f3\u30bb\u30e9",
-            "artist_name": "Lisa Ono",
+            "track_name": "Heresy - Nine Inch Noize Version",
+            "artist_name": "Nine Inch Nails",
             "plays": 4
         },
         {
-            "track_name": "Heresy - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
+            "track_name": "\u30ad\u30a8\u30f3\u30bb\u30e9",
+            "artist_name": "Lisa Ono",
             "plays": 4
         },
         {
@@ -72,8 +72,8 @@
             "plays": 6
         },
         {
-            "album_name": "Romance Latino vol.3 -Cuba Caliente Y Su Ritmo Sabroso-",
-            "artist_name": "Lisa Ono",
+            "album_name": "The New Abnormal",
+            "artist_name": "The Strokes",
             "plays": 4
         }
     ]
