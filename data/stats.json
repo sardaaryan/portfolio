@@ -1,80 +1,80 @@
 {
-    "last_updated": "2026-05-03T21:09:45.426293",
-    "total_listening_time": "9h 16m",
+    "last_updated": "2026-05-04T10:32:51.798167",
+    "total_listening_time": "3h 22m",
     "top_artists_weekly": [
         {
-            "artist_name": "Nine Inch Nails",
-            "plays": 17
+            "artist_name": "Pritam",
+            "plays": 6
+        },
+        {
+            "artist_name": "Kishore Kumar",
+            "plays": 4
         },
         {
             "artist_name": "PAWSA",
-            "plays": 9
+            "plays": 3
         },
         {
-            "artist_name": "Earl Sweatshirt",
-            "plays": 6
+            "artist_name": "Goldie Sohel",
+            "plays": 3
         },
         {
-            "artist_name": "glaive",
-            "plays": 6
-        },
-        {
-            "artist_name": "Lisa Ono",
-            "plays": 4
+            "artist_name": "Amit Trivedi",
+            "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "TOO COOL TO BE CARELESS",
             "artist_name": "PAWSA",
-            "plays": 9
-        },
-        {
-            "track_name": "The Troubles",
-            "artist_name": "glaive",
-            "plays": 6
-        },
-        {
-            "track_name": "Heresy - Nine Inch Noize Version",
-            "artist_name": "Nine Inch Nails",
-            "plays": 4
-        },
-        {
-            "track_name": "\u30ad\u30a8\u30f3\u30bb\u30e9",
-            "artist_name": "Lisa Ono",
-            "plays": 4
-        },
-        {
-            "track_name": "Tabula Rasa (feat. Armand Hammer)",
-            "artist_name": "Earl Sweatshirt",
             "plays": 3
+        },
+        {
+            "track_name": "Aaj Sajeya",
+            "artist_name": "Goldie Sohel",
+            "plays": 3
+        },
+        {
+            "track_name": "Tera Mujhse - From \"Aa Gale Lag Jaa\"",
+            "artist_name": "Kishore Kumar",
+            "plays": 2
+        },
+        {
+            "track_name": "Do Mastane Chale Zindagi Banane",
+            "artist_name": "S. P. Balasubrahmanyam",
+            "plays": 1
+        },
+        {
+            "track_name": "I Am, She Is, We Are",
+            "artist_name": "Lucy Bedroque",
+            "plays": 1
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "Nine Inch Noize",
-            "artist_name": "Nine Inch Nails",
-            "plays": 17
+            "album_name": "Aaj Sajeya - Single",
+            "artist_name": "Goldie Sohel",
+            "plays": 3
         },
         {
             "album_name": "TOO COOL TO BE CARELESS",
             "artist_name": "PAWSA",
-            "plays": 9
+            "plays": 3
         },
         {
-            "album_name": "The Troubles",
-            "artist_name": "glaive",
-            "plays": 6
+            "album_name": "Jab We Met",
+            "artist_name": "Pritam",
+            "plays": 2
         },
         {
-            "album_name": "SICK!",
-            "artist_name": "Earl Sweatshirt",
-            "plays": 6
+            "album_name": "Hasee Toh Phasee (Original Motion Picture Soundtrack)",
+            "artist_name": "Vishal-Shekhar",
+            "plays": 2
         },
         {
-            "album_name": "The New Abnormal",
-            "artist_name": "The Strokes",
-            "plays": 4
+            "album_name": "Chalte Chalte\u2026Kishore Da\u2019s Greatest Hits",
+            "artist_name": "Kishore Kumar",
+            "plays": 2
         }
     ]
 }
