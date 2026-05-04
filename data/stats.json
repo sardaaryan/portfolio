@@ -1,7 +1,11 @@
 {
-    "last_updated": "2026-05-04T10:32:51.798167",
-    "total_listening_time": "3h 22m",
+    "last_updated": "2026-05-04T21:37:25.399374",
+    "total_listening_time": "4h 30m",
     "top_artists_weekly": [
+        {
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 13
+        },
         {
             "artist_name": "Pritam",
             "plays": 6
@@ -17,10 +21,6 @@
         {
             "artist_name": "Goldie Sohel",
             "plays": 3
-        },
-        {
-            "artist_name": "Amit Trivedi",
-            "plays": 2
         }
     ],
     "top_tracks_weekly": [
@@ -40,21 +40,21 @@
             "plays": 2
         },
         {
-            "track_name": "Do Mastane Chale Zindagi Banane",
-            "artist_name": "S. P. Balasubrahmanyam",
-            "plays": 1
+            "track_name": "People Never Change",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 2
         },
         {
-            "track_name": "I Am, She Is, We Are",
-            "artist_name": "Lucy Bedroque",
-            "plays": 1
+            "track_name": "Just Another Love Song",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "Aaj Sajeya - Single",
-            "artist_name": "Goldie Sohel",
-            "plays": 3
+            "album_name": "BETA",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 13
         },
         {
             "album_name": "TOO COOL TO BE CARELESS",
@@ -62,13 +62,13 @@
             "plays": 3
         },
         {
-            "album_name": "Jab We Met",
-            "artist_name": "Pritam",
-            "plays": 2
+            "album_name": "Aaj Sajeya - Single",
+            "artist_name": "Goldie Sohel",
+            "plays": 3
         },
         {
-            "album_name": "Hasee Toh Phasee (Original Motion Picture Soundtrack)",
-            "artist_name": "Vishal-Shekhar",
+            "album_name": "Jab We Met",
+            "artist_name": "Pritam",
             "plays": 2
         },
         {
