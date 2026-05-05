@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-05T10:17:21.427827",
-    "total_listening_time": "5h 9m",
+    "last_updated": "2026-05-05T21:35:05.784223",
+    "total_listening_time": "6h 6m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 19
+            "plays": 31
         },
         {
             "artist_name": "Pritam",
@@ -30,31 +30,31 @@
             "plays": 3
         },
         {
+            "track_name": "Foolmuse",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 3
+        },
+        {
+            "track_name": "People Never Change",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 3
+        },
+        {
             "track_name": "TOO COOL TO BE CARELESS",
             "artist_name": "PAWSA",
             "plays": 3
         },
         {
-            "track_name": "Foolmuse",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 2
-        },
-        {
-            "track_name": "Tera Mujhse - From \"Aa Gale Lag Jaa\"",
-            "artist_name": "Kishore Kumar",
-            "plays": 2
-        },
-        {
             "track_name": "Just Another Love Song",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 2
+            "plays": 3
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 15
+            "plays": 27
         },
         {
             "album_name": "Bismillah",
