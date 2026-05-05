@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-04T21:37:25.399374",
-    "total_listening_time": "4h 30m",
+    "last_updated": "2026-05-05T10:17:21.427827",
+    "total_listening_time": "5h 9m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 13
+            "plays": 19
         },
         {
             "artist_name": "Pritam",
@@ -25,23 +25,23 @@
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "TOO COOL TO BE CARELESS",
-            "artist_name": "PAWSA",
-            "plays": 3
-        },
-        {
             "track_name": "Aaj Sajeya",
             "artist_name": "Goldie Sohel",
             "plays": 3
         },
         {
-            "track_name": "Tera Mujhse - From \"Aa Gale Lag Jaa\"",
-            "artist_name": "Kishore Kumar",
+            "track_name": "TOO COOL TO BE CARELESS",
+            "artist_name": "PAWSA",
+            "plays": 3
+        },
+        {
+            "track_name": "Foolmuse",
+            "artist_name": "Peter Cat Recording Co.",
             "plays": 2
         },
         {
-            "track_name": "People Never Change",
-            "artist_name": "Peter Cat Recording Co.",
+            "track_name": "Tera Mujhse - From \"Aa Gale Lag Jaa\"",
+            "artist_name": "Kishore Kumar",
             "plays": 2
         },
         {
@@ -54,7 +54,12 @@
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 13
+            "plays": 15
+        },
+        {
+            "album_name": "Bismillah",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 4
         },
         {
             "album_name": "TOO COOL TO BE CARELESS",
@@ -65,11 +70,6 @@
             "album_name": "Aaj Sajeya - Single",
             "artist_name": "Goldie Sohel",
             "plays": 3
-        },
-        {
-            "album_name": "Jab We Met",
-            "artist_name": "Pritam",
-            "plays": 2
         },
         {
             "album_name": "Chalte Chalte\u2026Kishore Da\u2019s Greatest Hits",
