@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-05T21:35:05.784223",
-    "total_listening_time": "6h 6m",
+    "last_updated": "2026-05-06T10:33:28.791362",
+    "total_listening_time": "8h 41m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 31
+            "plays": 60
         },
         {
             "artist_name": "Pritam",
@@ -25,50 +25,50 @@
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Aaj Sajeya",
-            "artist_name": "Goldie Sohel",
-            "plays": 3
+            "track_name": "Black and White",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 7
         },
         {
             "track_name": "Foolmuse",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 3
+            "plays": 5
+        },
+        {
+            "track_name": "21c",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 5
         },
         {
             "track_name": "People Never Change",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 3
-        },
-        {
-            "track_name": "TOO COOL TO BE CARELESS",
-            "artist_name": "PAWSA",
-            "plays": 3
+            "plays": 5
         },
         {
             "track_name": "Just Another Love Song",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 3
+            "plays": 5
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 27
+            "plays": 55
         },
         {
             "album_name": "Bismillah",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 4
-        },
-        {
-            "album_name": "TOO COOL TO BE CARELESS",
-            "artist_name": "PAWSA",
-            "plays": 3
+            "plays": 5
         },
         {
             "album_name": "Aaj Sajeya - Single",
             "artist_name": "Goldie Sohel",
+            "plays": 3
+        },
+        {
+            "album_name": "TOO COOL TO BE CARELESS",
+            "artist_name": "PAWSA",
             "plays": 3
         },
         {
