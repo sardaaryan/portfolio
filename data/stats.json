@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-06T21:40:52.511999",
-    "total_listening_time": "10h 10m",
+    "last_updated": "2026-05-07T10:40:11.693557",
+    "total_listening_time": "12h 2m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 65
+            "plays": 85
         },
         {
             "artist_name": "Pritam",
@@ -12,49 +12,49 @@
         },
         {
             "artist_name": "PinkPantheress",
-            "plays": 5
+            "plays": 6
+        },
+        {
+            "artist_name": "Lucy Bedroque",
+            "plays": 4
         },
         {
             "artist_name": "Kishore Kumar",
             "plays": 4
-        },
-        {
-            "artist_name": "Tiffany Day",
-            "plays": 3
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Black and White",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 7
-        },
-        {
-            "track_name": "Just Another Love Song",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 6
+            "plays": 9
         },
         {
             "track_name": "Foolmuse",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 5
+            "plays": 8
         },
         {
-            "track_name": "I Deny Me",
+            "track_name": "Just Another Love Song",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 5
+            "plays": 7
         },
         {
-            "track_name": "Seed",
+            "track_name": "People Never Change",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 5
+            "plays": 7
+        },
+        {
+            "track_name": "21c",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 7
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 60
+            "plays": 80
         },
         {
             "album_name": "Bismillah",
@@ -62,18 +62,18 @@
             "plays": 5
         },
         {
-            "album_name": "TOO COOL TO BE CARELESS",
-            "artist_name": "PAWSA",
-            "plays": 3
+            "album_name": "HALO",
+            "artist_name": "Tiffany Day",
+            "plays": 4
         },
         {
             "album_name": "Fancy That",
             "artist_name": "PinkPantheress",
-            "plays": 3
+            "plays": 4
         },
         {
-            "album_name": "HALO",
-            "artist_name": "Tiffany Day",
+            "album_name": "TOO COOL TO BE CARELESS",
+            "artist_name": "PAWSA",
             "plays": 3
         }
     ]
