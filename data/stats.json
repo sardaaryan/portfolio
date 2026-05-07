@@ -1,21 +1,21 @@
 {
-    "last_updated": "2026-05-07T10:40:11.693557",
-    "total_listening_time": "12h 2m",
+    "last_updated": "2026-05-07T21:30:39.426891",
+    "total_listening_time": "12h 6m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 85
-        },
-        {
-            "artist_name": "Pritam",
-            "plays": 6
+            "plays": 86
         },
         {
             "artist_name": "PinkPantheress",
             "plays": 6
         },
         {
-            "artist_name": "Lucy Bedroque",
+            "artist_name": "Pritam",
+            "plays": 6
+        },
+        {
+            "artist_name": "Tiffany Day",
             "plays": 4
         },
         {
@@ -35,12 +35,12 @@
             "plays": 8
         },
         {
-            "track_name": "Just Another Love Song",
+            "track_name": "People Never Change",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 7
         },
         {
-            "track_name": "People Never Change",
+            "track_name": "Just Another Love Song",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 7
         },
@@ -54,7 +54,7 @@
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 80
+            "plays": 81
         },
         {
             "album_name": "Bismillah",
