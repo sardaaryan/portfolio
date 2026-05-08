@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-07T21:30:39.426891",
-    "total_listening_time": "12h 6m",
+    "last_updated": "2026-05-08T10:02:07.610782",
+    "total_listening_time": "12h 27m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 86
+            "plays": 90
         },
         {
             "artist_name": "PinkPantheress",
@@ -15,11 +15,11 @@
             "plays": 6
         },
         {
-            "artist_name": "Tiffany Day",
+            "artist_name": "Kishore Kumar",
             "plays": 4
         },
         {
-            "artist_name": "Kishore Kumar",
+            "artist_name": "Tiffany Day",
             "plays": 4
         }
     ],
@@ -35,6 +35,11 @@
             "plays": 8
         },
         {
+            "track_name": "Seed",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 8
+        },
+        {
             "track_name": "People Never Change",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 7
@@ -43,18 +48,13 @@
             "track_name": "Just Another Love Song",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 7
-        },
-        {
-            "track_name": "21c",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 7
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 81
+            "plays": 85
         },
         {
             "album_name": "Bismillah",
@@ -62,18 +62,18 @@
             "plays": 5
         },
         {
-            "album_name": "HALO",
-            "artist_name": "Tiffany Day",
-            "plays": 4
-        },
-        {
             "album_name": "Fancy That",
             "artist_name": "PinkPantheress",
             "plays": 4
         },
         {
-            "album_name": "TOO COOL TO BE CARELESS",
-            "artist_name": "PAWSA",
+            "album_name": "HALO",
+            "artist_name": "Tiffany Day",
+            "plays": 4
+        },
+        {
+            "album_name": "Aaj Sajeya - Single",
+            "artist_name": "Goldie Sohel",
             "plays": 3
         }
     ]
