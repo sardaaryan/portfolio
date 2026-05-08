@@ -1,31 +1,41 @@
 {
-    "last_updated": "2026-05-08T10:02:07.610782",
-    "total_listening_time": "12h 27m",
+    "last_updated": "2026-05-08T21:33:57.915708",
+    "total_listening_time": "13h 51m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 90
+            "plays": 96
         },
         {
-            "artist_name": "PinkPantheress",
-            "plays": 6
+            "artist_name": "Quadeca",
+            "plays": 9
         },
         {
             "artist_name": "Pritam",
             "plays": 6
         },
         {
-            "artist_name": "Kishore Kumar",
-            "plays": 4
+            "artist_name": "PinkPantheress",
+            "plays": 6
         },
         {
-            "artist_name": "Tiffany Day",
+            "artist_name": "Kishore Kumar",
             "plays": 4
         }
     ],
     "top_tracks_weekly": [
         {
+            "track_name": "Seed",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 10
+        },
+        {
             "track_name": "Black and White",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 9
+        },
+        {
+            "track_name": "I Deny Me",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 9
         },
@@ -35,26 +45,21 @@
             "plays": 8
         },
         {
-            "track_name": "Seed",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 8
-        },
-        {
-            "track_name": "People Never Change",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 7
-        },
-        {
             "track_name": "Just Another Love Song",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 7
+            "plays": 8
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 85
+            "plays": 91
+        },
+        {
+            "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
+            "artist_name": "Quadeca",
+            "plays": 9
         },
         {
             "album_name": "Bismillah",
@@ -70,11 +75,6 @@
             "album_name": "HALO",
             "artist_name": "Tiffany Day",
             "plays": 4
-        },
-        {
-            "album_name": "Aaj Sajeya - Single",
-            "artist_name": "Goldie Sohel",
-            "plays": 3
         }
     ]
 }
