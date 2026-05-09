@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-05-08T21:33:57.915708",
-    "total_listening_time": "13h 51m",
+    "last_updated": "2026-05-09T09:52:03.253134",
+    "total_listening_time": "15h 22m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 96
+            "plays": 107
         },
         {
             "artist_name": "Quadeca",
-            "plays": 9
+            "plays": 11
         },
         {
             "artist_name": "Pritam",
@@ -27,25 +27,25 @@
         {
             "track_name": "Seed",
             "artist_name": "Peter Cat Recording Co.",
+            "plays": 11
+        },
+        {
+            "track_name": "I Deny Me",
+            "artist_name": "Peter Cat Recording Co.",
             "plays": 10
         },
         {
             "track_name": "Black and White",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 9
-        },
-        {
-            "track_name": "I Deny Me",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 9
+            "plays": 10
         },
         {
             "track_name": "Foolmuse",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 8
+            "plays": 9
         },
         {
-            "track_name": "Just Another Love Song",
+            "track_name": "21c",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 8
         }
@@ -54,12 +54,12 @@
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 91
+            "plays": 102
         },
         {
             "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
             "artist_name": "Quadeca",
-            "plays": 9
+            "plays": 11
         },
         {
             "album_name": "Bismillah",
