@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-10T09:54:16.471859",
-    "total_listening_time": "16h 52m",
+    "last_updated": "2026-05-10T21:12:15.855560",
+    "total_listening_time": "17h 21m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
@@ -8,7 +8,7 @@
         },
         {
             "artist_name": "Quadeca",
-            "plays": 11
+            "plays": 14
         },
         {
             "artist_name": "PinkPantheress",
@@ -30,12 +30,12 @@
             "plays": 11
         },
         {
-            "track_name": "I Deny Me",
+            "track_name": "Black and White",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 10
         },
         {
-            "track_name": "Black and White",
+            "track_name": "I Deny Me",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 10
         },
@@ -45,7 +45,7 @@
             "plays": 9
         },
         {
-            "track_name": "Control Room",
+            "track_name": "People Never Change",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 8
         }
@@ -59,7 +59,7 @@
         {
             "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
             "artist_name": "Quadeca",
-            "plays": 11
+            "plays": 13
         },
         {
             "album_name": "Bismillah",
@@ -67,13 +67,13 @@
             "plays": 5
         },
         {
-            "album_name": "Fancy That",
-            "artist_name": "PinkPantheress",
+            "album_name": "HALO",
+            "artist_name": "Tiffany Day",
             "plays": 4
         },
         {
-            "album_name": "HALO",
-            "artist_name": "Tiffany Day",
+            "album_name": "Fancy That",
+            "artist_name": "PinkPantheress",
             "plays": 4
         }
     ]
