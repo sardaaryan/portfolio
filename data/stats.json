@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-09T21:09:43.067648",
-    "total_listening_time": "16h 14m",
+    "last_updated": "2026-05-10T09:54:16.471859",
+    "total_listening_time": "16h 52m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
@@ -11,15 +11,15 @@
             "plays": 11
         },
         {
-            "artist_name": "Pritam",
-            "plays": 6
-        },
-        {
             "artist_name": "PinkPantheress",
             "plays": 6
         },
         {
             "artist_name": "Goblin Cock",
+            "plays": 5
+        },
+        {
+            "artist_name": "Tiffany Day",
             "plays": 4
         }
     ],
@@ -30,12 +30,12 @@
             "plays": 11
         },
         {
-            "track_name": "Black and White",
+            "track_name": "I Deny Me",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 10
         },
         {
-            "track_name": "I Deny Me",
+            "track_name": "Black and White",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 10
         },
@@ -45,7 +45,7 @@
             "plays": 9
         },
         {
-            "track_name": "21c",
+            "track_name": "Control Room",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 8
         }
