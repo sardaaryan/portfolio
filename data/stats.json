@@ -1,80 +1,80 @@
 {
-    "last_updated": "2026-05-10T21:12:15.855560",
-    "total_listening_time": "17h 21m",
+    "last_updated": "2026-05-11T11:42:53.494453",
+    "total_listening_time": "2h 50m",
     "top_artists_weekly": [
         {
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 107
+            "artist_name": "Goblin Cock",
+            "plays": 4
         },
         {
             "artist_name": "Quadeca",
-            "plays": 14
+            "plays": 3
         },
         {
-            "artist_name": "PinkPantheress",
-            "plays": 6
+            "artist_name": "The Birthday Massacre",
+            "plays": 2
         },
         {
-            "artist_name": "Goblin Cock",
-            "plays": 5
+            "artist_name": "The Neighbourhood",
+            "plays": 2
         },
         {
-            "artist_name": "Tiffany Day",
-            "plays": 4
+            "artist_name": "Bfb Da Packman",
+            "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Seed",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 11
+            "track_name": "Hybrid Moments",
+            "artist_name": "Misfits",
+            "plays": 2
         },
         {
-            "track_name": "Black and White",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 10
+            "track_name": "Daddy Issues",
+            "artist_name": "The Neighbourhood",
+            "plays": 2
         },
         {
-            "track_name": "I Deny Me",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 10
+            "track_name": "Rosetta Stoned",
+            "artist_name": "TOOL",
+            "plays": 2
         },
         {
-            "track_name": "Foolmuse",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 9
+            "track_name": "axel's portal - ep. 2",
+            "artist_name": "yeule",
+            "plays": 2
         },
         {
-            "track_name": "People Never Change",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 8
+            "track_name": "Hurt Me",
+            "artist_name": "Juice WRLD",
+            "plays": 1
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "BETA",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 102
+            "album_name": "Wiped Out!",
+            "artist_name": "The Neighbourhood",
+            "plays": 2
+        },
+        {
+            "album_name": "axel's portal",
+            "artist_name": "yeule",
+            "plays": 2
         },
         {
             "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
             "artist_name": "Quadeca",
-            "plays": 13
+            "plays": 2
         },
         {
-            "album_name": "Bismillah",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 5
+            "album_name": "10,000 Days",
+            "artist_name": "TOOL",
+            "plays": 2
         },
         {
-            "album_name": "HALO",
-            "artist_name": "Tiffany Day",
-            "plays": 4
-        },
-        {
-            "album_name": "Fancy That",
-            "artist_name": "PinkPantheress",
-            "plays": 4
+            "album_name": "Superstition",
+            "artist_name": "The Birthday Massacre",
+            "plays": 2
         }
     ]
 }
