@@ -1,59 +1,69 @@
 {
-    "last_updated": "2026-05-11T21:50:33.258432",
-    "total_listening_time": "4h 56m",
+    "last_updated": "2026-05-12T10:58:54.660272",
+    "total_listening_time": "6h 38m",
     "top_artists_weekly": [
+        {
+            "artist_name": "glaive",
+            "plays": 42
+        },
         {
             "artist_name": "Pritam",
             "plays": 6
-        },
-        {
-            "artist_name": "Vishal-Shekhar",
-            "plays": 4
         },
         {
             "artist_name": "Goblin Cock",
             "plays": 4
         },
         {
-            "artist_name": "Quadeca",
-            "plays": 3
+            "artist_name": "Vishal-Shekhar",
+            "plays": 4
         },
         {
-            "artist_name": "Lil Uzi Vert",
-            "plays": 2
+            "artist_name": "Quadeca",
+            "plays": 3
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Hybrid Moments",
-            "artist_name": "Misfits",
-            "plays": 2
+            "track_name": "Bluebirds",
+            "artist_name": "glaive",
+            "plays": 4
         },
         {
-            "track_name": "Rosetta Stoned",
-            "artist_name": "TOOL",
-            "plays": 2
+            "track_name": "9",
+            "artist_name": "glaive",
+            "plays": 3
         },
         {
-            "track_name": "axel's portal - ep. 2",
-            "artist_name": "yeule",
-            "plays": 2
+            "track_name": "Fuck",
+            "artist_name": "glaive",
+            "plays": 3
         },
         {
-            "track_name": "Daddy Issues",
-            "artist_name": "The Neighbourhood",
-            "plays": 2
+            "track_name": "Veni Vidi Vici",
+            "artist_name": "glaive",
+            "plays": 3
         },
         {
-            "track_name": "Hurt Me",
-            "artist_name": "Juice WRLD",
-            "plays": 1
+            "track_name": "Nouveau Riche",
+            "artist_name": "glaive",
+            "plays": 3
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "10,000 Days",
-            "artist_name": "TOOL",
+            "album_name": "Y\u2019all",
+            "artist_name": "glaive",
+            "plays": 42
+        },
+        {
+            "album_name": "Superstition",
+            "artist_name": "The Birthday Massacre",
+            "plays": 2
+        },
+        {
+            "album_name": "Static Age",
+            "artist_name": "Misfits",
             "plays": 2
         },
         {
@@ -62,18 +72,8 @@
             "plays": 2
         },
         {
-            "album_name": "axel's portal",
-            "artist_name": "yeule",
-            "plays": 2
-        },
-        {
-            "album_name": "Wiped Out!",
-            "artist_name": "The Neighbourhood",
-            "plays": 2
-        },
-        {
-            "album_name": "Superstition",
-            "artist_name": "The Birthday Massacre",
+            "album_name": "10,000 Days",
+            "artist_name": "TOOL",
             "plays": 2
         }
     ]
