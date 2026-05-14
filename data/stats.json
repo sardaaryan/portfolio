@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-14T10:43:15.257130",
-    "total_listening_time": "12h 3m",
+    "last_updated": "2026-05-14T21:44:19.472904",
+    "total_listening_time": "12h 21m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
@@ -8,18 +8,18 @@
         },
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 14
-        },
-        {
-            "artist_name": "brakence",
-            "plays": 7
+            "plays": 16
         },
         {
             "artist_name": "Pritam",
             "plays": 7
         },
         {
-            "artist_name": "The Neighbourhood",
+            "artist_name": "brakence",
+            "plays": 7
+        },
+        {
+            "artist_name": "Rob Zombie",
             "plays": 5
         }
     ],
@@ -35,17 +35,17 @@
             "plays": 4
         },
         {
+            "track_name": "Nouveau Riche",
+            "artist_name": "glaive",
+            "plays": 3
+        },
+        {
             "track_name": "Veni Vidi Vici",
             "artist_name": "glaive",
             "plays": 3
         },
         {
-            "track_name": "Fuck",
-            "artist_name": "glaive",
-            "plays": 3
-        },
-        {
-            "track_name": "Nouveau Riche",
+            "track_name": "Appalachia",
             "artist_name": "glaive",
             "plays": 3
         }
@@ -59,7 +59,7 @@
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 7
+            "plays": 9
         },
         {
             "album_name": "Bismillah",
