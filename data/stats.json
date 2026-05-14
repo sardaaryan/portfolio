@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-13T21:51:53.801397",
-    "total_listening_time": "10h 26m",
+    "last_updated": "2026-05-14T10:43:15.257130",
+    "total_listening_time": "12h 3m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
@@ -11,16 +11,16 @@
             "plays": 14
         },
         {
+            "artist_name": "brakence",
+            "plays": 7
+        },
+        {
             "artist_name": "Pritam",
             "plays": 7
         },
         {
-            "artist_name": "Rob Zombie",
+            "artist_name": "The Neighbourhood",
             "plays": 5
-        },
-        {
-            "artist_name": "Goblin Cock",
-            "plays": 4
         }
     ],
     "top_tracks_weekly": [
@@ -35,17 +35,17 @@
             "plays": 4
         },
         {
-            "track_name": "We Don't Leave the House",
-            "artist_name": "glaive",
-            "plays": 3
-        },
-        {
-            "track_name": "9",
-            "artist_name": "glaive",
-            "plays": 3
-        },
-        {
             "track_name": "Veni Vidi Vici",
+            "artist_name": "glaive",
+            "plays": 3
+        },
+        {
+            "track_name": "Fuck",
+            "artist_name": "glaive",
+            "plays": 3
+        },
+        {
+            "track_name": "Nouveau Riche",
             "artist_name": "glaive",
             "plays": 3
         }
@@ -67,14 +67,14 @@
             "plays": 6
         },
         {
-            "album_name": "Wiped Out!",
-            "artist_name": "The Neighbourhood",
-            "plays": 2
+            "album_name": "hypochondriac",
+            "artist_name": "brakence",
+            "plays": 6
         },
         {
-            "album_name": "Delhi-6",
-            "artist_name": "Rekha Bhardwaj",
-            "plays": 2
+            "album_name": "Wiped Out!",
+            "artist_name": "The Neighbourhood",
+            "plays": 3
         }
     ]
 }
