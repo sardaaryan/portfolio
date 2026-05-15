@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-14T21:44:19.472904",
-    "total_listening_time": "12h 21m",
+    "last_updated": "2026-05-15T10:58:41.812672",
+    "total_listening_time": "15h 17m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
@@ -11,28 +11,33 @@
             "plays": 16
         },
         {
+            "artist_name": "Quadeca",
+            "plays": 10
+        },
+        {
             "artist_name": "Pritam",
             "plays": 7
         },
         {
             "artist_name": "brakence",
             "plays": 7
-        },
-        {
-            "artist_name": "Rob Zombie",
-            "plays": 5
         }
     ],
     "top_tracks_weekly": [
+        {
+            "track_name": "Bluebirds",
+            "artist_name": "glaive",
+            "plays": 4
+        },
         {
             "track_name": "Foreigner",
             "artist_name": "glaive",
             "plays": 4
         },
         {
-            "track_name": "Bluebirds",
+            "track_name": "Fuck",
             "artist_name": "glaive",
-            "plays": 4
+            "plays": 3
         },
         {
             "track_name": "Nouveau Riche",
@@ -40,12 +45,7 @@
             "plays": 3
         },
         {
-            "track_name": "Veni Vidi Vici",
-            "artist_name": "glaive",
-            "plays": 3
-        },
-        {
-            "track_name": "Appalachia",
+            "track_name": "Asheville",
             "artist_name": "glaive",
             "plays": 3
         }
@@ -62,19 +62,19 @@
             "plays": 9
         },
         {
-            "album_name": "Bismillah",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 6
-        },
-        {
             "album_name": "hypochondriac",
             "artist_name": "brakence",
             "plays": 6
         },
         {
-            "album_name": "Wiped Out!",
-            "artist_name": "The Neighbourhood",
-            "plays": 3
+            "album_name": "Bismillah",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 6
+        },
+        {
+            "album_name": "Vanisher, Horizon Scraper",
+            "artist_name": "Quadeca",
+            "plays": 4
         }
     ]
 }
