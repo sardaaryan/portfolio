@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-15T10:58:41.812672",
-    "total_listening_time": "15h 17m",
+    "last_updated": "2026-05-15T21:33:39.978353",
+    "total_listening_time": "15h 27m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
@@ -25,17 +25,17 @@
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Bluebirds",
-            "artist_name": "glaive",
-            "plays": 4
-        },
-        {
             "track_name": "Foreigner",
             "artist_name": "glaive",
             "plays": 4
         },
         {
-            "track_name": "Fuck",
+            "track_name": "Bluebirds",
+            "artist_name": "glaive",
+            "plays": 4
+        },
+        {
+            "track_name": "Veni Vidi Vici",
             "artist_name": "glaive",
             "plays": 3
         },
