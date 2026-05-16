@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-15T21:33:39.978353",
-    "total_listening_time": "15h 27m",
+    "last_updated": "2026-05-16T09:56:17.960324",
+    "total_listening_time": "16h 51m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
@@ -8,18 +8,18 @@
         },
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 16
+            "plays": 20
         },
         {
             "artist_name": "Quadeca",
             "plays": 10
         },
         {
-            "artist_name": "Pritam",
+            "artist_name": "brakence",
             "plays": 7
         },
         {
-            "artist_name": "brakence",
+            "artist_name": "Pritam",
             "plays": 7
         }
     ],
@@ -59,7 +59,7 @@
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 9
+            "plays": 13
         },
         {
             "album_name": "hypochondriac",
