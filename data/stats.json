@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-16T09:56:17.960324",
-    "total_listening_time": "16h 51m",
+    "last_updated": "2026-05-16T21:12:11.168013",
+    "total_listening_time": "16h 59m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
@@ -15,11 +15,11 @@
             "plays": 10
         },
         {
-            "artist_name": "brakence",
-            "plays": 7
+            "artist_name": "Pritam",
+            "plays": 8
         },
         {
-            "artist_name": "Pritam",
+            "artist_name": "brakence",
             "plays": 7
         }
     ],
@@ -35,17 +35,17 @@
             "plays": 4
         },
         {
-            "track_name": "Veni Vidi Vici",
+            "track_name": "Selfless",
+            "artist_name": "The Strokes",
+            "plays": 3
+        },
+        {
+            "track_name": "We Don't Leave the House",
             "artist_name": "glaive",
             "plays": 3
         },
         {
-            "track_name": "Nouveau Riche",
-            "artist_name": "glaive",
-            "plays": 3
-        },
-        {
-            "track_name": "Asheville",
+            "track_name": "Fuck",
             "artist_name": "glaive",
             "plays": 3
         }
