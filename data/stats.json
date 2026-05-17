@@ -1,10 +1,14 @@
 {
-    "last_updated": "2026-05-16T21:12:11.168013",
-    "total_listening_time": "16h 59m",
+    "last_updated": "2026-05-17T10:07:39.595613",
+    "total_listening_time": "18h 55m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
             "plays": 43
+        },
+        {
+            "artist_name": "JPEGMAFIA",
+            "plays": 42
         },
         {
             "artist_name": "Peter Cat Recording Co.",
@@ -17,17 +21,13 @@
         {
             "artist_name": "Pritam",
             "plays": 8
-        },
-        {
-            "artist_name": "brakence",
-            "plays": 7
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Foreigner",
-            "artist_name": "glaive",
-            "plays": 4
+            "track_name": "\u00a5 (Yen)",
+            "artist_name": "JPEGMAFIA",
+            "plays": 41
         },
         {
             "track_name": "Bluebirds",
@@ -35,17 +35,17 @@
             "plays": 4
         },
         {
-            "track_name": "Selfless",
-            "artist_name": "The Strokes",
-            "plays": 3
+            "track_name": "Foreigner",
+            "artist_name": "glaive",
+            "plays": 4
         },
         {
-            "track_name": "We Don't Leave the House",
+            "track_name": "Nouveau Riche",
             "artist_name": "glaive",
             "plays": 3
         },
         {
-            "track_name": "Fuck",
+            "track_name": "Asheville",
             "artist_name": "glaive",
             "plays": 3
         }
@@ -55,6 +55,11 @@
             "album_name": "Y\u2019all",
             "artist_name": "glaive",
             "plays": 43
+        },
+        {
+            "album_name": "\u00a5 (Yen)",
+            "artist_name": "JPEGMAFIA",
+            "plays": 41
         },
         {
             "album_name": "BETA",
@@ -70,11 +75,6 @@
             "album_name": "Bismillah",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 6
-        },
-        {
-            "album_name": "Vanisher, Horizon Scraper",
-            "artist_name": "Quadeca",
-            "plays": 4
         }
     ]
 }
