@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-05-17T10:07:39.595613",
-    "total_listening_time": "18h 55m",
+    "last_updated": "2026-05-17T21:26:59.065683",
+    "total_listening_time": "19h 59m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
-            "plays": 43
+            "plays": 44
         },
         {
             "artist_name": "JPEGMAFIA",
-            "plays": 42
+            "plays": 41
         },
         {
             "artist_name": "Peter Cat Recording Co.",
@@ -16,7 +16,7 @@
         },
         {
             "artist_name": "Quadeca",
-            "plays": 10
+            "plays": 8
         },
         {
             "artist_name": "Pritam",
@@ -30,22 +30,22 @@
             "plays": 41
         },
         {
-            "track_name": "Bluebirds",
-            "artist_name": "glaive",
-            "plays": 4
-        },
-        {
             "track_name": "Foreigner",
             "artist_name": "glaive",
             "plays": 4
         },
         {
-            "track_name": "Nouveau Riche",
+            "track_name": "Bluebirds",
+            "artist_name": "glaive",
+            "plays": 4
+        },
+        {
+            "track_name": "Veni Vidi Vici",
             "artist_name": "glaive",
             "plays": 3
         },
         {
-            "track_name": "Asheville",
+            "track_name": "We Don't Leave the House",
             "artist_name": "glaive",
             "plays": 3
         }
