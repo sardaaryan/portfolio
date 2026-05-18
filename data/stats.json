@@ -1,80 +1,80 @@
 {
-    "last_updated": "2026-05-17T21:26:59.065683",
-    "total_listening_time": "19h 59m",
+    "last_updated": "2026-05-18T11:58:56.470837",
+    "total_listening_time": "2h 24m",
     "top_artists_weekly": [
         {
-            "artist_name": "glaive",
-            "plays": 44
-        },
-        {
             "artist_name": "JPEGMAFIA",
-            "plays": 41
+            "plays": 25
         },
         {
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 20
+            "artist_name": "Black Atlass",
+            "plays": 2
         },
         {
-            "artist_name": "Quadeca",
-            "plays": 8
+            "artist_name": "Kitty Craft",
+            "plays": 2
         },
         {
-            "artist_name": "Pritam",
-            "plays": 8
+            "artist_name": "H2O Hadd",
+            "plays": 1
+        },
+        {
+            "artist_name": "Lil Uzi Vert",
+            "plays": 1
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "\u00a5 (Yen)",
             "artist_name": "JPEGMAFIA",
-            "plays": 41
+            "plays": 25
         },
         {
-            "track_name": "Foreigner",
-            "artist_name": "glaive",
-            "plays": 4
+            "track_name": "Alright",
+            "artist_name": "Kitty Craft",
+            "plays": 2
         },
         {
-            "track_name": "Bluebirds",
-            "artist_name": "glaive",
-            "plays": 4
+            "track_name": "THE GREAT BAKUNAWA (with Danny Brown)",
+            "artist_name": "Quadeca",
+            "plays": 1
         },
         {
-            "track_name": "Veni Vidi Vici",
-            "artist_name": "glaive",
-            "plays": 3
+            "track_name": "Bean (Kobe) [feat. Chief Keef]",
+            "artist_name": "Lil Uzi Vert",
+            "plays": 1
         },
         {
-            "track_name": "We Don't Leave the House",
+            "track_name": "The Troubles",
             "artist_name": "glaive",
-            "plays": 3
+            "plays": 1
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "Y\u2019all",
-            "artist_name": "glaive",
-            "plays": 43
-        },
-        {
             "album_name": "\u00a5 (Yen)",
             "artist_name": "JPEGMAFIA",
-            "plays": 41
+            "plays": 25
         },
         {
-            "album_name": "BETA",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 13
+            "album_name": "Beats and Breaks from the Flower Patch",
+            "artist_name": "Kitty Craft",
+            "plays": 2
         },
         {
-            "album_name": "hypochondriac",
-            "artist_name": "brakence",
-            "plays": 6
+            "album_name": "Pain & Pleasure",
+            "artist_name": "Black Atlass",
+            "plays": 2
         },
         {
-            "album_name": "Bismillah",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 6
+            "album_name": "Back Then",
+            "artist_name": "H2O Hadd",
+            "plays": 1
+        },
+        {
+            "album_name": "Trip At Knight",
+            "artist_name": "Trippie Redd",
+            "plays": 1
         }
     ]
 }
