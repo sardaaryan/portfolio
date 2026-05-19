@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-19T11:39:20.968783",
-    "total_listening_time": "3h 26m",
+    "last_updated": "2026-05-19T21:53:35.780006",
+    "total_listening_time": "3h 30m",
     "top_artists_weekly": [
         {
             "artist_name": "JPEGMAFIA",
@@ -15,7 +15,7 @@
             "plays": 3
         },
         {
-            "artist_name": "yeule",
+            "artist_name": "underscores",
             "plays": 2
         },
         {
@@ -35,6 +35,11 @@
             "plays": 2
         },
         {
+            "track_name": "if i am",
+            "artist_name": "my bloody valentine",
+            "plays": 2
+        },
+        {
             "track_name": "Alright",
             "artist_name": "Kitty Craft",
             "plays": 2
@@ -43,11 +48,6 @@
             "track_name": "Seventyseven dog years",
             "artist_name": "underscores",
             "plays": 2
-        },
-        {
-            "track_name": "\u5f71\u306b\u306a\u3063\u3066",
-            "artist_name": "Yumi Matsutoya",
-            "plays": 1
         }
     ],
     "top_albums_weekly": [
@@ -62,8 +62,8 @@
             "plays": 3
         },
         {
-            "album_name": "Vanisher, Horizon Scraper",
-            "artist_name": "Quadeca",
+            "album_name": "m b v",
+            "artist_name": "my bloody valentine",
             "plays": 2
         },
         {
@@ -72,8 +72,8 @@
             "plays": 2
         },
         {
-            "album_name": "Wallsocket",
-            "artist_name": "underscores",
+            "album_name": "Vanisher, Horizon Scraper",
+            "artist_name": "Quadeca",
             "plays": 2
         }
     ]
