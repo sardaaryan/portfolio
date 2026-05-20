@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-19T21:53:35.780006",
-    "total_listening_time": "3h 30m",
+    "last_updated": "2026-05-20T11:27:59.413139",
+    "total_listening_time": "5h 53m",
     "top_artists_weekly": [
         {
             "artist_name": "JPEGMAFIA",
@@ -8,19 +8,19 @@
         },
         {
             "artist_name": "Quadeca",
+            "plays": 4
+        },
+        {
+            "artist_name": "yeule",
+            "plays": 3
+        },
+        {
+            "artist_name": "Goblin Cock",
             "plays": 3
         },
         {
             "artist_name": "Kitty Craft",
             "plays": 3
-        },
-        {
-            "artist_name": "underscores",
-            "plays": 2
-        },
-        {
-            "artist_name": "Black Atlass",
-            "plays": 2
         }
     ],
     "top_tracks_weekly": [
@@ -28,6 +28,11 @@
             "track_name": "\u00a5 (Yen)",
             "artist_name": "JPEGMAFIA",
             "plays": 25
+        },
+        {
+            "track_name": "thank you i guess",
+            "artist_name": "Forrest Nolan",
+            "plays": 3
         },
         {
             "track_name": "ghosts",
@@ -43,11 +48,6 @@
             "track_name": "Alright",
             "artist_name": "Kitty Craft",
             "plays": 2
-        },
-        {
-            "track_name": "Seventyseven dog years",
-            "artist_name": "underscores",
-            "plays": 2
         }
     ],
     "top_albums_weekly": [
@@ -57,24 +57,24 @@
             "plays": 25
         },
         {
+            "album_name": "thank you i guess",
+            "artist_name": "Forrest Nolan",
+            "plays": 3
+        },
+        {
             "album_name": "Beats and Breaks from the Flower Patch",
             "artist_name": "Kitty Craft",
             "plays": 3
         },
         {
-            "album_name": "m b v",
-            "artist_name": "my bloody valentine",
-            "plays": 2
-        },
-        {
             "album_name": "softscars",
             "artist_name": "yeule",
-            "plays": 2
+            "plays": 3
         },
         {
             "album_name": "Vanisher, Horizon Scraper",
             "artist_name": "Quadeca",
-            "plays": 2
+            "plays": 3
         }
     ]
 }
