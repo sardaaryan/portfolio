@@ -1,25 +1,25 @@
 {
-    "last_updated": "2026-05-20T11:27:59.413139",
-    "total_listening_time": "5h 53m",
+    "last_updated": "2026-05-20T22:10:14.503342",
+    "total_listening_time": "7h 7m",
     "top_artists_weekly": [
         {
             "artist_name": "JPEGMAFIA",
             "plays": 25
         },
         {
+            "artist_name": "Forrest Nolan",
+            "plays": 6
+        },
+        {
+            "artist_name": "Dmitri Shostakovich",
+            "plays": 5
+        },
+        {
             "artist_name": "Quadeca",
             "plays": 4
         },
         {
-            "artist_name": "yeule",
-            "plays": 3
-        },
-        {
-            "artist_name": "Goblin Cock",
-            "plays": 3
-        },
-        {
-            "artist_name": "Kitty Craft",
+            "artist_name": "John Michael Howell",
             "plays": 3
         }
     ],
@@ -32,21 +32,21 @@
         {
             "track_name": "thank you i guess",
             "artist_name": "Forrest Nolan",
+            "plays": 6
+        },
+        {
+            "track_name": "Missing Piece",
+            "artist_name": "John Michael Howell",
             "plays": 3
         },
         {
-            "track_name": "ghosts",
-            "artist_name": "yeule",
-            "plays": 2
+            "track_name": "itkanbe[sonice]",
+            "artist_name": "Knxwledge",
+            "plays": 3
         },
         {
-            "track_name": "if i am",
-            "artist_name": "my bloody valentine",
-            "plays": 2
-        },
-        {
-            "track_name": "Alright",
-            "artist_name": "Kitty Craft",
+            "track_name": "Divide",
+            "artist_name": "The Birthday Massacre",
             "plays": 2
         }
     ],
@@ -59,7 +59,7 @@
         {
             "album_name": "thank you i guess",
             "artist_name": "Forrest Nolan",
-            "plays": 3
+            "plays": 6
         },
         {
             "album_name": "Beats and Breaks from the Flower Patch",
@@ -67,13 +67,13 @@
             "plays": 3
         },
         {
-            "album_name": "softscars",
-            "artist_name": "yeule",
+            "album_name": "Vanisher, Horizon Scraper",
+            "artist_name": "Quadeca",
             "plays": 3
         },
         {
-            "album_name": "Vanisher, Horizon Scraper",
-            "artist_name": "Quadeca",
+            "album_name": "softscars",
+            "artist_name": "yeule",
             "plays": 3
         }
     ]
