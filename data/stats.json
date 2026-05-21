@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-21T11:45:44.252821",
-    "total_listening_time": "8h 32m",
+    "last_updated": "2026-05-21T21:57:23.669387",
+    "total_listening_time": "10h 23m",
     "top_artists_weekly": [
         {
             "artist_name": "JPEGMAFIA",
@@ -12,11 +12,11 @@
         },
         {
             "artist_name": "Dmitri Shostakovich",
-            "plays": 6
+            "plays": 7
         },
         {
-            "artist_name": "Eric Christian",
-            "plays": 4
+            "artist_name": "Quadeca",
+            "plays": 6
         },
         {
             "artist_name": "Knxwledge",
@@ -35,19 +35,19 @@
             "plays": 8
         },
         {
-            "track_name": "itkanbe[sonice]",
-            "artist_name": "Knxwledge",
-            "plays": 4
-        },
-        {
             "track_name": "Missing Piece",
             "artist_name": "John Michael Howell",
             "plays": 4
         },
         {
-            "track_name": "Jazz Suite No. 1: I. Waltz",
-            "artist_name": "Dmitri Shostakovich",
-            "plays": 2
+            "track_name": "itkanbe[sonice]",
+            "artist_name": "Knxwledge",
+            "plays": 4
+        },
+        {
+            "track_name": "White Flag",
+            "artist_name": "Vince Staples",
+            "plays": 3
         }
     ],
     "top_albums_weekly": [
@@ -62,19 +62,19 @@
             "plays": 8
         },
         {
-            "album_name": "Missing Piece",
-            "artist_name": "John Michael Howell",
-            "plays": 4
-        },
-        {
             "album_name": "1988",
             "artist_name": "Knxwledge",
             "plays": 4
         },
         {
-            "album_name": "softscars",
-            "artist_name": "yeule",
-            "plays": 3
+            "album_name": "Missing Piece",
+            "artist_name": "John Michael Howell",
+            "plays": 4
+        },
+        {
+            "album_name": "Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot",
+            "artist_name": "Dmitri Shostakovich",
+            "plays": 4
         }
     ]
 }
