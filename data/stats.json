@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-20T22:10:14.503342",
-    "total_listening_time": "7h 7m",
+    "last_updated": "2026-05-21T11:45:44.252821",
+    "total_listening_time": "8h 32m",
     "top_artists_weekly": [
         {
             "artist_name": "JPEGMAFIA",
@@ -8,19 +8,19 @@
         },
         {
             "artist_name": "Forrest Nolan",
-            "plays": 6
+            "plays": 8
         },
         {
             "artist_name": "Dmitri Shostakovich",
-            "plays": 5
+            "plays": 6
         },
         {
-            "artist_name": "Quadeca",
+            "artist_name": "Eric Christian",
             "plays": 4
         },
         {
-            "artist_name": "John Michael Howell",
-            "plays": 3
+            "artist_name": "Knxwledge",
+            "plays": 4
         }
     ],
     "top_tracks_weekly": [
@@ -32,21 +32,21 @@
         {
             "track_name": "thank you i guess",
             "artist_name": "Forrest Nolan",
-            "plays": 6
-        },
-        {
-            "track_name": "Missing Piece",
-            "artist_name": "John Michael Howell",
-            "plays": 3
+            "plays": 8
         },
         {
             "track_name": "itkanbe[sonice]",
             "artist_name": "Knxwledge",
-            "plays": 3
+            "plays": 4
         },
         {
-            "track_name": "Divide",
-            "artist_name": "The Birthday Massacre",
+            "track_name": "Missing Piece",
+            "artist_name": "John Michael Howell",
+            "plays": 4
+        },
+        {
+            "track_name": "Jazz Suite No. 1: I. Waltz",
+            "artist_name": "Dmitri Shostakovich",
             "plays": 2
         }
     ],
@@ -59,17 +59,17 @@
         {
             "album_name": "thank you i guess",
             "artist_name": "Forrest Nolan",
-            "plays": 6
+            "plays": 8
         },
         {
-            "album_name": "Beats and Breaks from the Flower Patch",
-            "artist_name": "Kitty Craft",
-            "plays": 3
+            "album_name": "Missing Piece",
+            "artist_name": "John Michael Howell",
+            "plays": 4
         },
         {
-            "album_name": "Vanisher, Horizon Scraper",
-            "artist_name": "Quadeca",
-            "plays": 3
+            "album_name": "1988",
+            "artist_name": "Knxwledge",
+            "plays": 4
         },
         {
             "album_name": "softscars",
