@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-22T21:42:12.782492",
-    "total_listening_time": "10h 23m",
+    "last_updated": "2026-05-23T10:12:12.231332",
+    "total_listening_time": "10h 36m",
     "top_artists_weekly": [
         {
             "artist_name": "JPEGMAFIA",
@@ -19,7 +19,7 @@
             "plays": 6
         },
         {
-            "artist_name": "John Michael Howell",
+            "artist_name": "Goblin Cock",
             "plays": 4
         }
     ],
@@ -35,13 +35,13 @@
             "plays": 8
         },
         {
-            "track_name": "Missing Piece",
-            "artist_name": "John Michael Howell",
+            "track_name": "itkanbe[sonice]",
+            "artist_name": "Knxwledge",
             "plays": 4
         },
         {
-            "track_name": "itkanbe[sonice]",
-            "artist_name": "Knxwledge",
+            "track_name": "Missing Piece",
+            "artist_name": "John Michael Howell",
             "plays": 4
         },
         {
@@ -62,11 +62,6 @@
             "plays": 8
         },
         {
-            "album_name": "Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot",
-            "artist_name": "Dmitri Shostakovich",
-            "plays": 4
-        },
-        {
             "album_name": "Missing Piece",
             "artist_name": "John Michael Howell",
             "plays": 4
@@ -74,6 +69,11 @@
         {
             "album_name": "1988",
             "artist_name": "Knxwledge",
+            "plays": 4
+        },
+        {
+            "album_name": "Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot",
+            "artist_name": "Dmitri Shostakovich",
             "plays": 4
         }
     ]
