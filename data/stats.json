@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-05-23T21:25:48.802626",
-    "total_listening_time": "10h 36m",
+    "last_updated": "2026-05-24T10:19:45.230649",
+    "total_listening_time": "13h 0m",
     "top_artists_weekly": [
-        {
-            "artist_name": "JPEGMAFIA",
-            "plays": 25
-        },
         {
             "artist_name": "Forrest Nolan",
             "plays": 8
+        },
+        {
+            "artist_name": "Quadeca",
+            "plays": 7
         },
         {
             "artist_name": "Dmitri Shostakovich",
             "plays": 7
         },
         {
-            "artist_name": "Quadeca",
-            "plays": 6
+            "artist_name": "Eric Christian",
+            "plays": 4
         },
         {
             "artist_name": "Knxwledge",
@@ -24,11 +24,6 @@
         }
     ],
     "top_tracks_weekly": [
-        {
-            "track_name": "\u00a5 (Yen)",
-            "artist_name": "JPEGMAFIA",
-            "plays": 25
-        },
         {
             "track_name": "thank you i guess",
             "artist_name": "Forrest Nolan",
@@ -45,17 +40,17 @@
             "plays": 4
         },
         {
-            "track_name": "White Flag",
-            "artist_name": "Vince Staples",
+            "track_name": "TOO COOL TO BE CARELESS",
+            "artist_name": "PAWSA",
+            "plays": 3
+        },
+        {
+            "track_name": "False Reaction",
+            "artist_name": "VIOLENT VIRA",
             "plays": 3
         }
     ],
     "top_albums_weekly": [
-        {
-            "album_name": "\u00a5 (Yen)",
-            "artist_name": "JPEGMAFIA",
-            "plays": 25
-        },
         {
             "album_name": "thank you i guess",
             "artist_name": "Forrest Nolan",
@@ -75,6 +70,11 @@
             "album_name": "Missing Piece",
             "artist_name": "John Michael Howell",
             "plays": 4
+        },
+        {
+            "album_name": "False Reaction",
+            "artist_name": "VIOLENT VIRA",
+            "plays": 3
         }
     ]
 }
