@@ -1,25 +1,25 @@
 {
-    "last_updated": "2026-05-25T12:04:48.102573",
-    "total_listening_time": "2h 24m",
+    "last_updated": "2026-05-25T21:44:33.417847",
+    "total_listening_time": "2h 41m",
     "top_artists_weekly": [
         {
             "artist_name": "brakence",
             "plays": 7
         },
         {
-            "artist_name": "JPEGMAFIA",
-            "plays": 5
+            "artist_name": "yaego",
+            "plays": 6
         },
         {
-            "artist_name": "yaego",
-            "plays": 3
+            "artist_name": "JPEGMAFIA",
+            "plays": 5
         },
         {
             "artist_name": "Rio Da Yung Og",
             "plays": 2
         },
         {
-            "artist_name": "glaive",
+            "artist_name": "Mau P",
             "plays": 2
         }
     ],
@@ -40,13 +40,13 @@
             "plays": 2
         },
         {
-            "track_name": "Back to the 305",
-            "artist_name": "Omar+",
+            "track_name": "Raabta (From \"Agent Vinod\")",
+            "artist_name": "Pritam",
             "plays": 1
         },
         {
-            "track_name": "neverleave ii",
-            "artist_name": "heavenfalls",
+            "track_name": "Pop this Heat",
+            "artist_name": "JPEGMAFIA",
             "plays": 1
         }
     ],
@@ -62,8 +62,8 @@
             "plays": 5
         },
         {
-            "album_name": "neck",
-            "artist_name": "Mau P",
+            "album_name": "\u00c6RO",
+            "artist_name": "yaego",
             "plays": 2
         },
         {
@@ -72,8 +72,8 @@
             "plays": 2
         },
         {
-            "album_name": "\u00c6RO",
-            "artist_name": "yaego",
+            "album_name": "neck",
+            "artist_name": "Mau P",
             "plays": 2
         }
     ]
