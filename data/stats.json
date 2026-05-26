@@ -1,13 +1,17 @@
 {
-    "last_updated": "2026-05-25T21:44:33.417847",
-    "total_listening_time": "2h 41m",
+    "last_updated": "2026-05-26T22:06:34.846487",
+    "total_listening_time": "5h 7m",
     "top_artists_weekly": [
         {
             "artist_name": "brakence",
-            "plays": 7
+            "plays": 9
         },
         {
             "artist_name": "yaego",
+            "plays": 6
+        },
+        {
+            "artist_name": "Jane Remover",
             "plays": 6
         },
         {
@@ -15,12 +19,8 @@
             "plays": 5
         },
         {
-            "artist_name": "Rio Da Yung Og",
-            "plays": 2
-        },
-        {
-            "artist_name": "Mau P",
-            "plays": 2
+            "artist_name": "underscores",
+            "plays": 3
         }
     ],
     "top_tracks_weekly": [
@@ -30,24 +30,24 @@
             "plays": 6
         },
         {
-            "track_name": "neck",
-            "artist_name": "Mau P",
-            "plays": 2
-        },
-        {
             "track_name": "Different Music",
             "artist_name": "Rio Da Yung Og",
             "plays": 2
         },
         {
-            "track_name": "Raabta (From \"Agent Vinod\")",
-            "artist_name": "Pritam",
-            "plays": 1
+            "track_name": "Goals",
+            "artist_name": "Sophie Powers",
+            "plays": 2
         },
         {
-            "track_name": "Pop this Heat",
-            "artist_name": "JPEGMAFIA",
-            "plays": 1
+            "track_name": "neck",
+            "artist_name": "Mau P",
+            "plays": 2
+        },
+        {
+            "track_name": "Old money bitch",
+            "artist_name": "underscores",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
@@ -67,8 +67,8 @@
             "plays": 2
         },
         {
-            "album_name": "F.L.I.N.T. (Feeling Like I'm Not Through)",
-            "artist_name": "Rio Da Yung Og",
+            "album_name": "Any Shape You Take",
+            "artist_name": "Indigo De Souza",
             "plays": 2
         },
         {
