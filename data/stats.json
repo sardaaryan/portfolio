@@ -1,7 +1,11 @@
 {
-    "last_updated": "2026-05-26T22:06:34.846487",
-    "total_listening_time": "5h 7m",
+    "last_updated": "2026-05-27T11:54:20.334127",
+    "total_listening_time": "7h 10m",
     "top_artists_weekly": [
+        {
+            "artist_name": "Earl Sweatshirt",
+            "plays": 13
+        },
         {
             "artist_name": "brakence",
             "plays": 9
@@ -17,10 +21,6 @@
         {
             "artist_name": "JPEGMAFIA",
             "plays": 5
-        },
-        {
-            "artist_name": "underscores",
-            "plays": 3
         }
     ],
     "top_tracks_weekly": [
@@ -30,13 +30,8 @@
             "plays": 6
         },
         {
-            "track_name": "Different Music",
-            "artist_name": "Rio Da Yung Og",
-            "plays": 2
-        },
-        {
-            "track_name": "Goals",
-            "artist_name": "Sophie Powers",
+            "track_name": "Nerves",
+            "artist_name": "ear",
             "plays": 2
         },
         {
@@ -48,9 +43,19 @@
             "track_name": "Old money bitch",
             "artist_name": "underscores",
             "plays": 2
+        },
+        {
+            "track_name": "U.B.B.",
+            "artist_name": "Okthxbb",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
+        {
+            "album_name": "Live Laugh Love",
+            "artist_name": "Earl Sweatshirt",
+            "plays": 12
+        },
         {
             "album_name": "punk2",
             "artist_name": "brakence",
@@ -62,18 +67,13 @@
             "plays": 5
         },
         {
-            "album_name": "\u00c6RO",
-            "artist_name": "yaego",
+            "album_name": "F.L.I.N.T. (Feeling Like I'm Not Through)",
+            "artist_name": "Rio Da Yung Og",
             "plays": 2
         },
         {
-            "album_name": "Any Shape You Take",
-            "artist_name": "Indigo De Souza",
-            "plays": 2
-        },
-        {
-            "album_name": "neck",
-            "artist_name": "Mau P",
+            "album_name": "Teen Week",
+            "artist_name": "Jane Remover",
             "plays": 2
         }
     ]
