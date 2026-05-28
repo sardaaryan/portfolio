@@ -1,7 +1,15 @@
 {
-    "last_updated": "2026-05-28T11:56:13.811472",
-    "total_listening_time": "8h 16m",
+    "last_updated": "2026-05-28T22:16:52.754875",
+    "total_listening_time": "9h 43m",
     "top_artists_weekly": [
+        {
+            "artist_name": "Quadeca",
+            "plays": 17
+        },
+        {
+            "artist_name": "Kane Parsons",
+            "plays": 16
+        },
         {
             "artist_name": "Earl Sweatshirt",
             "plays": 13
@@ -9,14 +17,6 @@
         {
             "artist_name": "brakence",
             "plays": 9
-        },
-        {
-            "artist_name": "Quadeca",
-            "plays": 8
-        },
-        {
-            "artist_name": "yaego",
-            "plays": 6
         },
         {
             "artist_name": "Jane Remover",
@@ -27,7 +27,7 @@
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 7
+            "plays": 16
         },
         {
             "track_name": "rosier/punk2",
@@ -40,8 +40,8 @@
             "plays": 3
         },
         {
-            "track_name": "Nerves",
-            "artist_name": "ear",
+            "track_name": "Do You Like Air Conditioning",
+            "artist_name": "Kane Parsons",
             "plays": 2
         },
         {
@@ -51,6 +51,16 @@
         }
     ],
     "top_albums_weekly": [
+        {
+            "album_name": "Backrooms (Original Score), Vol. 3",
+            "artist_name": "Kane Parsons",
+            "plays": 16
+        },
+        {
+            "album_name": "Dark Magic",
+            "artist_name": "Quadeca",
+            "plays": 16
+        },
         {
             "album_name": "Live Laugh Love",
             "artist_name": "Earl Sweatshirt",
@@ -62,19 +72,9 @@
             "plays": 7
         },
         {
-            "album_name": "Dark Magic",
-            "artist_name": "Quadeca",
-            "plays": 7
-        },
-        {
             "album_name": "EXPERIMENTAL RAP",
             "artist_name": "JPEGMAFIA",
             "plays": 5
-        },
-        {
-            "album_name": "Backrooms (Original Score), Vol. 3",
-            "artist_name": "Kane Parsons",
-            "plays": 3
         }
     ]
 }
