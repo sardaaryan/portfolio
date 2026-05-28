@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-05-27T22:17:07.945386",
-    "total_listening_time": "7h 38m",
+    "last_updated": "2026-05-28T11:56:13.811472",
+    "total_listening_time": "8h 16m",
     "top_artists_weekly": [
         {
             "artist_name": "Earl Sweatshirt",
@@ -11,19 +11,24 @@
             "plays": 9
         },
         {
+            "artist_name": "Quadeca",
+            "plays": 8
+        },
+        {
             "artist_name": "yaego",
             "plays": 6
         },
         {
             "artist_name": "Jane Remover",
             "plays": 6
-        },
-        {
-            "artist_name": "JPEGMAFIA",
-            "plays": 5
         }
     ],
     "top_tracks_weekly": [
+        {
+            "track_name": "Dark Magic",
+            "artist_name": "Quadeca",
+            "plays": 7
+        },
         {
             "track_name": "rosier/punk2",
             "artist_name": "brakence",
@@ -35,18 +40,13 @@
             "plays": 3
         },
         {
-            "track_name": "neck",
-            "artist_name": "Mau P",
+            "track_name": "Nerves",
+            "artist_name": "ear",
             "plays": 2
         },
         {
             "track_name": "Goals",
             "artist_name": "Sophie Powers",
-            "plays": 2
-        },
-        {
-            "track_name": "Old money bitch",
-            "artist_name": "underscores",
             "plays": 2
         }
     ],
@@ -62,19 +62,19 @@
             "plays": 7
         },
         {
+            "album_name": "Dark Magic",
+            "artist_name": "Quadeca",
+            "plays": 7
+        },
+        {
             "album_name": "EXPERIMENTAL RAP",
             "artist_name": "JPEGMAFIA",
             "plays": 5
         },
         {
-            "album_name": "numb",
-            "artist_name": "Bayymack",
+            "album_name": "Backrooms (Original Score), Vol. 3",
+            "artist_name": "Kane Parsons",
             "plays": 3
-        },
-        {
-            "album_name": "\u00c6RO",
-            "artist_name": "yaego",
-            "plays": 2
         }
     ]
 }
