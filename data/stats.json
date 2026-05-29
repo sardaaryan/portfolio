@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-28T22:16:52.754875",
-    "total_listening_time": "9h 43m",
+    "last_updated": "2026-05-29T11:46:03.291166",
+    "total_listening_time": "10h 53m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 17
+            "plays": 30
         },
         {
             "artist_name": "Kane Parsons",
@@ -27,7 +27,7 @@
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 16
+            "plays": 29
         },
         {
             "track_name": "rosier/punk2",
@@ -40,25 +40,25 @@
             "plays": 3
         },
         {
-            "track_name": "Do You Like Air Conditioning",
-            "artist_name": "Kane Parsons",
+            "track_name": "neck",
+            "artist_name": "Mau P",
             "plays": 2
         },
         {
-            "track_name": "Goals",
-            "artist_name": "Sophie Powers",
+            "track_name": "gsw vs sac",
+            "artist_name": "Earl Sweatshirt",
             "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "Backrooms (Original Score), Vol. 3",
-            "artist_name": "Kane Parsons",
-            "plays": 16
-        },
-        {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
+            "plays": 29
+        },
+        {
+            "album_name": "Backrooms (Original Score), Vol. 3",
+            "artist_name": "Kane Parsons",
             "plays": 16
         },
         {
