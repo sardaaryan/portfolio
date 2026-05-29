@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-29T11:46:03.291166",
-    "total_listening_time": "10h 53m",
+    "last_updated": "2026-05-29T22:11:32.192045",
+    "total_listening_time": "12h 24m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 30
+            "plays": 50
         },
         {
             "artist_name": "Kane Parsons",
@@ -19,7 +19,7 @@
             "plays": 9
         },
         {
-            "artist_name": "Jane Remover",
+            "artist_name": "yaego",
             "plays": 6
         }
     ],
@@ -27,7 +27,7 @@
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 29
+            "plays": 49
         },
         {
             "track_name": "rosier/punk2",
@@ -40,13 +40,13 @@
             "plays": 3
         },
         {
-            "track_name": "neck",
-            "artist_name": "Mau P",
+            "track_name": "Different Music",
+            "artist_name": "Rio Da Yung Og",
             "plays": 2
         },
         {
-            "track_name": "gsw vs sac",
-            "artist_name": "Earl Sweatshirt",
+            "track_name": "Goals",
+            "artist_name": "Sophie Powers",
             "plays": 2
         }
     ],
@@ -54,7 +54,7 @@
         {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 29
+            "plays": 49
         },
         {
             "album_name": "Backrooms (Original Score), Vol. 3",
