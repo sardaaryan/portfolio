@@ -1,10 +1,14 @@
 {
-    "last_updated": "2026-05-30T10:23:06.858337",
-    "total_listening_time": "14h 20m",
+    "last_updated": "2026-05-30T21:33:56.856658",
+    "total_listening_time": "16h 23m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 86
+            "plays": 95
+        },
+        {
+            "artist_name": "glaive",
+            "plays": 20
         },
         {
             "artist_name": "Kane Parsons",
@@ -16,18 +20,14 @@
         },
         {
             "artist_name": "brakence",
-            "plays": 9
-        },
-        {
-            "artist_name": "yaego",
-            "plays": 6
+            "plays": 10
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 84
+            "plays": 85
         },
         {
             "track_name": "rosier/punk2",
@@ -40,13 +40,13 @@
             "plays": 3
         },
         {
-            "track_name": "neck",
-            "artist_name": "Mau P",
+            "track_name": "Goals",
+            "artist_name": "Sophie Powers",
             "plays": 2
         },
         {
-            "track_name": "gsw vs sac",
-            "artist_name": "Earl Sweatshirt",
+            "track_name": "Why Did I Laugh Anyway",
+            "artist_name": "Dev Lemons",
             "plays": 2
         }
     ],
@@ -54,7 +54,12 @@
         {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 84
+            "plays": 85
+        },
+        {
+            "album_name": "Y\u2019all",
+            "artist_name": "glaive",
+            "plays": 17
         },
         {
             "album_name": "Backrooms (Original Score), Vol. 3",
@@ -67,14 +72,9 @@
             "plays": 12
         },
         {
-            "album_name": "punk2",
-            "artist_name": "brakence",
-            "plays": 7
-        },
-        {
             "album_name": "EXPERIMENTAL RAP",
             "artist_name": "JPEGMAFIA",
-            "plays": 5
+            "plays": 7
         }
     ]
 }
