@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-05-30T21:33:56.856658",
-    "total_listening_time": "16h 23m",
+    "last_updated": "2026-05-31T10:29:50.207427",
+    "total_listening_time": "16h 38m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 95
+            "plays": 96
         },
         {
             "artist_name": "glaive",
@@ -27,7 +27,7 @@
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 85
+            "plays": 86
         },
         {
             "track_name": "rosier/punk2",
@@ -40,13 +40,13 @@
             "plays": 3
         },
         {
-            "track_name": "Goals",
-            "artist_name": "Sophie Powers",
+            "track_name": "neck",
+            "artist_name": "Mau P",
             "plays": 2
         },
         {
-            "track_name": "Why Did I Laugh Anyway",
-            "artist_name": "Dev Lemons",
+            "track_name": "gsw vs sac",
+            "artist_name": "Earl Sweatshirt",
             "plays": 2
         }
     ],
@@ -54,7 +54,7 @@
         {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 85
+            "plays": 86
         },
         {
             "album_name": "Y\u2019all",
@@ -74,7 +74,7 @@
         {
             "album_name": "EXPERIMENTAL RAP",
             "artist_name": "JPEGMAFIA",
-            "plays": 7
+            "plays": 10
         }
     ]
 }
