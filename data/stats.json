@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-31T10:29:50.207427",
+    "last_updated": "2026-05-31T21:31:35.676943",
     "total_listening_time": "16h 38m",
     "top_artists_weekly": [
         {
@@ -19,7 +19,7 @@
             "plays": 13
         },
         {
-            "artist_name": "brakence",
+            "artist_name": "JPEGMAFIA",
             "plays": 10
         }
     ],
@@ -30,23 +30,23 @@
             "plays": 86
         },
         {
-            "track_name": "rosier/punk2",
-            "artist_name": "brakence",
-            "plays": 6
-        },
-        {
             "track_name": "numb",
             "artist_name": "Bayymack",
             "plays": 3
         },
         {
-            "track_name": "neck",
-            "artist_name": "Mau P",
+            "track_name": "rosier/punk2",
+            "artist_name": "brakence",
+            "plays": 3
+        },
+        {
+            "track_name": "Gilgamesh",
+            "artist_name": "SERAPHINE NOIR",
             "plays": 2
         },
         {
-            "track_name": "gsw vs sac",
-            "artist_name": "Earl Sweatshirt",
+            "track_name": "Goals",
+            "artist_name": "Sophie Powers",
             "plays": 2
         }
     ],
