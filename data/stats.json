@@ -1,80 +1,80 @@
 {
-    "last_updated": "2026-05-31T21:31:35.676943",
-    "total_listening_time": "16h 38m",
+    "last_updated": "2026-06-01T14:37:23.599725",
+    "total_listening_time": "2h 44m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 96
-        },
-        {
-            "artist_name": "glaive",
-            "plays": 20
-        },
-        {
-            "artist_name": "Kane Parsons",
-            "plays": 16
-        },
-        {
-            "artist_name": "Earl Sweatshirt",
-            "plays": 13
+            "plays": 31
         },
         {
             "artist_name": "JPEGMAFIA",
-            "plays": 10
+            "plays": 5
+        },
+        {
+            "artist_name": "Danny Brown",
+            "plays": 2
+        },
+        {
+            "artist_name": "Jane Remover",
+            "plays": 2
+        },
+        {
+            "artist_name": "forgive yourself",
+            "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 86
+            "plays": 8
         },
         {
-            "track_name": "numb",
-            "artist_name": "Bayymack",
-            "plays": 3
-        },
-        {
-            "track_name": "rosier/punk2",
-            "artist_name": "brakence",
-            "plays": 3
-        },
-        {
-            "track_name": "Gilgamesh",
-            "artist_name": "SERAPHINE NOIR",
+            "track_name": "A LA CARTE",
+            "artist_name": "Quadeca",
             "plays": 2
         },
         {
-            "track_name": "Goals",
-            "artist_name": "Sophie Powers",
+            "track_name": "PRETTY PRIVILEGE",
+            "artist_name": "Quadeca",
+            "plays": 2
+        },
+        {
+            "track_name": "DUSTCUTTER",
+            "artist_name": "Quadeca",
+            "plays": 2
+        },
+        {
+            "track_name": "Mask On",
+            "artist_name": "JPEGMAFIA",
             "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
+            "album_name": "SCRAPYARD",
+            "artist_name": "Quadeca",
+            "plays": 18
+        },
+        {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 86
-        },
-        {
-            "album_name": "Y\u2019all",
-            "artist_name": "glaive",
-            "plays": 17
-        },
-        {
-            "album_name": "Backrooms (Original Score), Vol. 3",
-            "artist_name": "Kane Parsons",
-            "plays": 16
-        },
-        {
-            "album_name": "Live Laugh Love",
-            "artist_name": "Earl Sweatshirt",
-            "plays": 12
+            "plays": 8
         },
         {
             "album_name": "EXPERIMENTAL RAP",
             "artist_name": "JPEGMAFIA",
-            "plays": 10
+            "plays": 5
+        },
+        {
+            "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
+            "artist_name": "Quadeca",
+            "plays": 5
+        },
+        {
+            "album_name": "Stardust",
+            "artist_name": "Danny Brown",
+            "plays": 2
         }
     ]
 }
