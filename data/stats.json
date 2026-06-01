@@ -1,22 +1,22 @@
 {
-    "last_updated": "2026-06-01T14:37:23.599725",
-    "total_listening_time": "2h 44m",
+    "last_updated": "2026-06-01T22:41:47.905623",
+    "total_listening_time": "5h 0m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 31
+            "plays": 45
+        },
+        {
+            "artist_name": "Riverworn",
+            "plays": 12
         },
         {
             "artist_name": "JPEGMAFIA",
             "plays": 5
         },
         {
-            "artist_name": "Danny Brown",
-            "plays": 2
-        },
-        {
-            "artist_name": "Jane Remover",
-            "plays": 2
+            "artist_name": "glaive",
+            "plays": 3
         },
         {
             "artist_name": "forgive yourself",
@@ -27,11 +27,16 @@
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 8
+            "plays": 21
         },
         {
             "track_name": "A LA CARTE",
             "artist_name": "Quadeca",
+            "plays": 2
+        },
+        {
+            "track_name": "Mask On",
+            "artist_name": "JPEGMAFIA",
             "plays": 2
         },
         {
@@ -40,26 +45,26 @@
             "plays": 2
         },
         {
-            "track_name": "DUSTCUTTER",
+            "track_name": "EVEN IF I TRIED",
             "artist_name": "Quadeca",
-            "plays": 2
-        },
-        {
-            "track_name": "Mask On",
-            "artist_name": "JPEGMAFIA",
             "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "SCRAPYARD",
-            "artist_name": "Quadeca",
-            "plays": 18
-        },
-        {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 8
+            "plays": 21
+        },
+        {
+            "album_name": "SCRAPYARD",
+            "artist_name": "Quadeca",
+            "plays": 19
+        },
+        {
+            "album_name": "Shades",
+            "artist_name": "Riverworn",
+            "plays": 12
         },
         {
             "album_name": "EXPERIMENTAL RAP",
@@ -70,11 +75,6 @@
             "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
             "artist_name": "Quadeca",
             "plays": 5
-        },
-        {
-            "album_name": "Stardust",
-            "artist_name": "Danny Brown",
-            "plays": 2
         }
     ]
 }
