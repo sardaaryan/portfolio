@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-06-01T22:41:47.905623",
-    "total_listening_time": "5h 0m",
+    "last_updated": "2026-06-02T12:24:38.509053",
+    "total_listening_time": "5h 26m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 45
+            "plays": 52
         },
         {
             "artist_name": "Riverworn",
-            "plays": 12
+            "plays": 13
         },
         {
             "artist_name": "JPEGMAFIA",
@@ -19,7 +19,7 @@
             "plays": 3
         },
         {
-            "artist_name": "forgive yourself",
+            "artist_name": "Danny Brown",
             "plays": 2
         }
     ],
@@ -27,16 +27,11 @@
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 21
+            "plays": 28
         },
         {
             "track_name": "A LA CARTE",
             "artist_name": "Quadeca",
-            "plays": 2
-        },
-        {
-            "track_name": "Mask On",
-            "artist_name": "JPEGMAFIA",
             "plays": 2
         },
         {
@@ -48,13 +43,18 @@
             "track_name": "EVEN IF I TRIED",
             "artist_name": "Quadeca",
             "plays": 2
+        },
+        {
+            "track_name": "Almost Done",
+            "artist_name": "Riverworn",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 21
+            "plays": 28
         },
         {
             "album_name": "SCRAPYARD",
@@ -64,7 +64,7 @@
         {
             "album_name": "Shades",
             "artist_name": "Riverworn",
-            "plays": 12
+            "plays": 13
         },
         {
             "album_name": "EXPERIMENTAL RAP",
