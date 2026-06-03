@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-03T12:54:56.721579",
-    "total_listening_time": "7h 32m",
+    "last_updated": "2026-06-03T22:37:32.964419",
+    "total_listening_time": "9h 5m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 56
+            "plays": 58
         },
         {
             "artist_name": "Riverworn",
@@ -19,7 +19,7 @@
             "plays": 4
         },
         {
-            "artist_name": "glaive",
+            "artist_name": "Jane Remover",
             "plays": 3
         }
     ],
@@ -27,11 +27,16 @@
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 31
+            "plays": 32
         },
         {
-            "track_name": "A LA CARTE",
-            "artist_name": "Quadeca",
+            "track_name": "Daisy",
+            "artist_name": "Lola Blue",
+            "plays": 3
+        },
+        {
+            "track_name": "Mask On",
+            "artist_name": "JPEGMAFIA",
             "plays": 2
         },
         {
@@ -40,12 +45,7 @@
             "plays": 2
         },
         {
-            "track_name": "Daisy",
-            "artist_name": "Lola Blue",
-            "plays": 2
-        },
-        {
-            "track_name": "EVEN IF I TRIED",
+            "track_name": "DUSTCUTTER",
             "artist_name": "Quadeca",
             "plays": 2
         }
@@ -54,7 +54,7 @@
         {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 31
+            "plays": 32
         },
         {
             "album_name": "SCRAPYARD",
@@ -67,13 +67,13 @@
             "plays": 13
         },
         {
-            "album_name": "EXPERIMENTAL RAP",
-            "artist_name": "JPEGMAFIA",
+            "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
+            "artist_name": "Quadeca",
             "plays": 5
         },
         {
-            "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
-            "artist_name": "Quadeca",
+            "album_name": "EXPERIMENTAL RAP",
+            "artist_name": "JPEGMAFIA",
             "plays": 5
         }
     ]
