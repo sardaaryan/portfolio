@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-04T11:30:04.674060",
-    "total_listening_time": "9h 58m",
+    "last_updated": "2026-06-04T22:02:33.681948",
+    "total_listening_time": "10h 56m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
@@ -35,17 +35,17 @@
             "plays": 3
         },
         {
-            "track_name": "A LA CARTE",
+            "track_name": "DUSTCUTTER",
             "artist_name": "Quadeca",
             "plays": 2
         },
         {
-            "track_name": "Mask On",
-            "artist_name": "JPEGMAFIA",
+            "track_name": "PRETTY PRIVILEGE",
+            "artist_name": "Quadeca",
             "plays": 2
         },
         {
-            "track_name": "PRETTY PRIVILEGE",
+            "track_name": "A LA CARTE",
             "artist_name": "Quadeca",
             "plays": 2
         }
@@ -67,13 +67,13 @@
             "plays": 13
         },
         {
-            "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
-            "artist_name": "Quadeca",
+            "album_name": "EXPERIMENTAL RAP",
+            "artist_name": "JPEGMAFIA",
             "plays": 5
         },
         {
-            "album_name": "EXPERIMENTAL RAP",
-            "artist_name": "JPEGMAFIA",
+            "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
+            "artist_name": "Quadeca",
             "plays": 5
         }
     ]
