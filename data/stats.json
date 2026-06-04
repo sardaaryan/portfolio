@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-03T22:37:32.964419",
-    "total_listening_time": "9h 5m",
+    "last_updated": "2026-06-04T11:30:04.674060",
+    "total_listening_time": "9h 58m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 58
+            "plays": 69
         },
         {
             "artist_name": "Riverworn",
@@ -19,7 +19,7 @@
             "plays": 4
         },
         {
-            "artist_name": "Jane Remover",
+            "artist_name": "glaive",
             "plays": 3
         }
     ],
@@ -27,12 +27,17 @@
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 32
+            "plays": 43
         },
         {
             "track_name": "Daisy",
             "artist_name": "Lola Blue",
             "plays": 3
+        },
+        {
+            "track_name": "A LA CARTE",
+            "artist_name": "Quadeca",
+            "plays": 2
         },
         {
             "track_name": "Mask On",
@@ -43,18 +48,13 @@
             "track_name": "PRETTY PRIVILEGE",
             "artist_name": "Quadeca",
             "plays": 2
-        },
-        {
-            "track_name": "DUSTCUTTER",
-            "artist_name": "Quadeca",
-            "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 32
+            "plays": 43
         },
         {
             "album_name": "SCRAPYARD",
