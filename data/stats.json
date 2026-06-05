@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-05T11:41:51.861429",
-    "total_listening_time": "11h 58m",
+    "last_updated": "2026-06-05T21:57:12.500722",
+    "total_listening_time": "13h 59m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
@@ -11,16 +11,16 @@
             "plays": 13
         },
         {
+            "artist_name": "Ovrkast.",
+            "plays": 12
+        },
+        {
+            "artist_name": "ABHIR",
+            "plays": 7
+        },
+        {
             "artist_name": "JPEGMAFIA",
             "plays": 5
-        },
-        {
-            "artist_name": "Kane Parsons",
-            "plays": 4
-        },
-        {
-            "artist_name": "Kid Cudi",
-            "plays": 3
         }
     ],
     "top_tracks_weekly": [
@@ -35,18 +35,18 @@
             "plays": 3
         },
         {
-            "track_name": "DUSTCUTTER",
+            "track_name": "A LA CARTE",
             "artist_name": "Quadeca",
             "plays": 2
         },
         {
-            "track_name": "Billions",
-            "artist_name": "Caroline Polachek",
+            "track_name": "PRETTY PRIVILEGE",
+            "artist_name": "Quadeca",
             "plays": 2
         },
         {
-            "track_name": "Almost Done",
-            "artist_name": "Riverworn",
+            "track_name": "Do Me, Baby",
+            "artist_name": "Prince",
             "plays": 2
         }
     ],
@@ -67,13 +67,13 @@
             "plays": 13
         },
         {
-            "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
-            "artist_name": "Quadeca",
+            "album_name": "BROWN BOY",
+            "artist_name": "ABHIR",
             "plays": 5
         },
         {
-            "album_name": "EXPERIMENTAL RAP",
-            "artist_name": "JPEGMAFIA",
+            "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
+            "artist_name": "Quadeca",
             "plays": 5
         }
     ]
