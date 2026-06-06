@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-06T10:29:54.822162",
-    "total_listening_time": "14h 46m",
+    "last_updated": "2026-06-06T21:37:12.378363",
+    "total_listening_time": "14h 51m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 70
+            "plays": 64
         },
         {
             "artist_name": "ABHIR",
@@ -19,15 +19,15 @@
             "plays": 12
         },
         {
-            "artist_name": "JPEGMAFIA",
-            "plays": 5
+            "artist_name": "AKRIILA",
+            "plays": 4
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 44
+            "plays": 43
         },
         {
             "track_name": "Daisy",
@@ -35,18 +35,18 @@
             "plays": 3
         },
         {
-            "track_name": "A LA CARTE",
+            "track_name": "DUSTCUTTER",
             "artist_name": "Quadeca",
             "plays": 2
         },
         {
-            "track_name": "PRETTY PRIVILEGE",
-            "artist_name": "Quadeca",
+            "track_name": "ABEL",
+            "artist_name": "ABHIR",
             "plays": 2
         },
         {
-            "track_name": "Do Me, Baby",
-            "artist_name": "Prince",
+            "track_name": "SHANTI (\u0936\u093e\u0902\u0924\u093f)",
+            "artist_name": "ABHIR",
             "plays": 2
         }
     ],
@@ -54,7 +54,7 @@
         {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 44
+            "plays": 43
         },
         {
             "album_name": "SCRAPYARD",
@@ -72,9 +72,9 @@
             "plays": 13
         },
         {
-            "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
-            "artist_name": "Quadeca",
-            "plays": 5
+            "album_name": "Backrooms (Original Score), Vol. 3",
+            "artist_name": "Kane Parsons",
+            "plays": 4
         }
     ]
 }
