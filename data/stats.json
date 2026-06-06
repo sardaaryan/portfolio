@@ -1,10 +1,14 @@
 {
-    "last_updated": "2026-06-05T21:57:12.500722",
-    "total_listening_time": "13h 59m",
+    "last_updated": "2026-06-06T10:29:54.822162",
+    "total_listening_time": "14h 46m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 69
+            "plays": 70
+        },
+        {
+            "artist_name": "ABHIR",
+            "plays": 16
         },
         {
             "artist_name": "Riverworn",
@@ -15,10 +19,6 @@
             "plays": 12
         },
         {
-            "artist_name": "ABHIR",
-            "plays": 7
-        },
-        {
             "artist_name": "JPEGMAFIA",
             "plays": 5
         }
@@ -27,7 +27,7 @@
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 43
+            "plays": 44
         },
         {
             "track_name": "Daisy",
@@ -54,7 +54,7 @@
         {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 43
+            "plays": 44
         },
         {
             "album_name": "SCRAPYARD",
@@ -62,14 +62,14 @@
             "plays": 19
         },
         {
+            "album_name": "BROWN BOY",
+            "artist_name": "ABHIR",
+            "plays": 14
+        },
+        {
             "album_name": "Shades",
             "artist_name": "Riverworn",
             "plays": 13
-        },
-        {
-            "album_name": "BROWN BOY",
-            "artist_name": "ABHIR",
-            "plays": 5
         },
         {
             "album_name": "Vanisher, Horizon Scraper (The Extended Cut)",
