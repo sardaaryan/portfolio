@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-06T21:37:12.378363",
-    "total_listening_time": "14h 51m",
+    "last_updated": "2026-06-07T10:40:19.836949",
+    "total_listening_time": "15h 9m",
     "top_artists_weekly": [
         {
             "artist_name": "Quadeca",
-            "plays": 64
+            "plays": 63
         },
         {
             "artist_name": "ABHIR",
@@ -19,7 +19,7 @@
             "plays": 12
         },
         {
-            "artist_name": "AKRIILA",
+            "artist_name": "Kane Parsons",
             "plays": 4
         }
     ],
@@ -27,7 +27,7 @@
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 43
+            "plays": 42
         },
         {
             "track_name": "Daisy",
@@ -35,18 +35,18 @@
             "plays": 3
         },
         {
-            "track_name": "DUSTCUTTER",
+            "track_name": "Agoraphobia",
+            "artist_name": "ericdoa",
+            "plays": 2
+        },
+        {
+            "track_name": "A LA CARTE",
             "artist_name": "Quadeca",
             "plays": 2
         },
         {
-            "track_name": "ABEL",
-            "artist_name": "ABHIR",
-            "plays": 2
-        },
-        {
-            "track_name": "SHANTI (\u0936\u093e\u0902\u0924\u093f)",
-            "artist_name": "ABHIR",
+            "track_name": "Somebody I Know I'd Miss",
+            "artist_name": "Mulherin",
             "plays": 2
         }
     ],
@@ -54,7 +54,7 @@
         {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
-            "plays": 43
+            "plays": 42
         },
         {
             "album_name": "SCRAPYARD",
@@ -72,8 +72,8 @@
             "plays": 13
         },
         {
-            "album_name": "Backrooms (Original Score), Vol. 3",
-            "artist_name": "Kane Parsons",
+            "album_name": "While The Iron Is Hot",
+            "artist_name": "Ovrkast.",
             "plays": 4
         }
     ]
