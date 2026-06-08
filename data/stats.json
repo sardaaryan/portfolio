@@ -1,38 +1,38 @@
 {
-    "last_updated": "2026-06-07T21:44:06.201965",
-    "total_listening_time": "15h 55m",
+    "last_updated": "2026-06-08T12:46:50.278032",
+    "total_listening_time": "2h 57m",
     "top_artists_weekly": [
         {
-            "artist_name": "Quadeca",
-            "plays": 64
+            "artist_name": "The Neighbourhood",
+            "plays": 5
         },
         {
             "artist_name": "ABHIR",
-            "plays": 16
+            "plays": 5
         },
         {
-            "artist_name": "Riverworn",
-            "plays": 13
+            "artist_name": "JPEGMAFIA",
+            "plays": 3
         },
         {
-            "artist_name": "Ovrkast.",
-            "plays": 12
+            "artist_name": "Nine Inch Nails",
+            "plays": 2
         },
         {
-            "artist_name": "The Neighbourhood",
-            "plays": 4
+            "artist_name": "Quadeca",
+            "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Dark Magic",
-            "artist_name": "Quadeca",
-            "plays": 42
+            "track_name": "Middle of Somewhere",
+            "artist_name": "The Neighbourhood",
+            "plays": 2
         },
         {
-            "track_name": "Daisy",
-            "artist_name": "Lola Blue",
-            "plays": 3
+            "track_name": "Baby Dracula",
+            "artist_name": "Scarling.",
+            "plays": 2
         },
         {
             "track_name": "Agoraphobia",
@@ -40,41 +40,41 @@
             "plays": 2
         },
         {
-            "track_name": "A LA CARTE",
-            "artist_name": "Quadeca",
+            "track_name": "mirror",
+            "artist_name": "Samiyam",
             "plays": 2
         },
         {
-            "track_name": "Somebody I Know I'd Miss",
-            "artist_name": "Mulherin",
+            "track_name": "Blinding Ornaments",
+            "artist_name": "Vulkan",
             "plays": 2
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "Dark Magic",
-            "artist_name": "Quadeca",
-            "plays": 42
-        },
-        {
-            "album_name": "SCRAPYARD",
-            "artist_name": "Quadeca",
-            "plays": 19
-        },
-        {
             "album_name": "BROWN BOY",
             "artist_name": "ABHIR",
-            "plays": 14
+            "plays": 5
         },
         {
-            "album_name": "Shades",
-            "artist_name": "Riverworn",
-            "plays": 13
+            "album_name": "Chip Chrome & The Mono-Tones",
+            "artist_name": "The Neighbourhood",
+            "plays": 3
         },
         {
-            "album_name": "While The Iron Is Hot",
-            "artist_name": "Ovrkast.",
-            "plays": 4
+            "album_name": "Animals Have Feelings",
+            "artist_name": "Samiyam",
+            "plays": 2
+        },
+        {
+            "album_name": "(What's The Story) Morning Glory?",
+            "artist_name": "Oasis",
+            "plays": 2
+        },
+        {
+            "album_name": "Agoraphobia",
+            "artist_name": "ericdoa",
+            "plays": 2
         }
     ]
 }
