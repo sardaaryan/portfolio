@@ -1,38 +1,33 @@
 {
-    "last_updated": "2026-06-08T12:46:50.278032",
-    "total_listening_time": "2h 57m",
+    "last_updated": "2026-06-08T22:09:46.649742",
+    "total_listening_time": "3h 54m",
     "top_artists_weekly": [
         {
-            "artist_name": "The Neighbourhood",
-            "plays": 5
+            "artist_name": "ABHIR",
+            "plays": 8
         },
         {
-            "artist_name": "ABHIR",
+            "artist_name": "Ovrkast.",
+            "plays": 7
+        },
+        {
+            "artist_name": "The Neighbourhood",
             "plays": 5
         },
         {
             "artist_name": "JPEGMAFIA",
+            "plays": 4
+        },
+        {
+            "artist_name": "Vulkan",
             "plays": 3
-        },
-        {
-            "artist_name": "Nine Inch Nails",
-            "plays": 2
-        },
-        {
-            "artist_name": "Quadeca",
-            "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Middle of Somewhere",
-            "artist_name": "The Neighbourhood",
-            "plays": 2
-        },
-        {
-            "track_name": "Baby Dracula",
-            "artist_name": "Scarling.",
-            "plays": 2
+            "track_name": "Blinding Ornaments",
+            "artist_name": "Vulkan",
+            "plays": 3
         },
         {
             "track_name": "Agoraphobia",
@@ -40,13 +35,18 @@
             "plays": 2
         },
         {
-            "track_name": "mirror",
-            "artist_name": "Samiyam",
+            "track_name": "Graphic Bleed Outs",
+            "artist_name": "Quelle Chris",
             "plays": 2
         },
         {
-            "track_name": "Blinding Ornaments",
-            "artist_name": "Vulkan",
+            "track_name": "Weston Super Mare",
+            "artist_name": "glaive",
+            "plays": 2
+        },
+        {
+            "track_name": "Middle of Somewhere",
+            "artist_name": "The Neighbourhood",
             "plays": 2
         }
     ],
@@ -54,7 +54,12 @@
         {
             "album_name": "BROWN BOY",
             "artist_name": "ABHIR",
-            "plays": 5
+            "plays": 6
+        },
+        {
+            "album_name": "While The Iron Is Hot",
+            "artist_name": "Ovrkast.",
+            "plays": 3
         },
         {
             "album_name": "Chip Chrome & The Mono-Tones",
@@ -62,19 +67,14 @@
             "plays": 3
         },
         {
-            "album_name": "Animals Have Feelings",
-            "artist_name": "Samiyam",
-            "plays": 2
+            "album_name": "Innocent Country 2",
+            "artist_name": "Quelle Chris",
+            "plays": 3
         },
         {
-            "album_name": "(What's The Story) Morning Glory?",
-            "artist_name": "Oasis",
-            "plays": 2
-        },
-        {
-            "album_name": "Agoraphobia",
-            "artist_name": "ericdoa",
-            "plays": 2
+            "album_name": "Technatura",
+            "artist_name": "Vulkan",
+            "plays": 3
         }
     ]
 }
