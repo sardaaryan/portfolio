@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-09T22:06:45.125860",
-    "total_listening_time": "7h 19m",
+    "last_updated": "2026-06-10T11:52:46.901575",
+    "total_listening_time": "9h 4m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
@@ -8,19 +8,19 @@
         },
         {
             "artist_name": "ABHIR",
-            "plays": 12
+            "plays": 18
+        },
+        {
+            "artist_name": "Ovrkast.",
+            "plays": 14
         },
         {
             "artist_name": "Quadeca",
             "plays": 9
         },
         {
-            "artist_name": "Ovrkast.",
-            "plays": 7
-        },
-        {
-            "artist_name": "Lifafa",
-            "plays": 5
+            "artist_name": "AKRIILA",
+            "plays": 8
         }
     ],
     "top_tracks_weekly": [
@@ -32,12 +32,12 @@
         {
             "track_name": "GO GETTER",
             "artist_name": "ABHIR",
-            "plays": 5
+            "plays": 7
         },
         {
             "track_name": "Weston Super Mare",
             "artist_name": "glaive",
-            "plays": 4
+            "plays": 6
         },
         {
             "track_name": "21c",
@@ -45,9 +45,9 @@
             "plays": 4
         },
         {
-            "track_name": "Black and White",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 3
+            "track_name": "Turn It Up",
+            "artist_name": "slayr",
+            "plays": 4
         }
     ],
     "top_albums_weekly": [
@@ -59,7 +59,7 @@
         {
             "album_name": "BROWN BOY",
             "artist_name": "ABHIR",
-            "plays": 9
+            "plays": 11
         },
         {
             "album_name": "Dark Magic",
@@ -67,14 +67,14 @@
             "plays": 8
         },
         {
-            "album_name": "God Save The Three",
-            "artist_name": "glaive",
-            "plays": 4
+            "album_name": "ULTRASWAN",
+            "artist_name": "ABHIR",
+            "plays": 7
         },
         {
-            "album_name": "Innocent Country 2",
-            "artist_name": "Quelle Chris",
-            "plays": 4
+            "album_name": "God Save The Three",
+            "artist_name": "glaive",
+            "plays": 6
         }
     ]
 }
