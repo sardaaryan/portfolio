@@ -1,10 +1,10 @@
 {
-    "last_updated": "2026-06-10T11:52:46.901575",
-    "total_listening_time": "9h 4m",
+    "last_updated": "2026-06-10T22:27:13.484835",
+    "total_listening_time": "11h 14m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 26
+            "plays": 43
         },
         {
             "artist_name": "ABHIR",
@@ -35,26 +35,26 @@
             "plays": 7
         },
         {
+            "track_name": "21c",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 6
+        },
+        {
             "track_name": "Weston Super Mare",
             "artist_name": "glaive",
             "plays": 6
         },
         {
-            "track_name": "21c",
+            "track_name": "Something About You",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 4
-        },
-        {
-            "track_name": "Turn It Up",
-            "artist_name": "slayr",
-            "plays": 4
+            "plays": 5
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 26
+            "plays": 43
         },
         {
             "album_name": "BROWN BOY",
@@ -72,8 +72,8 @@
             "plays": 7
         },
         {
-            "album_name": "God Save The Three",
-            "artist_name": "glaive",
+            "album_name": "While The Iron Is Hot",
+            "artist_name": "Ovrkast.",
             "plays": 6
         }
     ]
