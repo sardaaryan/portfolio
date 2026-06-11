@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-11T12:27:34.303818",
-    "total_listening_time": "12h 10m",
+    "last_updated": "2026-06-11T22:23:03.276514",
+    "total_listening_time": "14h 50m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
@@ -8,15 +8,15 @@
         },
         {
             "artist_name": "ABHIR",
-            "plays": 19
+            "plays": 20
         },
         {
             "artist_name": "Ovrkast.",
-            "plays": 14
+            "plays": 17
         },
         {
             "artist_name": "Quadeca",
-            "plays": 9
+            "plays": 10
         },
         {
             "artist_name": "AKRIILA",
@@ -25,13 +25,13 @@
     ],
     "top_tracks_weekly": [
         {
-            "track_name": "Dark Magic",
-            "artist_name": "Quadeca",
-            "plays": 8
-        },
-        {
             "track_name": "GO GETTER",
             "artist_name": "ABHIR",
+            "plays": 9
+        },
+        {
+            "track_name": "Dark Magic",
+            "artist_name": "Quadeca",
             "plays": 8
         },
         {
@@ -59,7 +59,7 @@
         {
             "album_name": "BROWN BOY",
             "artist_name": "ABHIR",
-            "plays": 12
+            "plays": 13
         },
         {
             "album_name": "Dark Magic",
@@ -67,8 +67,8 @@
             "plays": 8
         },
         {
-            "album_name": "ULTRASWAN",
-            "artist_name": "ABHIR",
+            "album_name": "While The Iron Is Hot",
+            "artist_name": "Ovrkast.",
             "plays": 7
         },
         {
