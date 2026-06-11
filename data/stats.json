@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-06-10T22:27:13.484835",
-    "total_listening_time": "11h 14m",
+    "last_updated": "2026-06-11T12:27:34.303818",
+    "total_listening_time": "12h 10m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 43
+            "plays": 53
         },
         {
             "artist_name": "ABHIR",
-            "plays": 18
+            "plays": 19
         },
         {
             "artist_name": "Ovrkast.",
@@ -32,34 +32,34 @@
         {
             "track_name": "GO GETTER",
             "artist_name": "ABHIR",
+            "plays": 8
+        },
+        {
+            "track_name": "Weston Super Mare",
+            "artist_name": "glaive",
             "plays": 7
         },
         {
             "track_name": "21c",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 6
-        },
-        {
-            "track_name": "Weston Super Mare",
-            "artist_name": "glaive",
-            "plays": 6
+            "plays": 7
         },
         {
             "track_name": "Something About You",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 5
+            "plays": 6
         }
     ],
     "top_albums_weekly": [
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 43
+            "plays": 53
         },
         {
             "album_name": "BROWN BOY",
             "artist_name": "ABHIR",
-            "plays": 11
+            "plays": 12
         },
         {
             "album_name": "Dark Magic",
@@ -72,9 +72,9 @@
             "plays": 7
         },
         {
-            "album_name": "While The Iron Is Hot",
-            "artist_name": "Ovrkast.",
-            "plays": 6
+            "album_name": "God Save The Three",
+            "artist_name": "glaive",
+            "plays": 7
         }
     ]
 }
