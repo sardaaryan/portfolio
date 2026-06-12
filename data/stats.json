@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-12T11:58:56.992522",
-    "total_listening_time": "16h 15m",
+    "last_updated": "2026-06-12T22:07:16.762049",
+    "total_listening_time": "18h 40m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
@@ -8,11 +8,11 @@
         },
         {
             "artist_name": "ABHIR",
-            "plays": 21
+            "plays": 23
         },
         {
             "artist_name": "Quadeca",
-            "plays": 20
+            "plays": 21
         },
         {
             "artist_name": "Ovrkast.",
@@ -20,19 +20,19 @@
         },
         {
             "artist_name": "glaive",
-            "plays": 10
+            "plays": 12
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Weston Super Mare",
             "artist_name": "glaive",
-            "plays": 10
+            "plays": 12
         },
         {
             "track_name": "GO GETTER",
             "artist_name": "ABHIR",
-            "plays": 10
+            "plays": 11
         },
         {
             "track_name": "Dark Magic",
@@ -45,7 +45,7 @@
             "plays": 7
         },
         {
-            "track_name": "Something About You",
+            "track_name": "Black and White",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 6
         }
@@ -59,12 +59,12 @@
         {
             "album_name": "BROWN BOY",
             "artist_name": "ABHIR",
-            "plays": 14
+            "plays": 15
         },
         {
             "album_name": "God Save The Three",
             "artist_name": "glaive",
-            "plays": 10
+            "plays": 12
         },
         {
             "album_name": "I Didn't Mean To Haunt You",
@@ -72,8 +72,8 @@
             "plays": 10
         },
         {
-            "album_name": "Dark Magic",
-            "artist_name": "Quadeca",
+            "album_name": "ULTRASWAN",
+            "artist_name": "ABHIR",
             "plays": 8
         }
     ]
