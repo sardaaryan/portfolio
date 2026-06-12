@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-11T22:23:03.276514",
-    "total_listening_time": "14h 50m",
+    "last_updated": "2026-06-12T11:58:56.992522",
+    "total_listening_time": "16h 15m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
@@ -8,6 +8,10 @@
         },
         {
             "artist_name": "ABHIR",
+            "plays": 21
+        },
+        {
+            "artist_name": "Quadeca",
             "plays": 20
         },
         {
@@ -15,29 +19,25 @@
             "plays": 17
         },
         {
-            "artist_name": "Quadeca",
+            "artist_name": "glaive",
             "plays": 10
-        },
-        {
-            "artist_name": "AKRIILA",
-            "plays": 8
         }
     ],
     "top_tracks_weekly": [
         {
+            "track_name": "Weston Super Mare",
+            "artist_name": "glaive",
+            "plays": 10
+        },
+        {
             "track_name": "GO GETTER",
             "artist_name": "ABHIR",
-            "plays": 9
+            "plays": 10
         },
         {
             "track_name": "Dark Magic",
             "artist_name": "Quadeca",
             "plays": 8
-        },
-        {
-            "track_name": "Weston Super Mare",
-            "artist_name": "glaive",
-            "plays": 7
         },
         {
             "track_name": "21c",
@@ -59,22 +59,22 @@
         {
             "album_name": "BROWN BOY",
             "artist_name": "ABHIR",
-            "plays": 13
+            "plays": 14
+        },
+        {
+            "album_name": "God Save The Three",
+            "artist_name": "glaive",
+            "plays": 10
+        },
+        {
+            "album_name": "I Didn't Mean To Haunt You",
+            "artist_name": "Quadeca",
+            "plays": 10
         },
         {
             "album_name": "Dark Magic",
             "artist_name": "Quadeca",
             "plays": 8
-        },
-        {
-            "album_name": "While The Iron Is Hot",
-            "artist_name": "Ovrkast.",
-            "plays": 7
-        },
-        {
-            "album_name": "God Save The Three",
-            "artist_name": "glaive",
-            "plays": 7
         }
     ]
 }
