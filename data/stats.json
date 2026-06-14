@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-13T21:45:03.798331",
-    "total_listening_time": "22h 3m",
+    "last_updated": "2026-06-14T11:14:04.959045",
+    "total_listening_time": "23h 59m",
     "top_artists_weekly": [
         {
             "artist_name": "Peter Cat Recording Co.",
@@ -8,31 +8,31 @@
         },
         {
             "artist_name": "glaive",
-            "plays": 33
+            "plays": 36
         },
         {
             "artist_name": "Quadeca",
             "plays": 24
         },
         {
-            "artist_name": "Ovrkast.",
-            "plays": 22
+            "artist_name": "ABHIR",
+            "plays": 23
         },
         {
-            "artist_name": "ABHIR",
-            "plays": 21
+            "artist_name": "Ovrkast.",
+            "plays": 22
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Weston Super Mare",
             "artist_name": "glaive",
-            "plays": 14
+            "plays": 16
         },
         {
             "track_name": "GO GETTER",
             "artist_name": "ABHIR",
-            "plays": 12
+            "plays": 13
         },
         {
             "track_name": "Dark Magic",
@@ -40,14 +40,14 @@
             "plays": 11
         },
         {
-            "track_name": "21c",
-            "artist_name": "Peter Cat Recording Co.",
+            "track_name": "Baby baby",
+            "artist_name": "ABHIR",
             "plays": 7
         },
         {
-            "track_name": "Baby baby",
-            "artist_name": "ABHIR",
-            "plays": 6
+            "track_name": "Turn It Up",
+            "artist_name": "slayr",
+            "plays": 7
         }
     ],
     "top_albums_weekly": [
@@ -59,22 +59,22 @@
         {
             "album_name": "Y\u2019all",
             "artist_name": "glaive",
-            "plays": 19
+            "plays": 20
         },
         {
             "album_name": "God Save The Three",
             "artist_name": "glaive",
-            "plays": 14
-        },
-        {
-            "album_name": "BROWN BOY",
-            "artist_name": "ABHIR",
-            "plays": 12
+            "plays": 16
         },
         {
             "album_name": "Leak 04-13 (Bait Ones)",
             "artist_name": "Jai Paul",
-            "plays": 12
+            "plays": 13
+        },
+        {
+            "album_name": "BROWN BOY",
+            "artist_name": "ABHIR",
+            "plays": 13
         }
     ]
 }
