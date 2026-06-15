@@ -1,80 +1,80 @@
 {
-    "last_updated": "2026-06-14T21:51:26.907992",
-    "total_listening_time": "24h 8m",
+    "last_updated": "2026-06-15T14:44:00.573396",
+    "total_listening_time": "2h 36m",
     "top_artists_weekly": [
         {
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 53
+            "artist_name": "MF DOOM",
+            "plays": 9
         },
         {
             "artist_name": "glaive",
-            "plays": 37
+            "plays": 4
         },
         {
             "artist_name": "ABHIR",
-            "plays": 24
+            "plays": 3
         },
         {
-            "artist_name": "Quadeca",
-            "plays": 23
+            "artist_name": "The Weeknd",
+            "plays": 2
         },
         {
-            "artist_name": "Ovrkast.",
-            "plays": 22
+            "artist_name": "Vansire",
+            "plays": 2
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Weston Super Mare",
             "artist_name": "glaive",
-            "plays": 17
+            "plays": 3
+        },
+        {
+            "track_name": "Superstition - Single Version",
+            "artist_name": "Stevie Wonder",
+            "plays": 2
+        },
+        {
+            "track_name": "Mr. Blue Sky",
+            "artist_name": "Electric Light Orchestra",
+            "plays": 2
         },
         {
             "track_name": "GO GETTER",
             "artist_name": "ABHIR",
-            "plays": 14
+            "plays": 2
         },
         {
-            "track_name": "Dark Magic",
-            "artist_name": "Quadeca",
-            "plays": 11
-        },
-        {
-            "track_name": "21c",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 7
-        },
-        {
-            "track_name": "Turn It Up",
-            "artist_name": "slayr",
-            "plays": 7
+            "track_name": "Poo-Putt Platter",
+            "artist_name": "MF DOOM",
+            "plays": 1
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "BETA",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 53
-        },
-        {
-            "album_name": "Y\u2019all",
-            "artist_name": "glaive",
-            "plays": 20
+            "album_name": "MM..FOOD",
+            "artist_name": "MF DOOM",
+            "plays": 9
         },
         {
             "album_name": "God Save The Three",
             "artist_name": "glaive",
-            "plays": 17
+            "plays": 3
+        },
+        {
+            "album_name": "Absolutely",
+            "artist_name": "Dijon",
+            "plays": 2
         },
         {
             "album_name": "BROWN BOY",
             "artist_name": "ABHIR",
-            "plays": 14
+            "plays": 2
         },
         {
-            "album_name": "Leak 04-13 (Bait Ones)",
-            "artist_name": "Jai Paul",
-            "plays": 13
+            "album_name": "Out of the Blue",
+            "artist_name": "Electric Light Orchestra",
+            "plays": 2
         }
     ]
 }
