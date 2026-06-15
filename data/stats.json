@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-15T14:44:00.573396",
-    "total_listening_time": "2h 36m",
+    "last_updated": "2026-06-15T22:33:55.027447",
+    "total_listening_time": "3h 26m",
     "top_artists_weekly": [
         {
             "artist_name": "MF DOOM",
@@ -8,6 +8,10 @@
         },
         {
             "artist_name": "glaive",
+            "plays": 5
+        },
+        {
+            "artist_name": "Peter Cat Recording Co.",
             "plays": 4
         },
         {
@@ -15,29 +19,20 @@
             "plays": 3
         },
         {
-            "artist_name": "The Weeknd",
-            "plays": 2
-        },
-        {
-            "artist_name": "Vansire",
-            "plays": 2
+            "artist_name": "Electric Light Orchestra",
+            "plays": 3
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Weston Super Mare",
             "artist_name": "glaive",
-            "plays": 3
-        },
-        {
-            "track_name": "Superstition - Single Version",
-            "artist_name": "Stevie Wonder",
-            "plays": 2
+            "plays": 4
         },
         {
             "track_name": "Mr. Blue Sky",
             "artist_name": "Electric Light Orchestra",
-            "plays": 2
+            "plays": 3
         },
         {
             "track_name": "GO GETTER",
@@ -45,9 +40,14 @@
             "plays": 2
         },
         {
-            "track_name": "Poo-Putt Platter",
-            "artist_name": "MF DOOM",
-            "plays": 1
+            "track_name": "Superstition - Single Version",
+            "artist_name": "Stevie Wonder",
+            "plays": 2
+        },
+        {
+            "track_name": "Graphic Bleed Outs",
+            "artist_name": "Quelle Chris",
+            "plays": 2
         }
     ],
     "top_albums_weekly": [
@@ -59,21 +59,21 @@
         {
             "album_name": "God Save The Three",
             "artist_name": "glaive",
-            "plays": 3
+            "plays": 4
         },
         {
-            "album_name": "Absolutely",
-            "artist_name": "Dijon",
-            "plays": 2
-        },
-        {
-            "album_name": "BROWN BOY",
-            "artist_name": "ABHIR",
-            "plays": 2
+            "album_name": "BETA",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 4
         },
         {
             "album_name": "Out of the Blue",
             "artist_name": "Electric Light Orchestra",
+            "plays": 3
+        },
+        {
+            "album_name": "The Definitive Collection",
+            "artist_name": "Stevie Wonder",
             "plays": 2
         }
     ]
