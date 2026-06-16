@@ -1,37 +1,42 @@
 {
-    "last_updated": "2026-06-16T13:11:43.305378",
-    "total_listening_time": "5h 37m",
+    "last_updated": "2026-06-16T22:30:10.843604",
+    "total_listening_time": "7h 9m",
     "top_artists_weekly": [
         {
             "artist_name": "MF DOOM",
             "plays": 9
         },
         {
-            "artist_name": "glaive",
-            "plays": 5
+            "artist_name": "ABHIR",
+            "plays": 6
         },
         {
-            "artist_name": "ABHIR",
-            "plays": 4
+            "artist_name": "glaive",
+            "plays": 6
+        },
+        {
+            "artist_name": "Dijon",
+            "plays": 5
         },
         {
             "artist_name": "Peter Cat Recording Co.",
             "plays": 4
-        },
-        {
-            "artist_name": "aldrch",
-            "plays": 3
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Weston Super Mare",
             "artist_name": "glaive",
-            "plays": 4
+            "plays": 5
         },
         {
             "track_name": "GO GETTER",
             "artist_name": "ABHIR",
+            "plays": 4
+        },
+        {
+            "track_name": "The Dress",
+            "artist_name": "Dijon",
             "plays": 3
         },
         {
@@ -43,11 +48,6 @@
             "track_name": "Mr. Blue Sky",
             "artist_name": "Electric Light Orchestra",
             "plays": 3
-        },
-        {
-            "track_name": "Superstition - Single Version",
-            "artist_name": "Stevie Wonder",
-            "plays": 2
         }
     ],
     "top_albums_weekly": [
@@ -59,22 +59,22 @@
         {
             "album_name": "God Save The Three",
             "artist_name": "glaive",
+            "plays": 5
+        },
+        {
+            "album_name": "Absolutely",
+            "artist_name": "Dijon",
+            "plays": 5
+        },
+        {
+            "album_name": "BROWN BOY",
+            "artist_name": "ABHIR",
             "plays": 4
         },
         {
             "album_name": "BETA",
             "artist_name": "Peter Cat Recording Co.",
             "plays": 4
-        },
-        {
-            "album_name": "Out of the Blue",
-            "artist_name": "Electric Light Orchestra",
-            "plays": 3
-        },
-        {
-            "album_name": "BROWN BOY",
-            "artist_name": "ABHIR",
-            "plays": 3
         }
     ]
 }
