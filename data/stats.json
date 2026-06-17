@@ -1,10 +1,14 @@
 {
-    "last_updated": "2026-06-17T12:35:41.039511",
-    "total_listening_time": "8h 14m",
+    "last_updated": "2026-06-17T22:20:16.214093",
+    "total_listening_time": "9h 17m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
-            "plays": 14
+            "plays": 16
+        },
+        {
+            "artist_name": "C418",
+            "plays": 10
         },
         {
             "artist_name": "MF DOOM",
@@ -17,17 +21,13 @@
         {
             "artist_name": "Dijon",
             "plays": 5
-        },
-        {
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 4
         }
     ],
     "top_tracks_weekly": [
         {
             "track_name": "Weston Super Mare",
             "artist_name": "glaive",
-            "plays": 6
+            "plays": 7
         },
         {
             "track_name": "GO GETTER",
@@ -35,22 +35,27 @@
             "plays": 5
         },
         {
-            "track_name": "Mr. Blue Sky",
-            "artist_name": "Electric Light Orchestra",
-            "plays": 3
-        },
-        {
-            "track_name": "The Dress",
-            "artist_name": "Dijon",
+            "track_name": "Turn It Up",
+            "artist_name": "slayr",
             "plays": 3
         },
         {
             "track_name": "Baby baby",
             "artist_name": "ABHIR",
             "plays": 3
+        },
+        {
+            "track_name": "The Dress",
+            "artist_name": "Dijon",
+            "plays": 3
         }
     ],
     "top_albums_weekly": [
+        {
+            "album_name": "Cookie Clicker",
+            "artist_name": "C418",
+            "plays": 10
+        },
         {
             "album_name": "MM..FOOD",
             "artist_name": "MF DOOM",
@@ -59,17 +64,12 @@
         {
             "album_name": "Y\u2019all",
             "artist_name": "glaive",
-            "plays": 8
+            "plays": 9
         },
         {
             "album_name": "God Save The Three",
             "artist_name": "glaive",
-            "plays": 6
-        },
-        {
-            "album_name": "BROWN BOY",
-            "artist_name": "ABHIR",
-            "plays": 5
+            "plays": 7
         },
         {
             "album_name": "Absolutely",
