@@ -1,18 +1,18 @@
 {
-    "last_updated": "2026-06-16T22:30:10.843604",
-    "total_listening_time": "7h 9m",
+    "last_updated": "2026-06-17T12:35:41.039511",
+    "total_listening_time": "8h 14m",
     "top_artists_weekly": [
+        {
+            "artist_name": "glaive",
+            "plays": 14
+        },
         {
             "artist_name": "MF DOOM",
             "plays": 9
         },
         {
             "artist_name": "ABHIR",
-            "plays": 6
-        },
-        {
-            "artist_name": "glaive",
-            "plays": 6
+            "plays": 8
         },
         {
             "artist_name": "Dijon",
@@ -27,12 +27,17 @@
         {
             "track_name": "Weston Super Mare",
             "artist_name": "glaive",
-            "plays": 5
+            "plays": 6
         },
         {
             "track_name": "GO GETTER",
             "artist_name": "ABHIR",
-            "plays": 4
+            "plays": 5
+        },
+        {
+            "track_name": "Mr. Blue Sky",
+            "artist_name": "Electric Light Orchestra",
+            "plays": 3
         },
         {
             "track_name": "The Dress",
@@ -40,13 +45,8 @@
             "plays": 3
         },
         {
-            "track_name": "talk2nice",
-            "artist_name": "aldrch",
-            "plays": 3
-        },
-        {
-            "track_name": "Mr. Blue Sky",
-            "artist_name": "Electric Light Orchestra",
+            "track_name": "Baby baby",
+            "artist_name": "ABHIR",
             "plays": 3
         }
     ],
@@ -57,24 +57,24 @@
             "plays": 9
         },
         {
+            "album_name": "Y\u2019all",
+            "artist_name": "glaive",
+            "plays": 8
+        },
+        {
             "album_name": "God Save The Three",
             "artist_name": "glaive",
+            "plays": 6
+        },
+        {
+            "album_name": "BROWN BOY",
+            "artist_name": "ABHIR",
             "plays": 5
         },
         {
             "album_name": "Absolutely",
             "artist_name": "Dijon",
             "plays": 5
-        },
-        {
-            "album_name": "BROWN BOY",
-            "artist_name": "ABHIR",
-            "plays": 4
-        },
-        {
-            "album_name": "BETA",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 4
         }
     ]
 }
