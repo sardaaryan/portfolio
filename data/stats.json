@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-17T22:20:16.214093",
-    "total_listening_time": "9h 17m",
+    "last_updated": "2026-06-18T12:02:17.813071",
+    "total_listening_time": "11h 17m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
@@ -8,11 +8,11 @@
         },
         {
             "artist_name": "C418",
-            "plays": 10
+            "plays": 15
         },
         {
             "artist_name": "MF DOOM",
-            "plays": 9
+            "plays": 10
         },
         {
             "artist_name": "ABHIR",
@@ -35,18 +35,18 @@
             "plays": 5
         },
         {
+            "track_name": "click forever",
+            "artist_name": "C418",
+            "plays": 3
+        },
+        {
             "track_name": "Turn It Up",
             "artist_name": "slayr",
             "plays": 3
         },
         {
-            "track_name": "Baby baby",
-            "artist_name": "ABHIR",
-            "plays": 3
-        },
-        {
-            "track_name": "The Dress",
-            "artist_name": "Dijon",
+            "track_name": "click",
+            "artist_name": "C418",
             "plays": 3
         }
     ],
@@ -54,12 +54,12 @@
         {
             "album_name": "Cookie Clicker",
             "artist_name": "C418",
-            "plays": 10
+            "plays": 15
         },
         {
             "album_name": "MM..FOOD",
             "artist_name": "MF DOOM",
-            "plays": 9
+            "plays": 10
         },
         {
             "album_name": "Y\u2019all",
