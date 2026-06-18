@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-18T12:02:17.813071",
-    "total_listening_time": "11h 17m",
+    "last_updated": "2026-06-18T22:30:19.708140",
+    "total_listening_time": "12h 51m",
     "top_artists_weekly": [
         {
             "artist_name": "glaive",
@@ -12,7 +12,7 @@
         },
         {
             "artist_name": "MF DOOM",
-            "plays": 10
+            "plays": 11
         },
         {
             "artist_name": "ABHIR",
@@ -35,11 +35,6 @@
             "plays": 5
         },
         {
-            "track_name": "click forever",
-            "artist_name": "C418",
-            "plays": 3
-        },
-        {
             "track_name": "Turn It Up",
             "artist_name": "slayr",
             "plays": 3
@@ -47,6 +42,11 @@
         {
             "track_name": "click",
             "artist_name": "C418",
+            "plays": 3
+        },
+        {
+            "track_name": "Nouveau Riche",
+            "artist_name": "glaive",
             "plays": 3
         }
     ],
@@ -72,8 +72,8 @@
             "plays": 7
         },
         {
-            "album_name": "Absolutely",
-            "artist_name": "Dijon",
+            "album_name": "BROWN BOY",
+            "artist_name": "ABHIR",
             "plays": 5
         }
     ]
