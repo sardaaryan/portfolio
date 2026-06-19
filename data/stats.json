@@ -1,10 +1,14 @@
 {
-    "last_updated": "2026-06-19T12:30:55.286670",
-    "total_listening_time": "13h 54m",
+    "last_updated": "2026-06-19T21:43:26.525152",
+    "total_listening_time": "15h 2m",
     "top_artists_weekly": [
         {
             "artist_name": "C418",
             "plays": 19
+        },
+        {
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 18
         },
         {
             "artist_name": "glaive",
@@ -12,15 +16,11 @@
         },
         {
             "artist_name": "MF DOOM",
-            "plays": 13
+            "plays": 14
         },
         {
             "artist_name": "ABHIR",
             "plays": 8
-        },
-        {
-            "artist_name": "Dijon",
-            "plays": 5
         }
     ],
     "top_tracks_weekly": [
@@ -40,12 +40,12 @@
             "plays": 4
         },
         {
-            "track_name": "hover",
+            "track_name": "ascend",
             "artist_name": "C418",
             "plays": 4
         },
         {
-            "track_name": "click",
+            "track_name": "hover",
             "artist_name": "C418",
             "plays": 4
         }
@@ -57,9 +57,14 @@
             "plays": 19
         },
         {
+            "album_name": "BETA",
+            "artist_name": "Peter Cat Recording Co.",
+            "plays": 18
+        },
+        {
             "album_name": "MM..FOOD",
             "artist_name": "MF DOOM",
-            "plays": 12
+            "plays": 13
         },
         {
             "album_name": "Y\u2019all",
@@ -70,11 +75,6 @@
             "album_name": "God Save The Three",
             "artist_name": "glaive",
             "plays": 7
-        },
-        {
-            "album_name": "BROWN BOY",
-            "artist_name": "ABHIR",
-            "plays": 5
         }
     ]
 }
