@@ -1,6 +1,6 @@
 {
-    "last_updated": "2026-06-20T10:57:45.118078",
-    "total_listening_time": "15h 33m",
+    "last_updated": "2026-06-20T21:46:56.903768",
+    "total_listening_time": "15h 58m",
     "top_artists_weekly": [
         {
             "artist_name": "C418",
@@ -8,7 +8,7 @@
         },
         {
             "artist_name": "Peter Cat Recording Co.",
-            "plays": 18
+            "plays": 19
         },
         {
             "artist_name": "glaive",
@@ -40,26 +40,26 @@
             "plays": 4
         },
         {
-            "track_name": "grandmapocalypse",
+            "track_name": "ascend",
             "artist_name": "C418",
             "plays": 4
         },
         {
-            "track_name": "hover",
+            "track_name": "grandmapocalypse",
             "artist_name": "C418",
             "plays": 4
         }
     ],
     "top_albums_weekly": [
         {
-            "album_name": "Cookie Clicker",
-            "artist_name": "C418",
+            "album_name": "BETA",
+            "artist_name": "Peter Cat Recording Co.",
             "plays": 19
         },
         {
-            "album_name": "BETA",
-            "artist_name": "Peter Cat Recording Co.",
-            "plays": 18
+            "album_name": "Cookie Clicker",
+            "artist_name": "C418",
+            "plays": 19
         },
         {
             "album_name": "MM..FOOD",
